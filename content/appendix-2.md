@@ -3,6 +3,8 @@ title: Dealer Biographies
 subtitle: 
 short_title: Dealer Biographies
 layout: essay
+contributor:
+  - id: nbudrovich
 order: 50
 ---
 

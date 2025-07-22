@@ -3,6 +3,8 @@ title: Annotated Resource Guide
 subtitle: 
 short_title: Annotated Resource Guide
 layout: essay
+contributor:
+  - id: jbarr
 order: 40
 ---
 

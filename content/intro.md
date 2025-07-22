@@ -2,6 +2,10 @@
 title: Provenance Research for Mediterranean Antiquities
 subtitle: An Introduction
 layout: splash
+contributor:
+  - id: jbarr
+  - id: nbudrovich
+  - id: dsaunders
 order: 6
 ---
 
