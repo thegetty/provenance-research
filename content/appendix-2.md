@@ -1,6 +1,6 @@
 ---
-title: Dealer Biographies
-subtitle: 
+title: Appendix 2
+subtitle: Dealer Biographies
 short_title: Dealer Biographies
 layout: essay
 contributor:
