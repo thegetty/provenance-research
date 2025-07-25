@@ -10,8 +10,6 @@ contributor:
 order: 600
 ---
 
-\[Acks—ProvResearch\]
-
 Acknowledgments
 
 TK TK TK
