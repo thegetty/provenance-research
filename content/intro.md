@@ -80,8 +80,6 @@ Each chapter in this publication approaches provenance research in distinct ways
 
 [^1]: 83.AI.47; <https://www.getty.edu/art/collection/object/105Z4V>.
 
-    https://www.getty.edu/art/collection/object/105Z4V
-
 [^2]: See further \$\$Scalf forthcoming\$\$, and an online discussion between Judith Barr and Heba Abd el Gawad, “‘Unwrapping’ the Book of the Dead at the Getty,” on January 26, 2024; <https://www.youtube.com/watch?v=enL-UWsHZ9k>. Three of the wrappings were featured in the Getty Villa exhibition *The Egyptian Book of the Dead* (November 1, 2023–January 29, 2024); see <https://www.getty.edu/art/exhibitions/book_of_dead/>.
 
 [^3]: 70.AA.109; <https://www.getty.edu/art/collection/object/103QSP>.
@@ -92,7 +90,7 @@ Each chapter in this publication approaches provenance research in distinct ways
 
 [^6]: See \$\$Felch and Frammolino 2011 \| 26–37\$\$.
 
-[^7]: See \$\$True 2000 \| 138–39\$\$, and [<https://www.documentcloud.org/documents/97242-1987-acquisition-policy>.]{.underline}
+[^7]: See \$\$True 2000 \| 138–39\$\$, and <https://www.documentcloud.org/documents/97242-1987-acquisition-policy>.
 
 [^8]: Quoted from \$\$Getty Trust 2006\$\$.
 
@@ -104,13 +102,13 @@ Each chapter in this publication approaches provenance research in distinct ways
 
 [^12]: See \$\$Eakin 2007\$\$; \$\$Eakin 2010\$\$.
 
-[^13]: See \$\$Getty Trust 2006\$\$. Also, in 2016 the museum Board of Trustees established an antiquities review committee. For the current acquisitions policy, approved in 2019, see [[https://www.getty.edu/about/governance/pdfs/acquisitions_policy.pdf]{.underline}](https://www.getty.edu/about/governance/pdfs/acquisitions_policy.pdf).
+[^13]: See \$\$Getty Trust 2006\$\$. Also, in 2016 the museum Board of Trustees established an antiquities review committee. For the current acquisitions policy, approved in 2019, see https://www.getty.edu/about/governance/pdfs/acquisitions_policy.pdf.
 
-[^14]: On Becchina, see [[https://traffickingculture.org/encyclopedia/case-studies/gianfranco-becchina/]{.underline}](https://traffickingculture.org/encyclopedia/case-studies/gianfranco-becchina/). On Symes, see \$\$Swains 2017\$\$; the Museum of Ancient Art and Archaeology at Aarhus University has undertaken a project to research approximately 1,500 South Italian vase fragments from Symes’s Geneva warehouse: [[https://antikmuseet.au.dk/en/research/apulian-pottery-from-the-antiquities-market]{.underline}](https://antikmuseet.au.dk/en/research/apulian-pottery-from-the-antiquities-market). On White, see \$\$Bowley and Mashberg 2023\$\$. On Steinhardt, see \$\$Mashberg 2021\$\$.
+[^14]: On Becchina, see https://traffickingculture.org/encyclopedia/case-studies/gianfranco-becchina/. On Symes, see \$\$Swains 2017\$\$; the Museum of Ancient Art and Archaeology at Aarhus University has undertaken a project to research approximately 1,500 South Italian vase fragments from Symes’s Geneva warehouse: https://antikmuseet.au.dk/en/research/apulian-pottery-from-the-antiquities-market. On White, see \$\$Bowley and Mashberg 2023\$\$. On Steinhardt, see \$\$Mashberg 2021\$\$.
 
-[^15]: Press releases documenting these returns are archived on the Getty website at “Antiquities: Working Toward a Just Resolution”; [[https://www.getty.edu/news/antiquities-working-toward-a-just-resolution/]{.underline}](https://www.getty.edu/news/antiquities-working-toward-a-just-resolution/). On the legal rulings and arguments regarding ownership of the bronze Statue of a Victorious Youth (77.AB.30; <https://www.getty.edu/art/collection/object/103QSX>), see [[https://www.getty.edu/news/talking-about-the-getty-bronze/]{.underline}](https://www.getty.edu/news/talking-about-the-getty-bronze/) and \$\$Li and Sargent 2017\$\$.
+[^15]: Press releases documenting these returns are archived on the Getty website at “Antiquities: Working Toward a Just Resolution”; https://www.getty.edu/news/antiquities-working-toward-a-just-resolution/. On the legal rulings and arguments regarding ownership of the bronze Statue of a Victorious Youth (77.AB.30; <https://www.getty.edu/art/collection/object/103QSX>), see https://www.getty.edu/news/talking-about-the-getty-bronze/ and \$\$Li and Sargent 2017\$\$.
 
-[^16]: See further [[https://www.getty.edu/museum/provenance/index.html]{.underline}](https://www.getty.edu/museum/provenance/index.html).
+[^16]: See further https://www.getty.edu/museum/provenance/index.html.
 
 [^17]: E.g., \$\$Barr 2018a\$\$; \$\$Cole, Barr, and Campbell 2018\$\$; \$\$Barr 2019\$\$; \$\$Budrovich 2019\$\$; \$\$Barr 2020\$\$; \$\$Saunders, Barr, and Budrovich 2021\$\$; \$\$Lapatin 2022\$\$; \$\$Lyons 2023\$\$.
 

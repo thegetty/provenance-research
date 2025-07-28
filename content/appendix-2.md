@@ -300,7 +300,7 @@ Based in Frankfurt, Yeganeh dealt primarily in antiquities. The name of his wife
 
 [^50]: \$\$*New York Times* 1984\$\$; additional biographical details from \$\$Ogbechie 2019\$\$.
 
-[^51]: Mathias Komor Photographic Archive, 1934–1978, The Getty Research Institute, Los Angeles, accession no. 89.P.5, <http://hdl.handle.net/10020/cifa89p5>. Additional correspondence archives are held by other institutions, some of which include: University of Missouri, Museum of Art and Archaeology, Administrative Records, Box 5 FF 46, Mathias Komor: New York, 1960–1981; Philadelphia Museum of Art archives, Henry P. McIlhenny Papers: V. Art collection: B. Objects by genre, Box 77, Folder 2: Ceramics. Mathias Komor \[firm\]. 1946–1950; Cleveland Museum of Art, Ingalls Library and Museum Archives, Records of the Director's Office: William Mathewson Milliken, 1930–1958, Series 1, Box 25, folder 2: Komor, Mathias, 1946–1957.
+[^51]: Mathias Komor Photographic Archive, 1934–1978, The Getty Research Institute, Los Angeles, accession no. 89.P.5, <http://hdl.handle.net/10020/cifa89p5>. Additional correspondence archives are held by other institutions, some of which include: University of Missouri, Museum of Art and Archaeology, Administrative Records, Box 5 FF 46, Mathias Komor: New York, 1960–1981; Philadelphia Museum of Art archives, Henry P. McIlhenny Papers: V. Art collection: B. Objects by genre, Box 77, Folder 2: Ceramics. Mathias Komor [firm]. 1946–1950; Cleveland Museum of Art, Ingalls Library and Museum Archives, Records of the Director's Office: William Mathewson Milliken, 1930–1958, Series 1, Box 25, folder 2: Komor, Mathias, 1946–1957.
 
 [^52]: For an example of a Louis de Clercq and Henri de Boisgelin provenance, see \$\$Sotheby’s 2018\$\$, lot 16.
 
