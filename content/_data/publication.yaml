@@ -43,7 +43,7 @@ publisher:
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears: Edited by<br />Judith Barr<br />Nicole Budrovich<br />David Saunders<br /><br />with contributions by<br />Stephen W. Clark<br />C. Brian Rose<br />Stephen K. Urice
+contributor_as_it_appears:
 
 contributor:
   - id: jbarr

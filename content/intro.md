@@ -1,4 +1,5 @@
 ---
+label: #
 title: Provenance Research for Mediterranean Antiquities
 subtitle: An Introduction
 short_title: Introduction
