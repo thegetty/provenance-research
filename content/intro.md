@@ -3,7 +3,7 @@ label: #
 title: Provenance Research for Mediterranean Antiquities
 subtitle: An Introduction
 short_title: Introduction
-layout: splash
+layout: essay
 contributor:
   - id: jbarr
   - id: nbudrovich
