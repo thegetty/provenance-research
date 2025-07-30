@@ -81,65 +81,65 @@ Each chapter in this publication approaches provenance research in distinct ways
 
 [^1]: 83.AI.47; <https://www.getty.edu/art/collection/object/105Z4V>.
 
-[^2]: See further \$\$Scalf forthcoming\$\$, and an online discussion between Judith Barr and Heba Abd el Gawad, “‘Unwrapping’ the Book of the Dead at the Getty,” on January 26, 2024; <https://www.youtube.com/watch?v=enL-UWsHZ9k>. Three of the wrappings were featured in the Getty Villa exhibition *The Egyptian Book of the Dead* (November 1, 2023–January 29, 2024); see <https://www.getty.edu/art/exhibitions/book_of_dead/>.
+[^2]: See further {% cite 'Scalf forthcoming' %}, and an online discussion between Judith Barr and Heba Abd el Gawad, “‘Unwrapping’ the Book of the Dead at the Getty,” on January 26, 2024; <https://www.youtube.com/watch?v=enL-UWsHZ9k>. Three of the wrappings were featured in the Getty Villa exhibition *The Egyptian Book of the Dead* (November 1, 2023–January 29, 2024); see <https://www.getty.edu/art/exhibitions/book_of_dead/>.
 
 [^3]: 70.AA.109; <https://www.getty.edu/art/collection/object/103QSP>.
 
 [^4]: About 20,000 of these are pottery fragments, 8,700 are coins, and 1,000 are mosaic tesserae; approximately 1,200 items are on view at the Getty Villa.
 
-[^5]: The very first being the Mazarin Venus (54.AA.11; <https://www.getty.edu/art/collection/object/103SNC>), on which see \$\$Barr 2019\$\$.
+[^5]: The very first being the Mazarin Venus (54.AA.11; <https://www.getty.edu/art/collection/object/103SNC>), on which see {% cite 'Barr 2019' %}.
 
-[^6]: See \$\$Felch and Frammolino 2011 \| 26–37\$\$.
+[^6]: See {% cite 'Felch and Frammolino 2011' '26–37' %}.
 
-[^7]: See \$\$True 2000 \| 138–39\$\$, and <https://www.documentcloud.org/documents/97242-1987-acquisition-policy>.
+[^7]: See {% cite 'True 2000' '138–39' %}, and <https://www.documentcloud.org/documents/97242-1987-acquisition-policy>.
 
-[^8]: Quoted from \$\$Getty Trust 2006\$\$.
+[^8]: Quoted from {% cite 'Getty Trust 2006' %}.
 
-[^9]: See further \$\$van der Wielen-van Ommeren and de Lachenal 2007–2008\$\$.
+[^9]: See further {% cite 'van der Wielen-van Ommeren and de Lachenal 2007–2008' %}.
 
-[^10]: The AIA would pass their official Resolution on the Acquisition of Antiquities by Museums on December 30, 1973: <https://www.archaeological.org/wp-content/uploads/2019/05/Resolution-on-the-Acquisition-of-Antiquities-by-Museums.pdf>; on UNESCO, see \$\$UNESCO 1970\$\$.
+[^10]: The AIA would pass their official Resolution on the Acquisition of Antiquities by Museums on December 30, 1973: <https://www.archaeological.org/wp-content/uploads/2019/05/Resolution-on-the-Acquisition-of-Antiquities-by-Museums.pdf>; on UNESCO, see {% cite 'UNESCO 1970' %}.
 
-[^11]: See \$\$Watson and Todeschini 2007\$\$; <https://traffickingculture.org/encyclopedia/case-studies/organigram/>.
+[^11]: See {% cite 'Watson and Todeschini 2007' %}; <https://traffickingculture.org/encyclopedia/case-studies/organigram/>.
 
-[^12]: See \$\$Eakin 2007\$\$; \$\$Eakin 2010\$\$.
+[^12]: See {% cite 'Eakin 2007' %}; {% cite 'Eakin 2010' %}.
 
-[^13]: See \$\$Getty Trust 2006\$\$. Also, in 2016 the museum Board of Trustees established an antiquities review committee. For the current acquisitions policy, approved in 2019, see https://www.getty.edu/about/governance/pdfs/acquisitions_policy.pdf.
+[^13]: See {% cite 'Getty Trust 2006' %}. Also, in 2016 the museum Board of Trustees established an antiquities review committee. For the current acquisitions policy, approved in 2019, see https://www.getty.edu/about/governance/pdfs/acquisitions_policy.pdf.
 
-[^14]: On Becchina, see https://traffickingculture.org/encyclopedia/case-studies/gianfranco-becchina/. On Symes, see \$\$Swains 2017\$\$; the Museum of Ancient Art and Archaeology at Aarhus University has undertaken a project to research approximately 1,500 South Italian vase fragments from Symes’s Geneva warehouse: https://antikmuseet.au.dk/en/research/apulian-pottery-from-the-antiquities-market. On White, see \$\$Bowley and Mashberg 2023\$\$. On Steinhardt, see \$\$Mashberg 2021\$\$.
+[^14]: On Becchina, see https://traffickingculture.org/encyclopedia/case-studies/gianfranco-becchina/. On Symes, see {% cite 'Swains 2017' %}; the Museum of Ancient Art and Archaeology at Aarhus University has undertaken a project to research approximately 1,500 South Italian vase fragments from Symes’s Geneva warehouse: https://antikmuseet.au.dk/en/research/apulian-pottery-from-the-antiquities-market. On White, see {% cite 'Bowley and Mashberg 2023' %}. On Steinhardt, see {% cite 'Mashberg 2021' %}.
 
-[^15]: Press releases documenting these returns are archived on the Getty website at “Antiquities: Working Toward a Just Resolution”; https://www.getty.edu/news/antiquities-working-toward-a-just-resolution/. On the legal rulings and arguments regarding ownership of the bronze Statue of a Victorious Youth (77.AB.30; <https://www.getty.edu/art/collection/object/103QSX>), see https://www.getty.edu/news/talking-about-the-getty-bronze/ and \$\$Li and Sargent 2017\$\$.
+[^15]: Press releases documenting these returns are archived on the Getty website at “Antiquities: Working Toward a Just Resolution”; https://www.getty.edu/news/antiquities-working-toward-a-just-resolution/. On the legal rulings and arguments regarding ownership of the bronze Statue of a Victorious Youth (77.AB.30; <https://www.getty.edu/art/collection/object/103QSX>), see https://www.getty.edu/news/talking-about-the-getty-bronze/ and {% cite 'Li and Sargent 2017' %}.
 
 [^16]: See further https://www.getty.edu/museum/provenance/index.html.
 
-[^17]: E.g., \$\$Barr 2018a\$\$; \$\$Cole, Barr, and Campbell 2018\$\$; \$\$Barr 2019\$\$; \$\$Budrovich 2019\$\$; \$\$Barr 2020\$\$; \$\$Saunders, Barr, and Budrovich 2021\$\$; \$\$Lapatin 2022\$\$; \$\$Lyons 2023\$\$.
+[^17]: E.g., {% cite 'Barr 2018a' %}; {% cite 'Cole, Barr, and Campbell 2018' %}; {% cite 'Barr 2019' %}; {% cite 'Budrovich 2019' %}; {% cite 'Barr 2020' %}; {% cite 'Saunders, Barr, and Budrovich 2021' %}; {% cite 'Lapatin 2022' %}; {% cite 'Lyons 2023' %}.
 
-[^18]: E.g., \$\$Budrovich 2017\$\$; \$\$Barr 2018b\$\$; \$\$Budrovich 2018\$\$; \$\$Budrovich 2020\$\$; \$\$Maish, Barr, and Elshahawi 2020\$\$.
+[^18]: E.g., {% cite 'Budrovich 2017' %}; {% cite 'Barr 2018b' %}; {% cite 'Budrovich 2018' %}; {% cite 'Budrovich 2020' %}; {% cite 'Maish, Barr, and Elshahawi 2020' %}.
 
-[^19]: E.g., \$\$Belis 2016\$\$; \$\$Tsiafakis 2019\$\$.
+[^19]: E.g., {% cite 'Belis 2016' %}; {% cite 'Tsiafakis 2019' %}.
 
 [^20]: See <https://www.getty.edu/news/connecting-the-provenance-of-antiquities-collections/>.
 
-[^21]: See, e.g., \$\$Rhodes 2007\$\$; \$\$La Follette 2017\$\$; \$\$Hopkins, Costello, and Davis 2021\$\$.
+[^21]: See, e.g., {% cite 'Rhodes 2007' %}; {% cite 'La Follette 2017' %}; {% cite 'Hopkins, Costello, and Davis 2021' %}.
 
-[^22]: On these terms, see \$\$Gosden and Marshall 1999\$\$ and \$\$Joy 2009\$\$.
+[^22]: On these terms, see {% cite 'Gosden and Marshall 1999' %} and {% cite 'Joy 2009' %}.
 
-[^23]: \$\$Joyce 2012 \| 48\$\$.
+[^23]: {% cite 'Joyce 2012' '48' %}.
 
-[^24]: See \$\$Marlowe 2013\$\$, noting that both categories “contain within them a long, sliding, epistemological scale” (6). In \$\$Marlowe 2016 \| 224\$\$, a “grounded” object is one whose findspot is “specific, reliable, documented.”
+[^24]: See {% cite 'Marlowe 2013' %}, noting that both categories “contain within them a long, sliding, epistemological scale” (6). In {% cite 'Marlowe 2016' '224' %}, a “grounded” object is one whose findspot is “specific, reliable, documented.”
 
-[^25]: See esp. \$\$Watson 1997\$\$; \$\$Watson and Todeschini 2007\$\$; \$\$Felch and Frammolino 2011\$\$.
+[^25]: See esp. {% cite 'Watson 1997' %}; {% cite 'Watson and Todeschini 2007' %}; {% cite 'Felch and Frammolino 2011' %}.
 
 [^26]: See above, n. 10.
 
-[^27]: Soon followed by popular trade and academic publications; see \$\$Meyer 1973\$\$, one of the first book-length treatments of the subject.
+[^27]: Soon followed by popular trade and academic publications; see {% cite 'Meyer 1973' %}, one of the first book-length treatments of the subject.
 
-[^28]: \$\$Bald Romano 2023\$\$. Between 1933 and 1945, many artworks and collections were sold under duress, confiscated, stolen, or otherwise taken by the Nazis.
+[^28]: {% cite 'Bald Romano 2023' %}. Between 1933 and 1945, many artworks and collections were sold under duress, confiscated, stolen, or otherwise taken by the Nazis.
 
-[^29]: \$\$Yeide, Akinsha, and Walsh 2001\$\$. Here, "red flag" names are those that warrant further research when they appear as part of a provenance; \$\$Yeide, Akinsha, and Walsh 2001 \| 50–51\$\$.
+[^29]: {% cite 'Yeide, Akinsha, and Walsh 2001' %}. Here, "red flag" names are those that warrant further research when they appear as part of a provenance; {% cite 'Yeide, Akinsha, and Walsh 2001' '50–51' %}.
 
 [^30]: Compare, in Germany, the Arbeitskreis Provenienzforschung e. V.: <https://www.arbeitskreis-provenienzforschung.org/en/home/>; and in France, the newly formed Collectif pluridisciplinaire de recherche de provenances (CPRProvenances): <https://cprprovenances.eu/>.
 
-[^31]: \$\$Sarr and Savoy 2018\$\$.
+[^31]: {% cite 'Sarr and Savoy 2018' %}.
 
 [^32]: See <https://www.culture.gouv.fr/en/Thematic/Europe-and-International/News/Official-launch-of-the-Franco-German-Fund-for-the-Provenance-of-Cultural-Objects-from-Sub-Saharan-African-Countries.>
 
@@ -147,9 +147,9 @@ Each chapter in this publication approaches provenance research in distinct ways
 
 [^34]: In 2020 the Archaeological Institute of America revised its policy on the publication of undocumented antiquities in their *American Journal of Archaeology*, one of the leading journals for the study of Mediterranean antiquities in the United States. In addition to restrictions on what can be published in the journal, there are also stipulations on the information that authors need to provide when citing an object; see <https://www.ajaonline.org/submissions/antiquities-policy>.
 
-[^35]: See, e.g., \$\$Elia 2001\$\$; \$\$Nørskov 2002\$\$; \$\$Angelicoussis et al. 2017\$\$; \$\$Furlotti 2019\$\$.
+[^35]: See, e.g., {% cite 'Elia 2001' %}; {% cite 'Nørskov 2002' %}; {% cite 'Angelicoussis et al. 2017' %}; {% cite 'Furlotti 2019' %}.
 
-[^36]: For perspectives of those within museums, see \$\$Hoving 1993\$\$; \$\$True 2000\$\$; \$\$Vikan 2013\$\$. Insightful also are oral interviews conducted during the 1990s with key figures in the fields of Mediterranean antiquities and museums, available as digital transcripts; see, e.g., \$\$Boardman 1996\$\$; \$\$Vermeule 1997\$\$; \$\$von Bothmer 1997\$\$.
+[^36]: For perspectives of those within museums, see {% cite 'Hoving 1993' %}; {% cite 'True 2000' %}; {% cite 'Vikan 2013' %}. Insightful also are oral interviews conducted during the 1990s with key figures in the fields of Mediterranean antiquities and museums, available as digital transcripts; see, e.g., {% cite 'Boardman 1996' %}; {% cite 'Vermeule 1997' %}; {% cite 'von Bothmer 1997' %}.
 
 [^37]: Among these are the Metropolitan Museum of Art; the Art Institute of Chicago; Yale University Art Gallery; Princeton University Art Museum; San Antonio Museum of Art; Denver Museum of Art; Brooklyn Museum of Art; the Michael C. Carlos Museum at Emory University; the National Museum of Asian Art; and the Worcester Art Museum.
 
