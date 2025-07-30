@@ -8,7 +8,7 @@ contributor:
 order: 40
 ---
 
-## **Introduction**
+## Introduction
 
 In creating this resource guide, we hope to provide some roadmaps for researching the provenance of specific objects or collections. This appendix is structured around four main sections, with an overview of literature and top-level resources, followed by a breakdown of archives as laid out in [chapter 2](/2/): object-focused resources, event-focused resources, and individual-focused resources. Suggested literature is provided throughout. Further edits and updates will appear online through iterative versions of this appendix.
 
@@ -22,7 +22,7 @@ Because the afterlives of antiquities are rarely linear, successful searches rel
 
 To aid in identifying materials, where possible we have included contextual information about the date of the material, scope of the collection, including material relevant to artwork from outside the Mediterranean, and additional notes about using the resource. This resource guide cannot list every archive in every category and so it is intended more as a comprehensive guide to types of resources, with specific archives or titles highlighted as examples. The particular dealers, donors, collectors, and academics most relevant to your search will guide your choices of archives.
 
-## **Top Level Resources for Getting Started**
+## Top Level Resources for Getting Started
 
 ### Guidelines
 
@@ -460,7 +460,7 @@ https://egyptartefacts.griffith.ox.ac.uk/resources/object-marks
 
 Though focused on Egyptian artifacts, a very useful resource regarding object marks.
 
-## **Object-Focused Resources**
+## Object-Focused Resources
 
 Object-focused resources are centered around categories of objects, which we have further divided up here into sub-categories of iconographic, object type, and culture.
 
@@ -710,7 +710,7 @@ Bärnighausen, Julia. “Bureaucratic Hybrids: Photographs from the Galleria San
 
 See [chapter 2](/2/#assembling-provenance-information) for our discussion of using photographs as an information source for antiquities and some cautions regarding their analysis.
 
-## **Event-Focused Resources**
+## Event-Focused Resources
 
 ### Auctions 
 
@@ -892,7 +892,7 @@ https://archivesdiplomatiques.diplomatie.gouv.fr/ark:/14366/xdm9rgwv5nt1
 
 This new resource is the ongoing digitization of the inventories and archival files of the French Diplomatic Archives. Of particular note are the inventories of the Einsatzstab Reichsleiter Rosenberg (ERR) (1940–59) and the Albums de photographies (1940–50), preserving images of family and institutional art collections, including Mediterranean antiquities.
 
-## **Individual-Focused Resources**
+## Individual-Focused Resources
 
 As throughout the book, we define individual-focused resources as those primarily relating to the activities of a specific individual, firm, or institution, such as a collector, dealer, art historian, or family; see the case studies in chapter 2 for additional references. Individual-focused resources might include dealer or collector memoirs, archives, study photograph collections, and exhibition or collection ephemera like check lists or advertisements. Collating references to individuals across multiple archives—for example, sporadic appearances of correspondence between collectors and dealers preserved in separate locations—is essential. For this, invaluable resources are projects like the **Archives Directory for the History of Collecting in America** (<https://research.frick.org/directory>) or union catalogues like the **Kalliope Union Catalog** (<https://kalliope-verbund.info/en/>), which retains records relating to archives in Germany, Austria, Switzerland, and related material from other international archives. **National archival repositories** (e.g., <https://www.nationalarchives.gov.uk/>) often house family and business materials. There are too many relevant archives to enumerate here; the list below focuses on late nineteenth- and twentieth-century archives, with an emphasis on American archival sources.
 
