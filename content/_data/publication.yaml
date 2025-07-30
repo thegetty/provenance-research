@@ -20,7 +20,7 @@ short_title:
 
 description:
   one_line:
-  full: ""
+  full: "The first of its kind, this book is an accessible, comprehensive primer of methods and resources for researching the provenance of Mediterranean (Greek, Roman, and Etruscan) antiquities. In addition to outlining effective strategies for documentation and investigation, the volume features an annotated guide to key archives, databases, and twentieth-century dealers to facilitate a broad spectrum of research endeavors. Building upon a decade-long review of the Getty Museum’s antiquities collection, it draws together instructive case studies, legal perspectives, and practical experience to provide an efficient first point of reference for museum professionals, scholars, collectors, and students. The book aims to emphasize the need for diligent provenance research and to shorten the learning curve for such projects.<br/>The free online edition of this open-access publication is available at getty.edu/publications/provenance-research and includes zoomable illustrations. Also available are free PDF and EPUB downloads of the book."
 
 # ------------------------------------------------------------------------------
 # Publication Details
@@ -31,13 +31,27 @@ language: en
 pub_type: book # book | journal-periodical | other
 
 identifier:
-  isbn:
+  isbn: "979-8-88712-024-9"
+  url: ""
 
 publisher:
   - name: J. Paul Getty Trust
     location: Los Angeles
-    url:
+    url: https://www.getty.edu/publications/
     logo: logo-getty.png
+    address: |
+      Getty Publications
+      1200 Getty Center Drive, Suite 500
+      Los Angeles, California 90049-1682
+      [getty.edu/publications](https://www.getty.edu/publications/)
+
+project_team:
+  - Rachel Barth, *Editor*
+  - Greg Albers, *Digital Publications Manager*
+  - Dani Grossman, *Design*
+  - Molly McGeehan, *Production*
+  - Nancy Rivera, *Image and Rights Acquisition*
+  - Erin Cecele Dunigan, Jenny Park, and Alex Hallenbeck, *Digital Assistants*
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -160,7 +174,7 @@ subject:
     name: 
     identifer: 
   - type: keywords
-    name: 
+    name: "Reference, Guidebook, Greek, Roman, Etruscan, Egyptian, Near Eastern, Byzantine, open-access, accessible primer, methods, resources, collecting history, investigation, annotated guide to key archives, databases, twentieth-century dealers, case studies, legal perspectives, UNESCO, acquisitions, red line, advocacy, cultural heritage, museums, institutions, Spink and Son, Brummer Galleries, French and Company, Nicolas Koutoulakis, Burton Fredericksen, Bernard Ashmole, Jean Charbonneaux, Jiri Frel, Marion True, Barbara Fleischman, Lawrence Fleischman, tombaroli, tomb robbers, Giacomo Medici, Bianfranco Becchin, Robin Symes, Shelby White, Michael Steinhardt"
 
 # ------------------------------------------------------------------------------
 # Revision History
@@ -168,9 +182,10 @@ subject:
 
 revision_history:
   - date:
-    summary:
+    summary: March 1, 2026
+      - First edition
 
-repository_url:
+repository_url: https://github.com/thegetty/provenance-research
 
 # ------------------------------------------------------------------------------
 # Promo Image
