@@ -60,3 +60,6 @@ Any revisions or corrections made to this publication after the date of the firs
 
 {{ publication.library_of_congress_cip | markdownify }}
 
+This publication was peer reviewed through a single-masked process in which the reviewers remained anonymous.
+
+Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings. 
