@@ -224,7 +224,7 @@ Based in Frankfurt, Yeganeh dealt primarily in antiquities. The name of his wife
 
 [^12]: {% cite 'Watson and Todeschini 2007' '292–93' %}.
 
-[^13]: The addresses of the Basel and Paris galleries are given in {% cite 'Hoffman and Cahn 1971' %}; in some sources, the Paris gallery is called Archéologie Classique et du Proche-Orient.
+[^13]: The addresses of the Basel and Paris galleries are given in {% cite 'Hoffmann and Cahn 1971' %}; in some sources, the Paris gallery is called Archéologie Classique et du Proche-Orient.
 
 [^14]: The relation of Nina Borowski to Elie Borowski is unconfirmed, but both have advertisements with the 40 Rue du Bac, Paris, address. Nina Borowski produced a few catalogues; additional references to art fair exhibitions for the Paris gallery are found in *Artis* and *Die Weltkunst*.
 
@@ -324,19 +324,19 @@ Based in Frankfurt, Yeganeh dealt primarily in antiquities. The name of his wife
 
 [^62]: {% cite 'Solis-Cohen 1990' %}; and see the Hecht biography above.
 
-[^63]: For a detailed discussion of Medici’s family and childhood, see {% cite 'Watson Todeschini 2007' '153' %}; {% cite 'Silver 2009' '11–14' %}; {% cite 'Hecht 2014' '24' %}.
+[^63]: For a detailed discussion of Medici’s family and childhood, see {% cite 'Watson and Todeschini 2007' '153' %}; {% cite 'Silver 2009' '11–14' %}; {% cite 'Hecht 2014' '24' %}.
 
 [^64]: The pharmacist Pesciotti (first name Cima or Angelo) had official permission to build his collection since it was to be donated to the state; {% cite 'Silver 2009' '25' %}. According to Hecht’s memoir, Medici acquired these antiquities from “clandestine diggers” in Central Italy and these looted objects either stayed in the Pesciotti collection, now in the National Etruscan Museum (Villa Giulia) in Rome, or were sold on the market through Herbert Cahn; {% cite 'Hecht 2014' '14' %}.
 
 [^65]: {% cite 'Hecht 2014' '25–27' %}.
 
-[^66]: {% cite 'Watson Todeschini 2007' '154' %}, {% cite 'Watson Todeschini 2007' '200–202' %}, {% cite 'Watson Todeschini 2007' '206–7' %}.
+[^66]: {% cite 'Watson and Todeschini 2007' '154' %}, {% cite 'Watson and Todeschini 2007' '200–202' %}, {% cite 'Watson and Todeschini 2007' '206–7' %}.
 
-[^67]: {% cite 'Watson Todeschini 2007' '27' %}; {% cite 'Silver 2009' '121–22' %}, {% cite 'Silver 2009' '139' %}.
+[^67]: {% cite 'Watson and Todeschini 2007' '27' %}; {% cite 'Silver 2009' '121–22' %}, {% cite 'Silver 2009' '139' %}.
 
-[^68]: Henri Albert Jacques managed Edition Services on behalf of Medici; Jacques also managed Xoilan Trader Inc. on behalf of Robin Symes. Other fronts include Serge Vilbert, “Guido” (Medici’s father’s name), and the company Tecafin Fiduciare. See {% cite 'Watson Todeschini 2007' '72–73' %}, {% cite 'Watson Todeschini 2007' '147–48' %}.
+[^68]: Henri Albert Jacques managed Edition Services on behalf of Medici; Jacques also managed Xoilan Trader Inc. on behalf of Robin Symes. Other fronts include Serge Vilbert, “Guido” (Medici’s father’s name), and the company Tecafin Fiduciare. See {% cite 'Watson and Todeschini 2007' '72–73' %}, {% cite 'Watson and Todeschini 2007' '147–48' %}.
 
-[^69]: The “Zbinden collection” was used as a front with Sotheby’s that was linked to Christian Boursaud; {% cite 'Watson Todeschini 2007' '95' %}.
+[^69]: The “Zbinden collection” was used as a front with Sotheby’s that was linked to Christian Boursaud; {% cite 'Watson and Todeschini 2007' '95' %}.
 
 [^70]: For a discussion of some objects identified from the archive, see {% cite 'Gill and Tsirogiannis 2016' %}; and for a summary, see {% cite 'Brodie 2023' %}, <https://traffickingculture.org/encyclopedia/case-studies/giacomo-medici/>.
 
