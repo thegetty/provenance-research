@@ -198,7 +198,11 @@ Addresses: Taunusstrasse 52,[^90] Bundenweg 7, and Telemannstrasse 5, 6, all in 
 
 Based in Frankfurt, Yeganeh dealt primarily in antiquities. The name of his wife, Gertrud Waltraud Lück-Flender, appears on some provenance documentation. He advertised in, among others, the *Jahrbuch der Hamburger Kunstsammlunge*, *Die Weltkunst*, *The Burlington Magazine*, and *Apollo*. It was he who sold the Weary Herakles to the Museum of Fine Arts, Boston, which has since been returned to Türkiye.[^91] Yeganeh dealt in objects from a range of cultures, including Greek, Roman, Iberian, South Italian, East Greek, Roman Syrian, and modern objects, although Persian and Iranian objects were a focus.[^92] His gallery produced a small catalogue in 1971, which includes two objects donated to the Getty in 1974 and 1983.[^93]
 
+{% backmatter %}
+
 ## Notes
+
+{% endbackmatter %}
 
 [^1]: See, for example, *The International Antiques Yearbook* and *Antiquities Trade Gazette*.
 

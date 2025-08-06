@@ -923,7 +923,11 @@ Dunn-Vaturi, Anne, and Erhan Tamur. “Kings, Dealers, and Librarians: The Story
 https://primo.getty.edu/permalink/f/19q6gmb/GETTY_ALMA21251920700001551
 Based in Basel, Widmer was a popular photographer for Swiss dealers, museums, and collectors throughout the second half of the twentieth century. This collection of more than 1,800 negatives preserves photographs taken for the dealer Elie Borowski (1913–2003) between 1954 and 1982, each dated by month and year. See also <http://www.fotoarchive.org/_archive/widm/info.html>.
 
+{% backmatter %}
+
 ## Notes
+
+{% endbackmatter %}
 
 [^1]: 71.AA.257. For the relief’s full provenance and bibliography references, see https://www.getty.edu/art/collection/object/103SSA.
 
