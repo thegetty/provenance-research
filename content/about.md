@@ -1,23 +1,65 @@
 ---
 title: About
 layout: page
-order: 503
+order: 1000
 outputs:
   - html
 ---
 
-This is a starter theme for [Quire](https://gettypubs.github.io/quire/), a multiformat digital publishing framework. Quire can be used to generate a web book, EPUB and MOBI e-books, and a PDF optimized for print; all from a single set of text files. 
+{{ publication.description.full }}
 
-This starter theme allows for the quick customization of a few key styles to make you publication project your own.
+## Citation Information 
 
-- Modern and Classic type styles
-- Cover and splash page images
-- Accent color
-- Background colors
-- Navigation bar style
+### Chicago 
 
-By diving further into the included style sheets and layout templates, there’s almost no limit to what can be done.
+{% citation context='publication', type='chicago' %}
 
-The text excerpts included in this starter theme come from *Walker Evans: Catalogue of the Collection* by Judith Keller (Getty Publications, 1995) available for free download in the Getty’s [Virtual Library](https://www.getty.edu/publications/virtuallibrary/0892363177.html); *In Focus: Dorothea Lange* (Getty Publications, 2002); and from the J. Paul Getty Museum online collection records.
+### MLA
 
-The images included come from the J. Paul Getty Museum online collection records under their Open Content Program. The pictures of [Dorothea Lange](https://www.loc.gov/resource/fsa.8b27245/) and [Walker Evans](https://www.loc.gov/item/2017728481/) used in the Introduction, come from the Library of Congress Prints and Photographs Division.
+{% citation context='publication', type='mla' %}
+
+### Permanent URL
+
+{{ publication.url }}
+
+## Revision History
+
+Any revisions or corrections made to this publication after the date of the first edition will be listed here and in the project repository at [{{ publication.repository_url }}]({{ publication.repository_url }}), where a more detailed version history is available. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here.
+
+{% for revision in publication.revision_history %}
+
+### {{ revision.date }}
+
+{% for item in revision.summary %}
+- {{ item | markdownify }}
+{% endfor %}
+
+{% endfor %}
+
+## Other Formats
+
+{% for link in publication.resource_link %}
+{% if link.type == "other-format" %}
+- [{{ link.name }}]({{ link.url }})
+{% endif %}
+{% endfor %}
+
+## Copyright
+
+{{ config.quire_credit_line | markdownify }}
+
+{% copyright %}
+
+{% for press in publication.publisher %}
+{{ press.address | markdownify }}
+{% endfor %}
+
+{% for person in publication.project_team %}
+- {{ person | markdownify }}
+{% endfor %}
+
+{{ publication.library_of_congress_cip | markdownify }}
+
+This publication was peer reviewed through a single-masked process in which the reviewers remained anonymous.
+
+Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings. 

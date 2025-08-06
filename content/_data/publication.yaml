@@ -13,31 +13,45 @@ url: 'https://main--provenance-research.netlify.app'
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
+title: Provenance Research for Mediterranean Antiquities
+subtitle: Methods and Resources
 reading_line:
 short_title:
 
 description:
   one_line:
-  full: "In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history."
+  full: "The first of its kind, this book is an accessible, comprehensive primer of methods and resources for researching the provenance of Mediterranean (Greek, Roman, and Etruscan) antiquities. In addition to outlining effective strategies for documentation and investigation, the volume features an annotated guide to key archives, databases, and twentieth-century dealers to facilitate a broad spectrum of research endeavors. Building upon a decade-long review of the Getty Museum’s antiquities collection, it draws together instructive case studies, legal perspectives, and practical experience to provide an efficient first point of reference for museum professionals, scholars, collectors, and students. The book aims to emphasize the need for diligent provenance research and to shorten the learning curve for such projects.<br/>The free online edition of this open-access publication is available at getty.edu/publications/provenance-research and includes zoomable illustrations. Also available are free PDF and EPUB downloads of the book."
 
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2022-12-01 # YYYY-MM-DD
+pub_date: 2026-03-01 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
 identifier:
-  isbn:
+  isbn: "979-8-88712-024-9"
+  url: ""
 
 publisher:
   - name: J. Paul Getty Trust
     location: Los Angeles
-    url:
+    url: https://www.getty.edu/publications/
     logo: logo-getty.png
+    address: |
+      Getty Publications
+      1200 Getty Center Drive, Suite 500
+      Los Angeles, California 90049-1682
+      [getty.edu/publications](https://www.getty.edu/publications/)
+
+project_team:
+  - Rachel Barth, *Editor*
+  - Greg Albers, *Digital Publications Manager*
+  - Dani Grossman, *Design*
+  - Molly McGeehan, *Production*
+  - Nancy Rivera, *Image and Rights Acquisition*
+  - Erin Cecele Dunigan, Jenny Park, and Alex Hallenbeck, *Digital Assistants*
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -46,21 +60,76 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: jkeller
+  - id: jbarr
     type: primary
+    role: editor
     first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
+    last_name: Barr
+    title: 
+    affiliation: 
+    bio: "*Judith Barr* is a curatorial assistant in the Department of Antiquities at the J. Paul Getty Museum, where she has been a part of the Antiquities Provenance Project since 2015."
+    url: 
+    image: 
 
+  - id: nbudrovich
+    type: primary
+    role: editor
+    first_name: Nicole
+    last_name: Budrovich
+    title: 
+    affiliation: 
+    bio: "*Nicole Budrovich* is a curatorial assistant in the Department of Antiquities at the J. Paul Getty Museum."
+    url: 
+    image: 
+
+  - id: dsaunders
+    type: primary
+    role: editor
+    first_name: David
+    last_name: Saunders
+    title: 
+    affiliation: 
+    bio: "*David Saunders* is associate curator of antiquities at the J. Paul Getty Museum."
+    url: 
+    image: 
+
+  - id: brose
+    type: secondary
+    role: contributor
+    first_name: C. Brian
+    last_name: Rose
+    title: 
+    affiliation: 
+    bio: "*C. Brian Rose* is the James B. Pritchard Professor of Archaeology at the University of Pennsylvania and curator-in-charge of the Mediterranean Section of the Penn Museum. He received his B.A. from Haverford College and his M.A., M.Phil., and Ph.D. from Columbia University. Between 1988 and 2012 he was head of post&ndash;Bronze Age excavations at Troy and English-language editor of **Studia Troica**. He has authored or edited four books on the archaeology of Troy and Gordion and another on dynastic commemoration in the early Roman Empire. Between 1994 and 2000 he was an academic trustee of the Archaeological Institute of America, then first vice-president (2002–6) and president (2007–11). He was deputy director of the Penn Museum between 2008 and 2011 and is a trustee of the American Academy in Rome."
+    url: 
+    image: 
+
+  - id: sclark
+    type: secondary
+    role: contributor
+    first_name: Stephen W.
+    last_name: Clark
+    title: 
+    affiliation: 
+    bio: ""
+    url: 
+    image:
+
+  - id: surice
+    type: secondary
+    role: contributor
+    first_name: Stephen K.
+    last_name: Urice
+    title: 
+    affiliation: 
+    bio: ""
+    url: 
+    image:
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2022 J. Paul Getty Trust
+copyright: © 2026 J. Paul Getty Trust
 
 license:
   name: Creative Commons Attribution 4.0 International License
@@ -101,11 +170,11 @@ resource_link:
 # ------------------------------------------------------------------------------
 
 subject:
-  - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
+  - type: 
+    name: 
+    identifer: 
   - type: keywords
-    name: photography, black-and-white, great despression
+    name: "Reference, Guidebook, Greek, Roman, Etruscan, Egyptian, Near Eastern, Byzantine, open-access, accessible primer, methods, resources, collecting history, investigation, annotated guide to key archives, databases, twentieth-century dealers, case studies, legal perspectives, UNESCO, acquisitions, red line, advocacy, cultural heritage, museums, institutions, Spink and Son, Brummer Galleries, French and Company, Nicolas Koutoulakis, Burton Fredericksen, Bernard Ashmole, Jean Charbonneaux, Jiri Frel, Marion True, Barbara Fleischman, Lawrence Fleischman, tombaroli, tomb robbers, Giacomo Medici, Bianfranco Becchin, Robin Symes, Shelby White, Michael Steinhardt"
 
 # ------------------------------------------------------------------------------
 # Revision History
@@ -113,12 +182,13 @@ subject:
 
 revision_history:
   - date:
-    summary:
+    summary: March 1, 2026
+      - First edition
 
-repository_url:
+repository_url: https://github.com/thegetty/provenance-research
 
 # ------------------------------------------------------------------------------
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: static-cover.jpg
+promo_image: 
