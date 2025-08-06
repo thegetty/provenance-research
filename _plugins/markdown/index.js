@@ -1,3 +1,4 @@
+import markdownItSup from 'markdown-it-sup'
 import { footnoteRef, footnoteTail } from './footnotes.js'
 import MarkdownIt from 'markdown-it'
 import anchorsPlugin from 'markdown-it-anchor'
@@ -44,6 +45,7 @@ export default function (eleventyConfig, options) {
     .use(bracketedSpansPlugin)
     .use(deflistPlugin)
     .use(footnotePlugin)
+    .use(markdownItSup)
 
   /**
    * Set recognition options for links without a schema
