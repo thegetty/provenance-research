@@ -8,7 +8,7 @@ contributor:
   - id: jbarr
   - id: nbudrovich
   - id: dsaunders
-order: 6
+order: 8
 ---
 
 Over a century and a half ago, long, thin linen strips inscribed with ritual spells from the Egyptian Book of the Dead were removed from the mummified remains of three individuals whose subsequent fate is unknown. The wrappings were divided up, transported out of Egypt, and entered into a variety of European collections over the course of the nineteenth century. Today, they can be found all over the world—California, New Zealand, Australia, England, Italy, Belgium—in collections both public and private. One group of twelve, dating to the third to first centuries BCE and mistakenly thought to come from a single mummified individual, was donated to the J. Paul Getty Museum in 1983 (83.AI.47)[^1] ([fig. 1](#fig-1)). Their first documented appearance was as part of the collection of Sir Thomas Phillipps (1792–1872), an obsessive English collector of books and manuscripts. Following his death, the wrappings passed through the family and various booksellers in England and thereafter were sold, in 1977, to Hans P. Kraus in New York. Kraus and his wife, Hanni, donated them to the J. Paul Getty Museum six years later.
