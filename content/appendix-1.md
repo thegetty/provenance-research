@@ -16,9 +16,9 @@ As discussed in chapter 2, many figures involved with Mediterranean antiquities 
 
 Because the afterlives of antiquities are rarely linear, successful searches relating to a single object may require approaching it through one or all of these three axes. Consider, for example, a fragmentary marble funerary relief, first documented in Rome by the end of the seventeenth century in a volume of inscriptions; the relief was later etched by James Christie in an illustration of the Eleusinian Mysteries, which located it as part of the Bessborough collection in Britain by the end of the eighteenth century ([fig. 46](#fig-46); [fig. 47](#fig-47)).[^1] By the mid- to late nineteenth century, the relief had traveled to a different British collection, where it was documented as part of an academic article on private collections of Mediterranean antiquities in England, and it was later published in an auction catalogue in the mid-twentieth century. One single relief’s provenance is therefore a constellation reconstructed over time from object-, event-, and individual-focused resources.
 
-**\[\[fig-46\]\]**
+{% figure 'fig-46' %}
 
-**\[\[fig-47\]\]**
+{% figure 'fig-47' %}
 
 To aid in identifying materials, where possible we have included contextual information about the date of the material, scope of the collection, including material relevant to artwork from outside the Mediterranean, and additional notes about using the resource. This resource guide cannot list every archive in every category and so it is intended more as a comprehensive guide to types of resources, with specific archives or titles highlighted as examples. The particular dealers, donors, collectors, and academics most relevant to your search will guide your choices of archives.
 
@@ -494,7 +494,7 @@ Stevenson, Alice. *Scattered Finds: Archaeology, Egyptology and Museums* (London
 
 A key resource for art historians for over a century, centralized photo archives of comparative objects can be essential tools in tracing an object’s ownership or conservation over time. Such an archive can, in the aggregate, also provide insight into owner collecting practices, even where images of a specific object are lacking. Even when lacking in ancient objects, as with the Frick Collection photo archive, they can provide useful comparative examples of photographer stamps and active dates as well as further evidence of dealer and collector activities. National-level archives of photographs, like Historic England (https://historicengland.org.uk/images-books/) and the Médiathèque du patrimoine et de la photographie (<https://mediatheque-patrimoine.culture.gouv.fr/>) include images of objects, houses with private collections, and other photographs of interest—for example, the series of images of statuary, pottery, and a mummy mask from London dealer Spink & Son from 1918 preserved by Historic England [(fig. 48)](#fig-48) (<https://historicengland.org.uk/images-books/photos/item/BL24185/003>).
 
-**\[\[fig-48\]\]**
+{% figure 'fig-48' %}
 
 **DAI.objects Arachne**
 <https://arachne.dainst.org/>
@@ -768,7 +768,7 @@ Photographs and papers relating to Strong’s work as an archaeologist and art h
 <https://dhc.aarome.org/vermeule>
 Collection, digitized, of approximately two thousand photographs, dating from 1959 to 1990, of Mediterranean antiquities both in situ in private English collections and on the English art market ([fig. 49](#fig-49)). The collection reflects Vermeule’s work with the art firm Spink & Son, London, in the 1950s, as well as his research into antiquities held by English collections.
 
-**\[\[fig-49\]\]**
+{% figure 'fig-49' %}
 
 ### Dealers 
 
