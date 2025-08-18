@@ -60,4 +60,6 @@ TK
 
 ### Customizations
 
-TK
+**_plugins/shortcodes/accordion.js**
+**.eleventy.js**
+Add `-epub-pdf` suffix to section id and turn off `checkDuplicates` in `IdAttributePlugin` to avoid id duplication issues
