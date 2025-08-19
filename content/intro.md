@@ -77,11 +77,7 @@ In assembling these resources, we do not seek to provide legal guidance in any f
 
 Each chapter in this publication approaches provenance research in distinct ways, looking back across centuries of collecting, deeply into the lives of objects and their owners, or forward to prospective acquisitions. In this, they reflect the training and priorities of their authors, but all demonstrate how much this work is shaped by change. Standards and policies have evolved, ethical concerns and legal norms are in constant dialogue, and digitization projects and Linked Open Data (LOD) models herald remarkable opportunities to access archives and understand the market in innovative ways. This is a highly dynamic field, and one that we believe is both indispensable and invigorating. Provenance research should be not only a reactive undertaking—a belated endeavor to rectify historical wrongs—but a proactive initiative that recognizes diverse understandings of objects and their histories, as well as the many individuals they may have encountered.
 
-{% backmatter %}
-
-## Notes
-
-{% endbackmatter %}
+{% accordion '## Notes' %}
 
 [^1]: 83.AI.47; <https://www.getty.edu/art/collection/object/105Z4V>.
 
@@ -160,3 +156,5 @@ Each chapter in this publication approaches provenance research in distinct ways
 [^38]: The International Inventories Programme, which researched and documented Kenyan objects around the world, and the India Pride Project, the work of Nepalese activists, stand out among many examples. See <https://www.inventoriesprogramme.org/> and <https://www.artnews.com/art-news/news/repatriation-looted-artifacts-activists-social-media-campaigns-1234646757/>.
 
 [^39]: See <https://news.artnet.com/art-world/black-panther-museum-heist-restitution-1233278>.
+
+{% endaccordion %}

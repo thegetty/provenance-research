@@ -244,11 +244,7 @@ Based in Frankfurt, Yeganeh dealt primarily in antiquities. The name of his wife
 
 {% endaccordion %}
 
-{% backmatter %}
-
-## Notes
-
-{% endbackmatter %}
+{% accordion '## Notes' %}
 
 [^1]: See, for example, *The International Antiques Yearbook* and *Antiquities Trade Gazette*.
 
@@ -435,3 +431,5 @@ Based in Frankfurt, Yeganeh dealt primarily in antiquities. The name of his wife
 [^92]: For Getty holdings connected with Yeganeh, see search results for “Mohammad Yeganeh” on the Getty Museum Collection pages: <https://www.getty.edu/art/collection/search?provenance.owner.id=person/3f5bbffc-fa09-4052-a039-89bb302ec2e1&is_standalone=true>.
 
 [^93]: 74.AA.37 (<https://www.getty.edu/art/collection/object/103SZH>) and 83.AE.320 (<https://www.getty.edu/art/collection/object/103VGY>) were published in Erwin Bielefeld, *Kunstwerke der Antike*, dealer cat. (Frankfurt: Galerie für griechische, römische und byzantinische Kunst, 1971).
+
+{% endaccordion %}
