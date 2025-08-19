@@ -24,3 +24,9 @@
     right: -130px;
   }
 }
+
+/* ACCORDION SECTIONS 
+================================================================== */
+.accordion-section__heading-level-3 {
+  margin-left: 2rem;
+}
