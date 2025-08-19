@@ -8,7 +8,9 @@ contributor:
 order: 50
 ---
 
-## Researching Dealers
+{% accordionGlobalControls %}
+
+{% accordion '## Researching Dealers' %}
 
 During the twentieth century, dealers continued to play an important role in the antiquities art market, working directly with private collectors and museums while also supplying objects to the major auction houses. A brief perusal of advertisements in *The Burlington Magazine, Apollo, Art in America*, and similar publications indicates the vast scale and scope of this international market. Keeping track of individual dealers can be overwhelming, especially since a gallery might move to a new location, adopt a new focus, or have a change in ownership. Even for well-known dealers, it can be difficult to verify biographical details, addresses, active dates, and archives. Fortunately, research institutions have compiled general lists that offer a good starting point and, for more obscure figures, annual dealer guides can be useful (see [“Types of Archives”](/2/#types-of-archives) in chapter 2 and [“Dealer Directories”](/appendix-1/#dealer-directories) in appendix I).[^1] Although focused on Egypt, Frederick Hagen and Kim Ryholt’s *The Antiquities Trade in Egypt 1880–1930: The H. O. Lange Papers* offers valuable context for the Egyptian art market, including an appendix of more than two hundred dealers.[^2] A handful of early to mid-twentieth-century dealer records are available for in-person study, and hopefully more archives will be digitized, as the Brummer Gallery Records have, but such accessible resources remain in the minority. It is also worth keeping in mind the shifting historic and economic contexts of this period, including world wars dispersing collections and uprooting collectors and dealers, and New York gaining prominence as an art market center. The mid- to late twentieth-century market is even less well documented. Records, if preserved at all, may still be with the gallery or family of the dealer. For these, advertisements, exhibition checklists, and catalogues can offer a helpful, albeit highly fragmented, view of a specific dealer or gallery. In this section, we hope to provide a fuller picture of the art market through brief biographies of individual dealers, who serve as windows into a large and complex network.
 
@@ -20,9 +22,9 @@ We have identified a selection of prolific and notable dealers active in the twe
 
 There is some overlap between this list and “Dealers: Individuals and Galleries” (in [appendix I](/appendix-1/)), with some figures present in both (e.g., Joseph and Ernest Brummer, André Emmerich, and Dikran Kelekian). This list does not include well-known late nineteenth-century dealers (e.g., the Jandolo Family, nor the twentieth-century dealers for whom there is little to no documented information).
 
-## Biographies
+{% endaccordion %}
 
-{% accordionGlobalControls %}
+{% accordion '## Biographies' %}
 
 {% accordion '### Becchina, Gianfranco' %} 
 
@@ -241,6 +243,8 @@ Tozzi was an antiquarian, artist, restorer, professor, and art dealer with galle
 Addresses: Taunusstrasse 52,[^90] Bundenweg 7, and Telemannstrasse 5, 6, all in Frankfurt, Germany; Alexanderstraße 112/1, Stuttgart, Germany; Ridgmount Gardens 75A, London WC1, England
 
 Based in Frankfurt, Yeganeh dealt primarily in antiquities. The name of his wife, Gertrud Waltraud Lück-Flender, appears on some provenance documentation. He advertised in, among others, the *Jahrbuch der Hamburger Kunstsammlunge*, *Die Weltkunst*, *The Burlington Magazine*, and *Apollo*. It was he who sold the Weary Herakles to the Museum of Fine Arts, Boston, which has since been returned to Türkiye.[^91] Yeganeh dealt in objects from a range of cultures, including Greek, Roman, Iberian, South Italian, East Greek, Roman Syrian, and modern objects, although Persian and Iranian objects were a focus.[^92] His gallery produced a small catalogue in 1971, which includes two objects donated to the Getty in 1974 and 1983.[^93]
+
+{% endaccordion %}
 
 {% endaccordion %}
 
