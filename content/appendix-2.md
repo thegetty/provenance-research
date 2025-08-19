@@ -22,6 +22,8 @@ There is some overlap between this list and “Dealers: Individuals and Gallerie
 
 ## Biographies
 
+{% accordionGlobalControls %}
+
 {% accordion '### Becchina, Gianfranco' %} 
 
 b\. 1938, active 1970s–90s. Galerie Palladion (also known as Antike Kunst Palladion, Palladion Antike Kunst); Palladion Ancient and Fine Art AG; all Basel, Switzerland
