@@ -13,13 +13,13 @@
     padding-top: 1rem;
   }
   .quire::before {
-    content: "UNCORRECTED";
+    content: "FIRST";
     background-color: cyan;
     bottom: -115px;
     right: -115px;
   }
   .quire::after {
-    content: "PROOF";
+    content: "PAGES";
     bottom: -130px;
     right: -130px;
   }
