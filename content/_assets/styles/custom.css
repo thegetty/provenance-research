@@ -30,3 +30,15 @@
 .accordion-section__heading-level-3 {
   margin-left: 2rem;
 }
+
+/* Case Studies */
+details.accordion-section[id^="section-case-study"] {
+  background-color: #CF4747;
+  padding: 1.5rem;
+}
+details.accordion-section[id^="section-case-study"] * {
+  color: white !important;
+}
+details.accordion-section[id^="section-case-study"] .q-figure__label .q-figure__label-icon svg {
+  fill: white;
+}
