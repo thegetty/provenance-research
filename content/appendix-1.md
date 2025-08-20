@@ -8,8 +8,6 @@ contributor:
 order: 40
 ---
 
-## Introduction
-
 In creating this resource guide, we hope to provide some roadmaps for researching the provenance of specific objects or collections. This appendix is structured around four main sections, with an overview of literature and top-level resources, followed by a breakdown of archives as laid out in [chapter 2](/2/): object-focused resources, event-focused resources, and individual-focused resources. Suggested literature is provided throughout. Further edits and updates will appear online through iterative versions of this appendix.
 
 As discussed in chapter 2, many figures involved with Mediterranean antiquities have had overlapping roles: until recent decades, an academic holding a private collection and being involved with auction houses or dealers was not a rare occurrence. Likewise, few archives are exactly alike in structure and composition; we have organized resources here to the greatest possible extent but realize that many could be assigned to multiple categories. A complete reckoning of every possible archival and research resource is outside of the scope of this volume. However, the content here should serve to indicate the range of possible resources for different projects, in the hope that it provides the gestalt for identifying additional resources tailored to each project.
@@ -22,9 +20,13 @@ Because the afterlives of antiquities are rarely linear, successful searches rel
 
 To aid in identifying materials, where possible we have included contextual information about the date of the material, scope of the collection, including material relevant to artwork from outside the Mediterranean, and additional notes about using the resource. This resource guide cannot list every archive in every category and so it is intended more as a comprehensive guide to types of resources, with specific archives or titles highlighted as examples. The particular dealers, donors, collectors, and academics most relevant to your search will guide your choices of archives.
 
-## Top Level Resources for Getting Started
+{% accordionGlobalControls %}
 
-### Guidelines
+{% accordion '## Top Level Resources for Getting Started' %}
+
+{% endaccordion %}
+
+{% accordion '### Guidelines' %}
 
 Professional guidelines relating to provenance have, as outlined in previous chapters, proliferated since 1970, and the following list is only a partial reference point. However, it is worth noting that these guidelines form a patchwork: they discuss and treat provenance in very different ways, and researchers may be impacted by aspects of many different kinds of guidelines—or the lack of any—depending on the intended product of their research, such as an article, a collection database, or an acquisition recommendation. Many professional research organizations, including such as the Archaeological Institute of America and the American Society of Overseas Research, focus on the known provenance of objects that might be published or discussed in their conferences or publication venues, while guidelines governing an organization, like the Object Registry and Guidelines of the Association of Art Museum Directors, focus instead on acquisitions. This patchwork leaves open many aspects of the practice of provenance without clear guidelines or professional governance. Researchers should consult all applicable guidelines according to their field, professional affiliations, and institution.
 
@@ -66,7 +68,9 @@ Object Registry
 International Foundation for Art Research (IFAR). Professional Guidelines Established by Association of Art Museum Directors (AAMD): Guidelines on the Acquisition of Archaeological Material and Ancient Art (as revised 2013)
 <https://cms.aamd.org/sites/default/files/document/AAMD%20Guidelines%202013.pdf>
 
-### Literature
+{% endaccordion %}
+
+{% accordion '### Literature' %}
 
 #### Provenance Research Guides
 
@@ -111,7 +115,9 @@ Saint-Raymond, Léa, and Élodie Vaudry. “A New Eldorado: The French Market fo
 
 Tremain, Cara G., and Donna Yates, eds. *The Market for Mesoamerica: Reflections on the Sale of Pre-Columbian Antiquities* (Gainesville: University Press of Florida, 2019).
 
-### Art Market Research
+{% endaccordion %}
+
+{% accordion '### Art Market Research' %}
 
 **Journal of the History of Collections**
 <https://academic.oup.com/jhc>
@@ -133,7 +139,9 @@ WorldCat remains a powerful tool, with millions of books, archival records, and 
 
 **The Sales Catalog Index Project Input Online (SCIPIO)**, a database of more than 300,000 auction catalogue records from twenty-five art libraries, has been incorporated into WorldCat and can be accessed via subscription through FirstSearch. Due to the nature of WorldCat, many titles will be represented by multiple catalogue records, and references to annotations and other items of interest will be in the language of the holding library. WorldCat records distinguish between print, microform, and digital versions of the same work. Work with your local interlibrary loan department to develop strategies given your location and level of access to various materials.
 
-### Provenance Research Organizations and Teams
+{% endaccordion %}
+
+{% accordion '### Provenance Research Organizations and Teams' %}
 
 **Foundation for Ethical Stewardship of Cultural Heritage (FESCH) and their project Mediterranean Antiquities Provenance Research Alliance (MAPRA)**
 <https://www.fescheritage.org/>
@@ -174,7 +182,9 @@ Events calendar provided by the Getty Research Institute.
 <https://www.lootedart.com/>
 Commission for Looted Art in Europe, weekly newsletter with updates on court cases, provenance resources, conferences, and more. 
 
-### Museum Archives
+{% endaccordion %}
+
+{% accordion '### Museum Archives' %}
 
 Museums may retain their own rich internal or institutional archives relating to the institution’s history, departments, or staff. In some cases, correspondence or other records pertaining to objects on the market offered by dealers and private collections are preserved. Access to these by researchers varies by institutional policy and use should be confirmed with the holder of the archives. Institutional archives and libraries can also be sources of museum publications, ephemera, and exhibition records. Note that the personal papers of museum personnel, with correspondence relevant to museum business, may also be preserved in other institutions.
 
@@ -212,13 +222,17 @@ Wellcome Collection
 https://wellcomecollection.org/works/k2fae5cz
 Extensive digitized collections relating to the formation of the Wellcome Historical Medical Museum. Particularly useful as a source of dealer letterhead and personnel information. Includes early twentieth-century correspondence on acquisitions both proposed and made for the Wellcome collection with private collectors and dealers, as well as material on Wellcome collection dispersals.
 
-### Union Catalogues of Archives
+{% endaccordion %}
+
+{% accordion '### Union Catalogues of Archives' %}
 
 While no union catalogue of provenance-related materials exists, **the *National Union Catalog of Manuscript Collections* volumes** can aid in identifying potential sources. The Frick Museum’s **Archives Directory for the History of Collecting in America** (https://research.frick.org/directory) offers a powerful database connecting archival resources relating to individuals and galleries from the American art market across different institutions, together with biographical data.
 
 Regional and national database gateways like the U.K.’s **National Archives Discover Catalogue**, **the Online Archive of California (OAC)**, and **OCLC’s ArchiveGrid** offer additional options for more thematic searches. But bear in mind that many finding aids are not accessible externally (and so are not searchable directly online) and must be requested through the holding institution.
 
-### Newspapers
+{% endaccordion %}
+
+{% accordion '### Newspapers' %}
 
 From local to international editions, newspapers are a fundamental resource. They are key repositories of centuries of genealogical data, confirming life events and locations for collectors and dealers; they may have published auction advertisements, showcases, and results; artifact and excavation discoveries; dealer and museum exhibitions with private collection material; local collector displays; and other relevant records of objects on the art market. Increasingly, back issues have been digitized and made accessible through subscription or governmental databases; others, particularly local and regional papers, may be available on microform or consulted through print copies. Some archives require subscription access, and date ranges often are limited; optical character recognition (OCR) and searchability vary considerably between papers.
 
@@ -260,7 +274,9 @@ Both are subscription-based; access packages vary. Cover primarily the U.S.
 https://chroniclingamerica.loc.gov/
 Searchable resource of American newspapers, mostly small and regional, from 1756–1963.
 
-### Art Law Research
+{% endaccordion %}
+
+{% accordion '### Art Law Research' %}
 
 See also “Legal Perspectives on Acquisition of Mediterranean Antiquities“ ([chapter 3](/3/) in this volume).
 
@@ -280,7 +296,9 @@ Nonprofit organization offering various art law resources, including events and 
 <https://ial.uk.com/>
 Educational organization offering courses, publications, and events, as well as memberships.
 
-### Art Crime Research
+{% endaccordion %}
+
+{% accordion '### Art Crime Research' %}
 
 #### Organizations and Projects
 
@@ -329,7 +347,9 @@ https://www.interpol.int/en/Crimes/Cultural-heritage-crime/Stolen-Works-of-Art-D
 https://www.interpol.int/en/Crimes/Cultural-heritage-crime/ID-Art-mobile-app
 Application is required to become a registered user of the INTERPOL database. Mobile users can download the ID-Art app, which provides a searchable database of stolen items and allows users to upload images of objects to be visually searched.
 
-### Marks of Ownership
+{% endaccordion %}
+
+{% accordion '### Marks of Ownership' %}
 
 See also the discussion of [“Stamps and Seals”](/2/#stamps-and-seals) in chapter 2.
 
@@ -347,11 +367,15 @@ This database of more than a hundred illustrated examples of ownership seals, la
 https://egyptartefacts.griffith.ox.ac.uk/resources/object-marks
 Though focused on Egyptian artifacts, a very useful resource regarding object marks.
 
-## Object-Focused Resources
+{% endaccordion %}
+
+{% accordion '## Object-Focused Resources' %}
 
 Object-focused resources are centered around categories of objects, which we have further divided up here into sub-categories of iconographic, object type, and culture.
 
-### Iconographic 
+{% endaccordion %}
+
+{% accordion '### Iconographic' %} 
 
 **Lexicon Iconographicum Mythologiae Classicae (LIMC). 8 vols., 1981–2009 (Zurich: Artemis).**
 **WebLIMC**
@@ -370,7 +394,9 @@ To search the database:
 <https://db.antiquitatum-thesaurus.eu/>
 A rich database, still in production, which seeks to connect prints and drawings from the seventeenth and eighteenth centuries to the antiquities represented. The database presents the images alongside additional context and information on their modern locations where known; current sources include Montfaucon’s *Papiers*.
 
-### Object Type
+{% endaccordion %}
+
+{% accordion '### Object Type' %}
 
 An overview of all print corpora by object type is not possible to include in this appendix, which instead focuses on broader categories and the more widely accessible databases. However, in addition to the resources listed below, we note the work by Klaus Parlasca documenting the majority of known mummy portraits both on the market and in collections (*Mumienporträts und verwandte Denkmäler*. Wiesbaden: Steiner, 1966; and *Repertorio d’Arte dell’Egitto: Greco-Romano Serie B; Ritratti di Mummie*. 4 vols. Palermo: Officine Tipo-Litografiche I.R.E.S., 1969–2003). There also are corpora by object type that are new or under development to be aware of: the ongoing publications of the *Corpus Speculorum Etruscorum* (<https://publications.dainst.org/books/dai/catalog/series/csedl>) are documenting Etruscan mirrors in collections around the world; and forthcoming is a corpus of Palmyran portraits from the Palmyra Portrait Project (<https://projects.au.dk/palmyraportrait>). It is worth researching for every object type the kinds of compendia and corpora available.
 
@@ -517,9 +543,13 @@ Bärnighausen, Julia. “Bureaucratic Hybrids: Photographs from the Galleria San
 
 See [chapter 2](/2/#assembling-provenance-information) for our discussion of using photographs as an information source for antiquities and some cautions regarding their analysis.
 
-## Event-Focused Resources
+{% endaccordion %}
 
-### Auctions 
+{% accordion '## Event-Focused Resources' %}
+
+{% endaccordion %}
+
+{% accordion '### Auctions' %} 
 
 #### Open Access Digitized Auction Catalogues
 
@@ -589,7 +619,9 @@ Germany
 <https://www.arthistoricum.net/en/subjects/thematic-portals/german-sales/helbing>
 More than a thousand auctioneer copies of catalogues from the firm Galerie Hugo Helbing (Hugo Helbing; active 1885–1937 in Munich, Berlin, and Frankfurt) have been digitized and made available. Annotations include sales data such as reserve prices, consignors, buyers, and indications of sales outside of auctions.
 
-### World War II 
+{% endaccordion %}
+
+{% accordion '### World War II' %} 
 
 Given the large corpus of guides dedicated to provenance research concerning the years during and after World War II (see “Provenance Research Guides” above), this section will not seek to reproduce their efforts. However, as Mediterranean antiquities have not, to date, often been a focus of these investigations, gaps in an object’s provenance between 1930 and 1945 should be treated with the same diligence as for European paintings and sculpture. Mediterranean antiquities continued to be part of the European art market during the war, and subject to seizure and forced sales as with other material from private collections and gallery sources. Antiquities were also looted from museum collections and excavation stores, some of which have surfaced or been identified in more recent years.[^3] However, many countries have not yet made World War II–era archival information accessible.
 
@@ -651,7 +683,9 @@ Project of the Commission for Provenance Research and the Archive of the Kunsthi
 https://archivesdiplomatiques.diplomatie.gouv.fr/ark:/14366/xdm9rgwv5nt1
 This new resource is the ongoing digitization of the inventories and archival files of the French Diplomatic Archives. Of particular note are the inventories of the Einsatzstab Reichsleiter Rosenberg (ERR) (1940–59) and the Albums de photographies (1940–50), preserving images of family and institutional art collections, including Mediterranean antiquities.
 
-## Individual-Focused Resources
+{% endaccordion %}
+
+{% accordion '## Individual-Focused Resources' %}
 
 As throughout the book, we define individual-focused resources as those primarily relating to the activities of a specific individual, firm, or institution, such as a collector, dealer, art historian, or family; see the case studies in chapter 2 for additional references. Individual-focused resources might include dealer or collector memoirs, archives, study photograph collections, and exhibition or collection ephemera like check lists or advertisements. Collating references to individuals across multiple archives—for example, sporadic appearances of correspondence between collectors and dealers preserved in separate locations—is essential. For this, invaluable resources are projects like the **Archives Directory for the History of Collecting in America** (<https://research.frick.org/directory>) or union catalogues like the **Kalliope Union Catalog** (<https://kalliope-verbund.info/en/>), which retains records relating to archives in Germany, Austria, Switzerland, and related material from other international archives. **National archival repositories** (e.g., <https://www.nationalarchives.gov.uk/>) often house family and business materials. There are too many relevant archives to enumerate here; the list below focuses on late nineteenth- and twentieth-century archives, with an emphasis on American archival sources.
 
@@ -659,7 +693,9 @@ A new subscription resource, the **Bloomsbury Art Markets (BAM)**, contains auth
 
 Genealogical resources can be valuable tools here, though accessibility of personal data will vary by country. Accessing information on deaths and heirs also varies by country and largely requires in-person research. One excellent new resource for wills from England and Wales is **Find a Will** (<https://probatesearch.service.gov.uk/>), which for a fee provides digital copies of will or grant documents for persons from England or Wales and deceased since 1856.
 
-### Collectors 
+{% endaccordion %}
+
+{% accordion '### Collectors' %} 
 
 Where extant, archives of collectors’ materials may include sections dedicated to their art collections, or these may be preserved in separate archives. In other cases, this material may be distributed throughout their archives or not preserved at all. Archives may also be focused on the work of collectors, as with the Lugt example. In many cases, collector archives preserve correspondence with dealers with no extant archive of their own; their correspondence may conversely be found in institutional or personal archives as well.
 
@@ -700,7 +736,9 @@ A broad archive with sections on Pomerance’s art collection and its exhibition
 Currently offline, but archived here: <https://web.archive.org/web/20240212102929/https://www.storiesfromthearchive.org/the-archive>.
 Correspondence, auction catalogues, and more relating to the collecting practices of Shefton (1919–2012), an archaeologist whose collection of Mediterranean antiquities is now housed at the Great North Museum, Hancock, Newcastle.
 
-### Academics and Artists
+{% endaccordion %}
+
+{% accordion '### Academics and Artists' %}
 
 **Darrell A. Amyx (1911–1997)**
 **Getty Research Institute**
@@ -770,7 +808,9 @@ Collection, digitized, of approximately two thousand photographs, dating from 19
 
 {% figure 'fig-49' %}
 
-### Dealers 
+{% endaccordion %}
+
+{% accordion '### Dealers' %} 
 
 See above under “Photo Archives” for additional resources in searching dealer material in these archives. See also appendix 2, [Dealer Biographies](/appendix-2/).
 
@@ -923,14 +963,14 @@ Dunn-Vaturi, Anne, and Erhan Tamur. “Kings, Dealers, and Librarians: The Story
 https://primo.getty.edu/permalink/f/19q6gmb/GETTY_ALMA21251920700001551
 Based in Basel, Widmer was a popular photographer for Swiss dealers, museums, and collectors throughout the second half of the twentieth century. This collection of more than 1,800 negatives preserves photographs taken for the dealer Elie Borowski (1913–2003) between 1954 and 1982, each dated by month and year. See also <http://www.fotoarchive.org/_archive/widm/info.html>.
 
-{% backmatter %}
+{% endaccordion %}
 
-## Notes
-
-{% endbackmatter %}
+{% accordion '## Notes' %}
 
 [^1]: 71.AA.257. For the relief’s full provenance and bibliography references, see https://www.getty.edu/art/collection/object/103SSA.
 
 [^2]: While Christie’s London had maintained a more public archive, this was closed as of early 2021. https://www.theartnewspaper.com/2021/02/11/christies-closes-access-to-historic-archive-due-to-staff-cuts. My thanks to staff at Sotheby’s and Bonhams for their assistance.
 
 [^3]: Some recent case studies: https://www.samuseum.org/press/press-release/-texas-collector-finds-roman-bust-missing-from-germany-since-world-war-ii-at-local-goodwill-store/; https://www.livescience.com/59333-lost-wwii-egyptian-artifact-returns-to-germany.html; https://www.theartnewspaper.com/2017/04/19/the-cleveland-museum-of-art-returns-bust-of-emperors-bloodthirsty-son-to-italy.
+
+{% endaccordion %}
