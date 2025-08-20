@@ -14,6 +14,8 @@ order: 50
 
 During the twentieth century, dealers continued to play an important role in the antiquities art market, working directly with private collectors and museums while also supplying objects to the major auction houses. A brief perusal of advertisements in *The Burlington Magazine, Apollo, Art in America*, and similar publications indicates the vast scale and scope of this international market. Keeping track of individual dealers can be overwhelming, especially since a gallery might move to a new location, adopt a new focus, or have a change in ownership. Even for well-known dealers, it can be difficult to verify biographical details, addresses, active dates, and archives. Fortunately, research institutions have compiled general lists that offer a good starting point and, for more obscure figures, annual dealer guides can be useful (see [“Types of Archives”](/2/#types-of-archives) in chapter 2 and [“Dealer Directories”](/appendix-1/#dealer-directories) in appendix I).[^1] Although focused on Egypt, Frederick Hagen and Kim Ryholt’s *The Antiquities Trade in Egypt 1880–1930: The H. O. Lange Papers* offers valuable context for the Egyptian art market, including an appendix of more than two hundred dealers.[^2] A handful of early to mid-twentieth-century dealer records are available for in-person study, and hopefully more archives will be digitized, as the Brummer Gallery Records have, but such accessible resources remain in the minority. It is also worth keeping in mind the shifting historic and economic contexts of this period, including world wars dispersing collections and uprooting collectors and dealers, and New York gaining prominence as an art market center. The mid- to late twentieth-century market is even less well documented. Records, if preserved at all, may still be with the gallery or family of the dealer. For these, advertisements, exhibition checklists, and catalogues can offer a helpful, albeit highly fragmented, view of a specific dealer or gallery. In this section, we hope to provide a fuller picture of the art market through brief biographies of individual dealers, who serve as windows into a large and complex network.
 
+{% endaccordion %}
+
 {% accordion '### Illicit Trade of Antiquities' %}
 
 In discussing dealers in antiquities, the full context of the art market in the twentieth century must be acknowledged—notably, the continued widespread trade of illicit antiquities, discussed also in [C. Brian Rose’s chapter](/1/). It has now been well documented that there existed a network of dealers and middlemen engaged in trading recently found and looted objects. Through these channels, illegally excavated artifacts continued to enter the art market to join objects that had been circulating for years. The trade’s tradition of discretion and anonymity allowed works, both illicit and legitimate, to have their histories easily falsified and obscured, or simply omitted. The presence of looted material on the art market was openly acknowledged and generally accepted as business as usual. A 1971 guide for collectors stated outright that “there is no denying that nearly all fresh finds offered to the collector have left their lands of origin illicitly,” and only cautions that these “clandestinely excavated” (read: looted) antiquities should best be purchased outside of their country of origin.[^3] Some of the dealers discussed below are known to have been involved in the illegal trafficking of antiquities. A key piece of evidence for this is an organizational chart recovered in a raid by the Italian Carabinieri that names *tombaroli* (Italian for “tomb-robbers,” referring to those operating in Italy) and antiquities dealers, including the following individuals: Robert Hecht, Gianfranco Becchina, Giacomo Medici, Elie Borowski, Nicolas Koutoulakis, George Ortiz, and Freida Tchacos.[^4] Although not identified on the organizational chart, hereafter called the “organigram,” other individuals including Robin Symes and Fritz Bürki have been implicated in court cases and through the repatriation of objects they sold to museums and private collections. It is worth noting that many of these dealers also bought and sold legitimate antiquities from well-documented collections, but given their connections to illicit networks, anything that may have passed through their hands should be carefully reviewed.
@@ -24,9 +26,9 @@ There is some overlap between this list and “Dealers: Individuals and Gallerie
 
 {% endaccordion %}
 
-{% endaccordion %}
-
 {% accordion '## Biographies' %}
+
+{% endaccordion %}
 
 {% accordion '### Becchina, Gianfranco' %} 
 
@@ -245,8 +247,6 @@ Tozzi was an antiquarian, artist, restorer, professor, and art dealer with galle
 Addresses: Taunusstrasse 52,[^90] Bundenweg 7, and Telemannstrasse 5, 6, all in Frankfurt, Germany; Alexanderstraße 112/1, Stuttgart, Germany; Ridgmount Gardens 75A, London WC1, England
 
 Based in Frankfurt, Yeganeh dealt primarily in antiquities. The name of his wife, Gertrud Waltraud Lück-Flender, appears on some provenance documentation. He advertised in, among others, the *Jahrbuch der Hamburger Kunstsammlunge*, *Die Weltkunst*, *The Burlington Magazine*, and *Apollo*. It was he who sold the Weary Herakles to the Museum of Fine Arts, Boston, which has since been returned to Türkiye.[^91] Yeganeh dealt in objects from a range of cultures, including Greek, Roman, Iberian, South Italian, East Greek, Roman Syrian, and modern objects, although Persian and Iranian objects were a focus.[^92] His gallery produced a small catalogue in 1971, which includes two objects donated to the Getty in 1974 and 1983.[^93]
-
-{% endaccordion %}
 
 {% endaccordion %}
 

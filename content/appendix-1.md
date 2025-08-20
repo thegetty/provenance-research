@@ -24,6 +24,8 @@ To aid in identifying materials, where possible we have included contextual info
 
 {% accordion '## Top Level Resources for Getting Started' %}
 
+{% endaccordion %}
+
 {% accordion '### Guidelines' %}
 
 Professional guidelines relating to provenance have, as outlined in previous chapters, proliferated since 1970, and the following list is only a partial reference point. However, it is worth noting that these guidelines form a patchwork: they discuss and treat provenance in very different ways, and researchers may be impacted by aspects of many different kinds of guidelines—or the lack of any—depending on the intended product of their research, such as an article, a collection database, or an acquisition recommendation. Many professional research organizations, including such as the Archaeological Institute of America and the American Society of Overseas Research, focus on the known provenance of objects that might be published or discussed in their conferences or publication venues, while guidelines governing an organization, like the Object Registry and Guidelines of the Association of Art Museum Directors, focus instead on acquisitions. This patchwork leaves open many aspects of the practice of provenance without clear guidelines or professional governance. Researchers should consult all applicable guidelines according to their field, professional affiliations, and institution.
@@ -367,11 +369,11 @@ Though focused on Egyptian artifacts, a very useful resource regarding object ma
 
 {% endaccordion %}
 
-{% endaccordion %}
-
 {% accordion '## Object-Focused Resources' %}
 
 Object-focused resources are centered around categories of objects, which we have further divided up here into sub-categories of iconographic, object type, and culture.
+
+{% endaccordion %}
 
 {% accordion '### Iconographic' %} 
 
@@ -543,9 +545,9 @@ See [chapter 2](/2/#assembling-provenance-information) for our discussion of usi
 
 {% endaccordion %}
 
-{% endaccordion %}
-
 {% accordion '## Event-Focused Resources' %}
+
+{% endaccordion %}
 
 {% accordion '### Auctions' %} 
 
@@ -683,8 +685,6 @@ This new resource is the ongoing digitization of the inventories and archival fi
 
 {% endaccordion %}
 
-{% endaccordion %}
-
 {% accordion '## Individual-Focused Resources' %}
 
 As throughout the book, we define individual-focused resources as those primarily relating to the activities of a specific individual, firm, or institution, such as a collector, dealer, art historian, or family; see the case studies in chapter 2 for additional references. Individual-focused resources might include dealer or collector memoirs, archives, study photograph collections, and exhibition or collection ephemera like check lists or advertisements. Collating references to individuals across multiple archives—for example, sporadic appearances of correspondence between collectors and dealers preserved in separate locations—is essential. For this, invaluable resources are projects like the **Archives Directory for the History of Collecting in America** (<https://research.frick.org/directory>) or union catalogues like the **Kalliope Union Catalog** (<https://kalliope-verbund.info/en/>), which retains records relating to archives in Germany, Austria, Switzerland, and related material from other international archives. **National archival repositories** (e.g., <https://www.nationalarchives.gov.uk/>) often house family and business materials. There are too many relevant archives to enumerate here; the list below focuses on late nineteenth- and twentieth-century archives, with an emphasis on American archival sources.
@@ -692,6 +692,8 @@ As throughout the book, we define individual-focused resources as those primaril
 A new subscription resource, the **Bloomsbury Art Markets (BAM)**, contains authored essays on key art market figures, their active and/or life dates, biographical information, a select bibliography, and lists of relevant archival sources: <https://www.bloomsburyvisualarts.com/bloomsbury-art-markets/>.
 
 Genealogical resources can be valuable tools here, though accessibility of personal data will vary by country. Accessing information on deaths and heirs also varies by country and largely requires in-person research. One excellent new resource for wills from England and Wales is **Find a Will** (<https://probatesearch.service.gov.uk/>), which for a fee provides digital copies of will or grant documents for persons from England or Wales and deceased since 1856.
+
+{% endaccordion %}
 
 {% accordion '### Collectors' %} 
 
@@ -960,8 +962,6 @@ Dunn-Vaturi, Anne, and Erhan Tamur. “Kings, Dealers, and Librarians: The Story
 **Getty Research Institute**
 https://primo.getty.edu/permalink/f/19q6gmb/GETTY_ALMA21251920700001551
 Based in Basel, Widmer was a popular photographer for Swiss dealers, museums, and collectors throughout the second half of the twentieth century. This collection of more than 1,800 negatives preserves photographs taken for the dealer Elie Borowski (1913–2003) between 1954 and 1982, each dated by month and year. See also <http://www.fotoarchive.org/_archive/widm/info.html>.
-
-{% endaccordion %}
 
 {% endaccordion %}
 
