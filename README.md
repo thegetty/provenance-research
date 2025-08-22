@@ -63,3 +63,6 @@ TK
 **_plugins/shortcodes/accordion.js**
 **.eleventy.js**
 Add `-epub-pdf` suffix to section id and turn off `checkDuplicates` in `IdAttributePlugin` to avoid id duplication issues
+
+**_includes/components/copyright/licensing.js**
+Updated licensing language

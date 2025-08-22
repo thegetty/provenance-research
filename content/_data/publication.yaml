@@ -22,6 +22,8 @@ description:
   one_line:
   full: "The first of its kind, this book is an accessible, comprehensive primer of methods and resources for researching the provenance of Mediterranean (Greek, Roman, and Etruscan) antiquities. In addition to outlining effective strategies for documentation and investigation, the volume features an annotated guide to key archives, databases, and twentieth-century dealers to facilitate a broad spectrum of research endeavors. Building upon a decade-long review of the Getty Museum’s antiquities collection, it draws together instructive case studies, legal perspectives, and practical experience to provide an efficient first point of reference for museum professionals, scholars, collectors, and students. The book aims to emphasize the need for diligent provenance research and to shorten the learning curve for such projects.<br/>The free online edition of this open-access publication is available at getty.edu/publications/provenance-research and includes zoomable illustrations. Also available are free PDF and EPUB downloads of the book."
 
+  online_edition: "The free online edition of this open-access publication is available at getty.edu/publications/provenance-research-for-mediterranean-antiquities and includes zoomable illustrations. Also available are free PDF and EPUB downloads of the book."
+
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
@@ -35,7 +37,7 @@ identifier:
   url: ""
 
 publisher:
-  - name: J. Paul Getty Trust
+  - name: J. Paul Getty Museum
     location: Los Angeles
     url: https://www.getty.edu/publications/
     logo: logo-getty.png
@@ -46,12 +48,15 @@ publisher:
       [getty.edu/publications](https://www.getty.edu/publications/)
 
 project_team:
-  - Rachel Barth, *Editor*
+  - Rachel Barth, *Project Editor*
+  - Elma Sanders, *Manuscript Editor*
   - Greg Albers, *Digital Publications Manager*
-  - Dani Grossman, *Design*
+  - Erin Cecele Dunigan, *Quire Community Manager*
+  - Dani Grossman, *Cover Design*
   - Molly McGeehan, *Production*
   - Nancy Rivera, *Image and Rights Acquisition*
-  - Erin Cecele Dunigan, Jenny Park, and Alex Hallenbeck, *Digital Assistants*
+  - Jenny Park, and Alex Hallenbeck, *Digital and Production Assistant*
+  - Alex Hallenbeck, *Editorial and Digital Assistant*
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -133,9 +138,9 @@ copyright: © 2026 J. Paul Getty Trust
 
 license:
   name: Creative Commons Attribution 4.0 International License
-  abbreviation: CC BY
-  url: https://creativecommons.org/licenses/by/4.0/
-  scope: full # full | text-only | some-exceptions
+  abbreviation: CC BY-NC
+  url: creativecommons.org/licenses/by-nc/4.0/
+  scope: text-only # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links
@@ -184,6 +189,9 @@ revision_history:
   - date:
     summary: March 1, 2026
       - First edition
+
+revision_statement: |
+    Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at https://github.com/thegetty/provenance-research/, where a more detailed version history is available. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here.
 
 repository_url: https://github.com/thegetty/provenance-research
 
