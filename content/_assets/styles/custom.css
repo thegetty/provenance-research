@@ -25,6 +25,12 @@
   }
 }
 
+/* PUBLISHER LINE BREAK */
+
+div.publisher p:first-child {
+  margin-bottom: 0 !important;
+}
+
 /* ACCORDION SECTIONS 
 ================================================================== */
 .accordion-section__heading-level-3 {
