@@ -1,8 +1,23 @@
+:root {
+  
+  --accent-color: #013aaa;
+  --accent-color-light: #0467f8;
+
+  --host-grotesque: 'Host Grotesk', sans-serif;
+  --eb-garamond: 'EB Garamond', serif;
+  --fragment-mono: 'Fragment Mono', monospace;
+
+  --base-indent: 4rem;
+
+}
+
 /* Temporary "UNCORRECTED PROOF" Banner */
 @media screen {
   .quire::before,
   .quire::after {
     color: black;
+    font-size: .74rem;
+    font-family: 'Fragment Mono';
     font-weight: 700;
     position: fixed;
     width: 230px;
@@ -25,8 +40,163 @@
   }
 }
 
-/* PUBLISHER LINE BREAK */
+/* PAGE HEADER
+================================================================== */
+.quire-page__header {
+  text-align: left;
+  margin: 0 auto;
+  max-width: 720px;
+  width: 720px;
+}
+.quire-page__header .hero-body {
+  margin: 0;
+}
+.quire-page__header .hero-body .label {
+  line-height: 1.2;
+  font-family: var(--fragment-mono);
+  text-transform: uppercase;
+  background-color: transparent;
+  padding: 0;
+  margin: 0;
+  display: block;
+  width: auto;
+  color: inherit;
+  min-width: auto;
+  font-size: .93rem;
+  margin-bottom: 1rem;
+  margin-left: calc(var(--base-indent) * -1);
+}
+.quire-page h1,
+.quire-page__header__title {
+  font-size: 1.67rem;
+  line-height: 1.2;
+  margin-left: var(--base-indent);
+}
+.quire-page__header__contributor {
+  font-family: var(--host-grotesque);
+  font-size: 1.2rem;
+  line-height: 1.2;
+  font-style: normal;
+  margin-top: 0;
+  margin-left: calc(var(--base-indent) * 2);
+}
 
+/* PAGE BODY
+================================================================== */
+.quire-page__content .container .content {
+  padding: 0;
+  margin: 0 0 16rem 0;
+}
+.quire-page__content .container .content p {
+  text-indent: var(--base-indent);
+  line-height: 1.3;
+}
+/* HEADINGS */
+.quire-page h2,
+.quire-page h3,
+.quire-page h4,
+.quire-page h5,
+.quire-page h6 {
+  font-size: 1.02rem;
+  line-height: 1.2;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  text-transform: none;
+  font-style: normal;
+}
+.quire-page h2 {
+  font-size: 1.13rem;
+  margin-left: calc(var(--base-indent) * 0);
+}
+.quire-page h3 {
+  margin-left: calc(var(--base-indent) * 1);
+}
+.quire-page h4 {
+  margin-left: calc(var(--base-indent) * 2);
+}
+.quire-page h5 {
+  margin-left: calc(var(--base-indent) * 3);
+}
+.quire-page h6 {
+  margin-left: calc(var(--base-indent) * 4);
+}
+/* FIGURE CAPTIONS */
+.content figure .q-figure__caption {
+  font-family: 'Fragment Mono';
+  font-size: .74rem;
+  line-height: 1.2;
+  color: black;
+}
+.q-figure__label {
+  font-weight: normal;
+  text-transform: uppercase;
+}
+.q-figure__label .q-figure__label-icon {
+  display: none;
+}
+/* LISTS */
+.quire-page__content .container .content ul {
+  margin-left: var(--base-indent);
+}
+.quire-page__content .container .content li p {
+  text-indent: 0;
+}
+.quire-page__content .container .content ul li {
+  margin-bottom: .5rem;
+}
+.quire-page__content .container .content ul li::before {
+  content: "—";
+}
+/* FOOTNOTE LINKS */
+.quire-page__content .content .footnote-ref a {
+  font-weight: 500;
+  font-size: .75rem;
+}
+.quire-page__content .content a.footnote-backref {
+  font-size: inherit;
+  font-weight: inherit;
+  margin-left: -4px;
+}
+/* FOOTNOTES */
+.quire-page__content .container .content .footnotes {
+  font-size: .74rem;
+  line-height: 1.2;
+}
+.quire-page__content .container .content .footnotes ol {
+  margin-left: 2rem;
+}
+.quire-page__content .container .content .footnotes ol li {
+  margin-bottom: 0;
+}
+
+/* NAV
+================================================================== */
+.quire-navbar,
+.quire-contents-buttons li.quire-nav-button,
+.quire-contents-buttons li.quire-nav-button a {
+  font-size: .74rem;
+  line-height: 1.2;
+  color: black !important;
+}
+.quire-navbar-button.play-button svg, 
+.quire-navbar-button.home-button svg,
+.quire-navbar-button.search-button svg, 
+.quire-navbar-button.menu-button svg {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.quire-navbar a {
+  text-transform: uppercase;
+}
+.quire-progress-bar,
+.quire-contents-buttons {
+  display: none;
+}
+
+/* ABOUT & COPYRIGHT PAGE
+================================================================== */
+/* Publisher line break */
 div.publisher p:first-child {
   margin-bottom: 0 !important;
 }
@@ -39,7 +209,7 @@ div.publisher p:first-child {
 
 /* Case Studies */
 details.accordion-section[id^="section-case-study"] {
-  background-color: #CF4747;
+  background-color: var(--accent-color);
   padding: 1.5rem;
 }
 details.accordion-section[id^="section-case-study"] * {

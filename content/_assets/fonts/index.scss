@@ -4,6 +4,8 @@
 // Custom font declarations (if any) can be imported here
 $assets-dir: "/_assets/" !default;
 
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Fragment+Mono:ital@0;1&family=Host+Grotesk:ital,wght@0,300..800;1,300..800&display=swap');
+
 @function font($file) {
   @return url($assets-dir + 'fonts/' + $file);
 }

@@ -6,15 +6,15 @@
 // To avoid errors, variables names should not be changed or deleted, and be
 // sure to leave the colons (:) and semi-colons (;) in place.
 
-$accent-color: null;
+$accent-color: #013aaa;
 $content-background-color: null; // main text area background color
 $secondary-background-color: null; // only for modern theme
 
 // Declare the theme: modern/classic
-$theme: modern;
+$theme: classic;
 
 // Declare the navbar color style: normal/accent
-$navbar: normal;
+$navbar: accent;
 
 
 
@@ -26,11 +26,16 @@ $ibm-sans: 'IBM Plex Sans Condensed', sans-serif;
 $noto-sans: 'Noto Sans', sans-serif;
 $noto-serif: 'Noto Serif', serif;
 $times-serif: Times, serif;
+$host-grotesque: 'Host Grotesk', sans-serif;
+$eb-garamond: 'EB Garamond', serif;
+$fragment-mono: 'Fragment Mono', monospace;
+
+
 
 // Page typography
 // -----------------------------------------------------------------------------
-$quire-base-font-size: 16px;
-$quire-page-paragraph-style: line-space; // or use indent
+$quire-base-font-size: 22px;
+$quire-page-paragraph-style: indent; // or use indent
 
 // Cover typography
 // -----------------------------------------------------------------------------
@@ -78,10 +83,10 @@ $print-entry-image-display: all; // first | all
 // Themes
 // -----------------------------------------------------------------------------
 // Declare theme variables
-$quire-primary-font: null; // body and menu text
-$quire-headings-font: null; // headings
-$quire-footnotes-font: null; // footnotes and page backmatter
-$quire-navigation-font: null; // navbar and next/prev buttons
+$quire-primary-font: $eb-garamond; // body and menu text
+$quire-headings-font: $host-grotesque; // headings
+$quire-footnotes-font: $fragment-mono; // footnotes and page backmatter
+$quire-navigation-font: $fragment-mono; // navbar and next/prev buttons
 
 @if $theme == classic {
   // Classic Theme
