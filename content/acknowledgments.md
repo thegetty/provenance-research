@@ -10,6 +10,4 @@ contributor:
 order: 600
 ---
 
-Acknowledgments
-
-TK TK TK
+TK

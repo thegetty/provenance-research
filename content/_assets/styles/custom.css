@@ -163,6 +163,9 @@
 .quire-page__content .container .content ul {
   margin-left: var(--base-indent);
 }
+.quire-page__content .container .content ol {
+  margin-left: calc(var(--base-indent) + 1rem);
+}
 .quire-page__content .container .content li p {
   text-indent: 0;
 }
@@ -205,6 +208,15 @@
 }
 .quire-page__content .container .content .footnotes ol li {
   margin-bottom: 0;
+}
+/* BIBLIOGRAPHY TERMS */
+.quire-page__content .container .content dl dt {
+  font-family: 'Fragment Mono';
+  font-size: .83rem;
+  font-weight: normal;
+  line-height: 1.2;
+  line-height: 1.2;
+  text-transform: uppercase;
 }
 
 /* NAV
@@ -341,6 +353,9 @@ div.publisher p:first-child {
 }
 .accordion-section[open] {
   margin-bottom: 2.5rem;
+}
+p + .accordion-section:last-child {
+  margin-top: 2.5rem;
 }
 .quire-page .accordion-section__body h2:not(:first-child), 
 .quire-page .accordion-section__body h3:not(:first-child), 
