@@ -27,7 +27,7 @@ For the purposes of this volume, we use “Mediterranean antiquities” to cover
 
 {% accordionGlobalControls %}
 
-{% accordion '## The Antiquities Provenance Project at the Getty' %}
+{% accordion '## The Antiquities Provenance Project at the Getty' '' 'open' %}
 
 Our project began in 2012 as part of a broader institutional initiative to render our collections and their documentation more accessible. The Getty’s return of objects to Greece and Italy in 2007 was the impetus to prioritize provenance research for its collection of Mediterranean antiquities. Yet there was at that time little in the way of a practical framework for doing this work. In comparison to our peers researching World War II-era provenance or those following protocols established by the North American Graves Protection and Repatriation Act (NAGPRA), we lacked the web portals, digitized archives, agreed-upon standards, and effective means of sharing information with colleagues. Granted, there was already a rich tradition of study that addressed the history of collecting, and extensive bibliography existed for many Grand Tourists who traveled in Italy and sometimes farther east, but objects from their renowned collections often stand, like our own Lansdowne Herakles (70.AA.109),[^3] as exceptional, precisely because of their well-documented histories. Far less easy to track are smaller or less distinctive objects, such as terracotta figurines, gemstones, or pottery and glass vessels. Furthermore, while there is substantial scholarship on the market for Mediterranean antiquities during the eighteenth and nineteenth centuries, the twentieth century, and particularly its second half, remains relatively underexplored. This is precisely the period in which the Getty and many other North American museums were actively collecting and will be the particular focus of this book.
 
@@ -35,7 +35,7 @@ Our brief was to undertake a complete review of the collection—which, if count
 
 {% endaccordion %}
 
-{% accordion '## The Getty’s Antiquities Collection' %} 
+{% accordion '## The Getty’s Antiquities Collection' '' 'open' %} 
 
 J. Paul Getty (1892–1976) stands squarely within the tradition of wealthy North American collectors. The dispersal of European, and especially British, estates between World Wars I and II offered rich pickings to buyers who were flush with funds, keen to assert their cultural standing, and entranced by the art and history of the ancient Mediterranean. Getty’s interests were narrow, primarily spanning European old master paintings, furniture and decorative arts, and Greek and Roman antiquities. Even within these categories, his tastes were limited, and his earliest purchases—starting in 1939 and resuming after World War II—were mostly of Roman sculpture, often depictions of women or goddesses. Marbles from well-known collections, such as those of Lords Lansdowne and Elgin, brought an obvious cachet, and one that Getty prized. Through time spent in Italy, he was able to buy from dealers in Rome, but the bulk of his early purchases came from established firms in New York and London, such as Spink & Son, the Brummer Galleries, and French & Company. In 1954 he established the Ranch House, his residence in Pacific Palisades, as a museum, and the same year marked the first of what would be many purchases from the Paris- and Geneva-based dealer Nicolas Koutoulakis.[^5] From here on, most of Getty’s acquisitions were intended for the museum’s collection, and in fact he had left the United States for Europe in 1951, never to return to California. Acquisitions continued, albeit sporadically, during the 1950s and ’60s, advised by specialists such as Burton Fredericksen, Bernard Ashmole, and Jean Charbonneaux. But the decision in 1968 to build the Getty Villa prompted a major shift, with a dedicated building to fill and a desire to present a more comprehensive array of ancient Mediterranean art. The expanded scope brought with it new approaches to collecting (notably the purchase of the entire stock of Royal Athena Galleries in 1971), and new sources, including donations. From his appointment as curator of antiquities in 1973, Jiří Frel was the motivating force behind acquisitions, especially following Getty’s death in 1976. Frel’s disregard for documentation, coupled with a desire to establish both himself and the still-young collection, during a period in which the looting of archaeological sites in Italy and other source countries was rampant, saw the collection grow exponentially.
 
@@ -49,7 +49,7 @@ We see this publication as another step in this project and draw upon our experi
 
 {% endaccordion %}
 
-{% accordion '## On “Provenance” and “Provenience”' %}
+{% accordion '## On “Provenance” and “Provenience”' '' 'open' %}
 
 We use “provenance” to indicate an object’s history of ownership but recognize that the word’s meaning is highly variable and dependent on context (e.g., it can be used when describing a geographical source of marble or clay). As an art historical term, it can also fall short for antiquities, as it may only encompass an artifact’s modern history and not its ancient production and use. Furthermore, by focusing on the chain of possession the term privileges a particular set of events and individuals in an object’s history and risks overlooking its broader “cultural biography” or “object itinerary.”[^22] This is especially pertinent for an ancient object, which may have functioned in many different ways before its deposition.
 
@@ -57,7 +57,7 @@ Confounding matters further, “provenance” is sometimes seen along with the s
 
 {% endaccordion %}
 
-{% accordion '## The 1970 UNESCO Convention and Guidelines for Provenance Research' %}
+{% accordion '## The 1970 UNESCO Convention and Guidelines for Provenance Research' '' 'open' %}
 
 Newspaper exposés from the 1960s to the early 2000s brought to public attention the rampant market for Mediterranean antiquities and the looting that often fueled it,[^25] and Marlowe’s approach is rooted in a rigorous concern not only for the intellectual consequences of the antiquities trade but also for its material effects. Fundamental in this regard is the 1970 UNESCO Convention on the Means of Prohibiting and Preventing the Illicit Import, Export and Transfer of Ownership of Cultural Property,[^26] which is discussed in detail both by [Brian Rose](/1/) and by [Stephen Clark and Stephen Urice](/3/) in this volume. For present purposes, we note that while 1970 is now established in museum policies and professional guidelines as an important line in the sand when assessing provenance information, the date may have only limited significance. Ratification and implementation of the UNESCO Convention varies by country (in the United States, the Convention on Cultural Property Implementation Act was only passed in 1982 and signed into law in 1983), and even if 1970 is seen as a watershed moment for acknowledging the need to protect cultural heritage, there had long been calls for the recognition of the consequences of looting, particularly in regional newspapers and by concerned archaeologists.[^27] Furthermore, archaeologically rich countries have invoked national patrimony laws that substantially predate 1970 in making claims for restitution (see [Rose](/1/), in this volume), while a recent collection of essays on the fate of Mediterranean antiquities during World War II highlights the need to determine an object’s whereabouts between 1933 and 1945.[^28]
 
@@ -69,7 +69,7 @@ Moreover, there are to date no American organizations for provenance research as
 
 {% endaccordion %}
 
-{% accordion '## Provenance in the Public Eye' %}
+{% accordion '## Provenance in the Public Eye' '' 'open' %}
 
 Advocacy around the protection of cultural heritage over the past fifty years has profoundly—if slowly and sporadically—changed the course of museums, their acquisitions, and their displays.[^36] Even over the time that we have been preparing this book, many institutions have established new roles for research specialists or expanded the responsibilities of existing staff.[^37] Outreach—through exhibits, blogs, permanent gallery installations, and social media—has paved the way for greater dialogue, and these trends are also apparent in academia, where provenance, once largely the realm of cultural heritage classes, has now become a subject for dedicated study.
 
@@ -77,7 +77,7 @@ Individuals and communities have also adapted to this changing landscape, whethe
 
 {% endaccordion %}
 
-{% accordion '## Using This Book' %}
+{% accordion '## Using This Book' '' 'open' %}
 
 The preceding paragraphs merely scratch the surface of this rapidly evolving field, and more detail on many of the topics considered here can be found throughout the following chapters and particularly in the [Annotated Resource Guide](/appendix-1/). Taking advantage of the publication’s online format, and recognizing that readers will approach it with different needs and levels of experience, each chapter can be read independently, but together they complement one another. Brian Rose’s essay, [“Mediterranean Archaeology and Provenance Research: A Diachronic Perspective,”](/1/) presents the *longue durée*, drawing from his own experiences as a scholar, archaeologist, and curator. His survey spans triumphal commemoration in the ancient Near East and the Roman taste for Greek antiquities, the burgeoning interest in the Greco-Roman past during the Renaissance, the development of archaeological methods and the founding of the first museums, through to the legal cases, scholarly studies, and shifting ethical norms that have shaped where we stand today.
 
