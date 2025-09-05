@@ -1,6 +1,6 @@
 ---
-title: Appendix 1
-subtitle: Annotated Resource Guide
+label: Appendix I
+title: Annotated Resource Guide
 short_title: Annotated Resource Guide
 layout: essay
 contributor:
@@ -20,11 +20,11 @@ Because the afterlives of antiquities are rarely linear, successful searches rel
 
 To aid in identifying materials, where possible we have included contextual information about the date of the material, scope of the collection, including material relevant to artwork from outside the Mediterranean, and additional notes about using the resource. This resource guide cannot list every archive in every category and so it is intended more as a comprehensive guide to types of resources, with specific archives or titles highlighted as examples. The particular dealers, donors, collectors, and academics most relevant to your search will guide your choices of archives.
 
+<div class="provenance-resources">
+
 {% accordionGlobalControls %}
 
-{% accordion '## Top Level Resources for Getting Started' %}
-
-{% endaccordion %}
+## Top Level Resources for Getting Started
 
 {% accordion '### Guidelines' %}
 
@@ -411,9 +411,9 @@ Contains records for more than 130,000 pieces of ancient Greek painted pottery. 
 https://www.latrobe.edu.au/research/centres/trendall
 More than 40,000 photographs of South Italian and Sicilian red-figured vases acquired by Trendall to support his vase publications, which extensively document material both on the art market and in private collections. The Trendall archive does not contain correspondence or other paperwork relating to the photographs or vases. More than 400 duplicates of Trendall’s images are held by the Getty Research Institute as part of the Photo Archive: <https://primo.getty.edu/permalink/f/19q6gmb/GETTY_ALMA21132663900001551>
 
-Literature
+***Literature***
 Trendall, A. D. *The Red-Figured Vases of Lucania, Campania and Sicily* (Oxford: Clarendon Press, 1967).
-Trendall, A. D., and Alexander Cambitoglou. *The Red-Figured Vases of Apulia* (1978–82) and *Supplements* (1983–92) (Oxford: Oxford University Press).
+Trendall, A. D., and Alexander Cambitoglou. *The Red-Figured Vases of Apulia* (1978–82) and *Supplements* (1983–92) (Oxford: Oxford University Press). {.provenance-literature}
 
 **Sur la piste des œuvres antiques**
 <https://ventesdantiques.inha.fr/>
@@ -455,8 +455,8 @@ Based in a corpus of papyrological documents from Graeco-Roman Egypt, Trismegist
 https://usepigraphy.brown.edu/projects/usep/about/
 USEP documents thousands of ancient inscriptions in Greek, Latin, and a sampling of other ancient languages that are held by American collections, with some auction additions. Entries include bibliography, images, transcriptions, and translations.
 
-Literature
-Bodel, John P., and Stephen V. Tracy. *Greek and Latin Inscriptions in the USA: A Checklist* (New York: American Academy in Rome, 1997).
+***Literature***
+Bodel, John P., and Stephen V. Tracy. *Greek and Latin Inscriptions in the USA: A Checklist* (New York: American Academy in Rome, 1997).  {.provenance-literature}
 
 #### Numismatics
 
@@ -511,10 +511,9 @@ More than 8,000 photographs and negatives of Egyptian antiquities taken by Egypt
 <https://totenbuch.awk.nrw.de/>
 A database of nearly 3,000 records of Egyptian Book of the Dead materials around the world, both on the market and in private and public collections, grounded in research conducted at Göttingen over the previous decade. It usefully links fragmented manuscripts, papyri, and mummy bandages divided between different collections, along with relevant bibliography. The website was launched in 2012 and there have been some more recent updates.
 
-Literature
+***Literature***
 Hagen, Fredrik, and Kim Ryholt. *The Antiquities Trade in Egypt 1880–1930: The H.O. Lange Papers* (Copenhagen: Det Kongelige Danske Videnskabernes Selskab, 2016).
-
-Stevenson, Alice. *Scattered Finds: Archaeology, Egyptology and Museums* (London: UCL Press, 2019; <https://doi.org/10.2307/j.ctv550cxt>).
+Stevenson, Alice. *Scattered Finds: Archaeology, Egyptology and Museums* (London: UCL Press, 2019; <https://doi.org/10.2307/j.ctv550cxt>). {.provenance-literature}
 
 #### Photo Archives
 
@@ -535,19 +534,15 @@ The GRI’s Photo Archive encompasses millions of photographs with specific Medi
 <https://fondazionezeri.unibo.it/en/photo-archive>
 This photo archive includes a section on ancient artworks, including some dealer photographs. Other photographs provide useful comparanda for dealer and photographer marks. The library also contains numerous auction catalogues.
 
-Literature
+***Literature***
 For more on the practices behind historic dealer-created photography, see:
 Norskov, Vinnie. “The Photographs in John Marshall’s Archive.” In *Ancient Art and Its Commerce in Early Twentieth-Century Europe: The John Marshall Archive: A Collection of Essays Written by the Participants of the John Marshall Archive Project*, edited by Guido Petruccioli, 54–57 (Oxford: Archaeopress, 2022).
-
 Bärnighausen, Julia. “Bureaucratic Hybrids: Photographs from the Galleria Sangiorgi in Rome at the Kunsthistorisches Institut in Florenz.” *Mitteilungen des Kunsthistorischen Institutes in Florenz* 62, no. 1 (2020): 43–67.
-
-See [chapter 2](/2/#assembling-provenance-information) for our discussion of using photographs as an information source for antiquities and some cautions regarding their analysis.
-
-{% endaccordion %}
-
-{% accordion '## Event-Focused Resources' %}
+See [chapter 2](/2/#assembling-provenance-information) for our discussion of using photographs as an information source for antiquities and some cautions regarding their analysis. {.provenance-literature}
 
 {% endaccordion %}
+
+## Event-Focused Resources
 
 {% accordion '### Auctions' %} 
 
@@ -596,10 +591,12 @@ A comprehensive collection on microform of scans of Sotheby auction catalogues f
 
 #### Auction House Archives
 
-International
+##### International
+
 Many larger auction houses, including Sotheby’s, Christie’s, and Bonhams, maintain in-house archives of catalogues and other materials, which may include additional annotations for price codes, buyers, and sellers. Access by outside researchers is often limited, but the relevant department should be contacted for case-by-case information.[^2] Records for auction houses bought by another firm are sometimes retained, and the current firm should be contacted regarding access. See [chapter 2](/2/#auction-and-sales-catalogues) for discussion of published price and buyer lists.
 
-France
+##### France
+
 For auctions in Paris, the Archives de Paris preserves a wealth of the *procès-verbaux de ventes* (auction minutes) from French *commisaires-priseurs* (auctioneers)
 
 **Les ventes d’antiques en France au XIXe siècle. “Archives des commissaires-priseurs”**
@@ -610,11 +607,12 @@ A detailed and useful summary of sources.
 https://archives.paris.fr/_depot_ad75/_depot_arko/ead/FIC0002.pdf
 A listing by personal name of *commissaires-priseurs* archives at the Archives de Paris.
 
-Literature
+***Literature***
 Rouge-Ducos, Isabelle. *Le crieur et le marteau: Histoire des commissaires-priseurs de Paris (1801–1945)* (Paris: Editions Belin, 2013).
-Saint-Raymond, Léa. *À la conquête du marché de l’art: Le Pari(s) des enchères (1830–1939)* (Paris: Classiques Garnier, 2021).
+Saint-Raymond, Léa. *À la conquête du marché de l’art: Le Pari(s) des enchères (1830–1939)* (Paris: Classiques Garnier, 2021). {.provenance-literature}
 
-Germany
+##### Germany
+
 **Arthistoricum. “Auctioneer's Copies of the Catalogues of the Auction House Hugo Helbing”**
 <https://www.arthistoricum.net/en/subjects/thematic-portals/german-sales/helbing>
 More than a thousand auctioneer copies of catalogues from the firm Galerie Hugo Helbing (Hugo Helbing; active 1885–1937 in Munich, Berlin, and Frankfurt) have been digitized and made available. Annotations include sales data such as reserve prices, consignors, buyers, and indications of sales outside of auctions.
@@ -625,8 +623,10 @@ More than a thousand auctioneer copies of catalogues from the firm Galerie Hugo 
 
 Given the large corpus of guides dedicated to provenance research concerning the years during and after World War II (see “Provenance Research Guides” above), this section will not seek to reproduce their efforts. However, as Mediterranean antiquities have not, to date, often been a focus of these investigations, gaps in an object’s provenance between 1930 and 1945 should be treated with the same diligence as for European paintings and sculpture. Mediterranean antiquities continued to be part of the European art market during the war, and subject to seizure and forced sales as with other material from private collections and gallery sources. Antiquities were also looted from museum collections and excavation stores, some of which have surfaced or been identified in more recent years.[^3] However, many countries have not yet made World War II–era archival information accessible.
 
-Literature
+#### Literature
+
 One important new contribution to the literature on Mediterranean antiquities during World War II brings together case studies from across the field and provides insight into relevant archives and the unique challenges of researching this kind of material within the contexts of World War II.
+
 Romano, Irene, ed. 2023. “The Fate of Antiquities in the Nazi Era.” Special issue, *RIHA Journal*. <https://doi.org/10.11588/riha.2022.2>.
 
 Choudhury, Najiba. “Seizures and Liquidation Sales in the United States During World War II: Tracking the Fate of Japanese Art Dealership, Yamanaka & Company, Inc.” *Journal for Art Market Studies* 4, no. 2 (2020). <https://doi.org/10.23690/jams.v4i2.125>.
@@ -663,8 +663,8 @@ Managed by the Musées nationaux récupération (MNR)
 **Origins Unknown: Art and the Second World War [Netherlands]**
 <https://www.herkomstgezocht.nl/origins-unknown>
 
-Literature
-Grimsted, Patricia Kennedy. “ERR Archival Guide: Reconstructing the Record of Nazi Cultural Plunder: A Guide to the Dispersed Archives of the Einsatzstab Reichsleiter Rosenberg (ERR) and the Postwar Retrieval of ERR Loot.” *Cultural Plunder by the Einsatzstab Reichsleiter Rosenberg*. 2011–22. <https://www.errproject.org/guide.php>
+***Literature***
+Grimsted, Patricia Kennedy. “ERR Archival Guide: Reconstructing the Record of Nazi Cultural Plunder: A Guide to the Dispersed Archives of the Einsatzstab Reichsleiter Rosenberg (ERR) and the Postwar Retrieval of ERR Loot.” *Cultural Plunder by the Einsatzstab Reichsleiter Rosenberg*. 2011–22. <https://www.errproject.org/guide.php> {.provenance-literature}
 
 #### Databases
 
@@ -760,8 +760,8 @@ The archives of Arndt contain extensive correspondence with dealers and collecto
 <https://primo.getty.edu/permalink/f/19q6gmb/GETTY_ALMA21143962670001551>
 Perhaps best known for his work as chief photographer for the Central Collecting Point, Munich, after World War II, Felbermeyer was a photographer first for the Deutsches Archäologisches Institut-Rom (DAI-Rom) before the war, and after 1950, at the American Academy in Rome. Photographs largely represent site and project-specific photography. However, as discussed in “Case Study: Photographic Archives in Context” in [chapter 2](/2/#photographic-archives), Felbermeyer’s subjects also included a number of antiquities held in private collections or on the art market; some of these photographs also became part of the DAI-Rom's photo archive. Some photographs preserve limited annotations, but they are largely undated and unlabeled. Where preserved in the DAI-Rom archive, their “Inverbuch” files provide some additional data, such as the date the photograph entered their records.
 
-Literature
-Blecksmith, Anne. “The Johannes Felbermeyer Collection at the Getty Research Institute.” *Visual Resources Association Bulletin* 39, no. 1 (2012): 1–6.
+***Literature***
+Blecksmith, Anne. “The Johannes Felbermeyer Collection at the Getty Research Institute.” *Visual Resources Association Bulletin* 39, no. 1 (2012): 1–6. {.provenance-literature}
 
 **Paul Perdrizet (1870–1938)**
 **Archives Paul Perdrizet**
@@ -769,8 +769,8 @@ Blecksmith, Anne. “The Johannes Felbermeyer Collection at the Getty Research I
 <http://perdrizet.hiscant.univ-lorraine.fr/>
 Correspondence, photographs, and other documentation of Perdrizet’s research, including private collections, notably that of Daniel Marie Fouquet.
 
-Literature
-Bennett, Danielle Smotherman. “Identifying Old Collection Marks on Hellenistic and Roman Terracottas Associated with the Collection of Daniel Marie Fouquet.” *Transfer: Zeitschrift für Provenienzforschung und Sammlungsgeschichte \| Journal for Provenance Research and the History of Collection* 2 (2023). <https://doi.org/10.48640/tf.2023.1.101806>.
+***Literature***
+Bennett, Danielle Smotherman. “Identifying Old Collection Marks on Hellenistic and Roman Terracottas Associated with the Collection of Daniel Marie Fouquet.” *Transfer: Zeitschrift für Provenienzforschung und Sammlungsgeschichte \| Journal for Provenance Research and the History of Collection* 2 (2023). <https://doi.org/10.48640/tf.2023.1.101806>. {.provenance-literature}
 
 **Salomon Reinach 1860–1932**
 **Fonds Salomon Reinach**
@@ -778,8 +778,8 @@ Bennett, Danielle Smotherman. “Identifying Old Collection Marks on Hellenistic
 <https://calames.abes.fr/pub/#details?id=FileId-3372>
 Particularly important for provenance research because of its photographic holdings of ancient works of art. The Reinach archival material also includes books, correspondence, and much more.
 
-Literature
-Peyrard, Alix. 2021. “Les dons de Salomon Reinach à la Bibliothèque d’art et d’archéologie.” Bibliothèque d'art et d'archéologie Jacques Doucet. April 24. <https://baadoucet.hypotheses.org/899>.
+***Literature***
+Peyrard, Alix. 2021. “Les dons de Salomon Reinach à la Bibliothèque d’art et d’archéologie.” Bibliothèque d'art et d'archéologie Jacques Doucet. April 24. <https://baadoucet.hypotheses.org/899>. {.provenance-literature}
 
 **Karl Schefold (1905–1999)**
 **Nachlass Karl Schefold**
@@ -857,16 +857,12 @@ A digitized card file and correspondence with photographs and extensive annotati
 http://opacmuseicivicifiorentini.comune.fi.it/mcf/storico/archivio-storico.html
 Bardini is best known as a dealer for medieval and Renaissance Italian works of art, and access to his rich archival materials remains limited. However, a wealth of publications on the archive, particularly on his rich photographic legacy, provide valuable insight and evidence for its utility in provenance research for Mediterranean antiquities.
 
-Literature
+***Literature***
 Capecchi, Gabriella. *L'Archivio Storico Fotografico di Stefano Bardini: Arte Greca Etrusca Romana* (Florence: A. Bruschi, 1993).
-
 Catterson, Lynn. “Bardini, Stefano” (2003). *Grove Art Online*. <https://doi.org/10.1093/gao/9781884446054.article.T006332>.
-
 Catterson, Lynn. “From Visual Inventory to Trophy Clippings: Bardini & Co. and the Use of Photography in the Late Nineteenth-Century Art Market.” *Mitteilungen des Kunsthistorischen Institutes in Florenz* 62, no. 1 (2020): 69–91.
-
 Moskowitz, Anita F. 2018. “The Photographic Archive of Stefano Bardini: A Few Case Studies of Its Utility.” *Source: Notes in the History of Art* 37, no. 4: 237–45.
-
-Tunesi, Annalea. “Stefano Bardini's Photographic Archive: A Visual Historical Document.” PhD thesis, University of Leeds, 2014.
+Tunesi, Annalea. “Stefano Bardini's Photographic Archive: A Visual Historical Document.” PhD thesis, University of Leeds, 2014. {.provenance-literature}
 
 **Alfredo Barsanti (1877–1946)**
 **Barsanti Archive**
@@ -886,8 +882,8 @@ Object photographs, object catalogue cards, and cards relating to the customers,
 https://www.metmuseum.org/art/libraries-and-research-centers/watson-digital-collections/cloisters-archives-collections/the-brummer-gallery-records
 As discussed throughout chapter 2 of this volume, the Brummer Gallery records include catalogue cards, stockbooks, correspondence, purchaser notes, photographs, and much more relating to decades of gallery activity, primarily in New York but with some notice of their Paris activities as well.
 
-Literature
-Biro, Yaëlle et al., eds. *The Brummer Galleries, Paris and New York Defining Taste from Antiquities to the Avant-Garde* (Leiden: Brill, 2023).
+***Literature***
+Biro, Yaëlle et al., eds. *The Brummer Galleries, Paris and New York Defining Taste from Antiquities to the Avant-Garde* (Leiden: Brill, 2023). {.provenance-literature}
 
 **Galerie Demotte**
 **Reconstitution du catalogue des ventes des antiquaires Demotte**
@@ -907,8 +903,8 @@ A vast archive of material covering 1929 to 2009; see particularly sections on g
 https://www.metmuseum.org/art/libraries-and-research-centers/the-onassis-library-for-hellenic-and-roman-art
 Object photographs, correspondence, invoices, exhibition material, and more. Includes material from the New York and Paris galleries. Contact the library for access.
 
-Literature
-Anderson-Zhu, Lisa. “An Obscenely Humorous Sam Wide Group Kylix at the Walters Art Museum; Addendum: Provenance.” *Journal of the Walters Art Museum* 76 (2023). <https://journal.thewalters.org/volume/76/note/kylix/>.
+***Literature***
+Anderson-Zhu, Lisa. “An Obscenely Humorous Sam Wide Group Kylix at the Walters Art Museum; Addendum: Provenance.” *Journal of the Walters Art Museum* 76 (2023). <https://journal.thewalters.org/volume/76/note/kylix/>. {.provenance-literature}
 
 **Mathias Komor (1909–1984)**
 **Mathias Komor Photographic Archive, 1935–1978**
@@ -916,8 +912,8 @@ Anderson-Zhu, Lisa. “An Obscenely Humorous Sam Wide Group Kylix at the Walters
 http://primo.getty.edu/GRI:GETTY_ALMA21134429650001551
 This photographic archive represents both objects handled by the gallery and additional comparative material; it does not appear to represent a complete record of the gallery’s activities. The photographs are undated, and there is no evident chronology; some have photographer stamps and additional annotations, particularly for the Egyptian section. Includes antiquities from around the world.
 
-Literature
-Ogbechie, Sylvester Okwunodu. “Mathias Komor and the Market for African Art in New York.” In *Acquiring Cultures: Histories of World Art on Western Markets*, edited by Bénédicte Savoy, Charlotte Guichard, and Christine Howald, 167–88 (Berlin: De Gruyter, 2019).
+***Literature***
+Ogbechie, Sylvester Okwunodu. “Mathias Komor and the Market for African Art in New York.” In *Acquiring Cultures: Histories of World Art on Western Markets*, edited by Bénédicte Savoy, Charlotte Guichard, and Christine Howald, 167–88 (Berlin: De Gruyter, 2019). {.provenance-literature}
 
 **John Marshall (1862–1928)**
 **John Marshall Archive**
@@ -925,8 +921,8 @@ Ogbechie, Sylvester Okwunodu. “Mathias Komor and the Market for African Art in
 <https://digitalcollections.bsr.ac.uk/Marshall-collection>
 The archive includes photographs, notes, and a card file relating to the collecting practices of Marshall, a formative antiquities dealer and agent active in Rome in the early twentieth century. Entries include references to current holding institutions where known. Some entries link to digitized related correspondence.
 
-Literature
-Petruccioli, Guido. *Ancient Art and its Commerce in Early Twentieth-Century Europe A Collection of Essays Written by the Participants of the John Marshall Archive Project* (Oxford: Archaeopress, 2022).
+***Literature***
+Petruccioli, Guido. *Ancient Art and its Commerce in Early Twentieth-Century Europe A Collection of Essays Written by the Participants of the John Marshall Archive Project* (Oxford: Archaeopress, 2022). {.provenance-literature}
 
 **Stendahl Art Gallery (ca. 1900–2017)**
 **Stendahl Art Galleries Records**
@@ -953,8 +949,8 @@ A listing of the negatives.
 https://www.metmuseum.org/art/libraries-and-research-centers/the-onassis-library-for-hellenic-and-roman-art
 Extensive archival holdings of Piero Tozzi, a dealer and antiquarian active in both New York and Florence, including correspondence with museums, dealers, and collectors; shipping documentation; photographs; and more. Tozzi handled Mediterranean antiquities in addition to Renaissance and later works of art. Contact the library for access.
 
-Literature
-Dunn-Vaturi, Anne, and Erhan Tamur. “Kings, Dealers, and Librarians: The Story of a Statue of Shulgi” (2023). <https://www.metmuseum.org/essays/nypl-dispatch-2>.
+***Literature***
+Dunn-Vaturi, Anne, and Erhan Tamur. “Kings, Dealers, and Librarians: The Story of a Statue of Shulgi” (2023). <https://www.metmuseum.org/essays/nypl-dispatch-2>. {.provenance-literature}
 
 **Dieter Widmer (1918–2011), photographer for dealer Elie Borowski**
 **Dieter Widmer Photographs of Antiquities from the Ancient Mediterranean World**
@@ -964,6 +960,8 @@ https://primo.getty.edu/permalink/f/19q6gmb/GETTY_ALMA21251920700001551
 Based in Basel, Widmer was a popular photographer for Swiss dealers, museums, and collectors throughout the second half of the twentieth century. This collection of more than 1,800 negatives preserves photographs taken for the dealer Elie Borowski (1913–2003) between 1954 and 1982, each dated by month and year. See also <http://www.fotoarchive.org/_archive/widm/info.html>.
 
 {% endaccordion %}
+
+</div>
 
 {% accordion '## Notes' %}
 

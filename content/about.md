@@ -53,27 +53,29 @@ outputs:
 {% copyright %}
 
 {% for press in publication.publisher %}
-**Published by the {{ press.name }}, {{ press.location }}**
+**Published by the {{ press.name }}, {{ press.location }}** {.no-line-space-below}
 {{ press.address | markdownify }}
 {% endfor %}
+
+<div class="project-team">
 
 {% for person in publication.project_team %}
 - {{ person | markdownify }}
 {% endfor %}
 
+</div>
+<div class="cip-data">
+
 {{ publication.library_of_congress_cip | markdownify }}
+
+</div>
 
 This publication was peer reviewed through a single-masked process in which the reviewers remained anonymous.
 
-Front cover: *Title*, date (detail, plate/fig. 00)
-Back cover: *Title*, date (detail, plate/fig. 00)
-Title page: *Title*, date (detail, plate/fig. 00)
-[any other decorative image captions here]
+Front cover: TK
 
-Illustration Credits
+Illustration Credits {.no-line-space-below}
 
 Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings. 
-
-Authorized Product Safety Representative in the European Union: Easy Access System Europe, Mustamäe tee 50, 10621 Tallinn, Estonia, [gpsr.requests@easproject.com](mailto:gpsr.requests@easproject.com)
 
 {% endbackmatter %}

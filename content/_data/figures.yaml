@@ -4,23 +4,20 @@ figure_list:
     src: "figures/fig-01.jpg"
     label: "Figure 1"
     zoom: true
-    caption: "[One of the Twelve Mummy Wrappings with Texts and Vignettes, acquired in 1983 (83.AI.47.1.1).](https://www.getty.edu/art/collection/object/1061YT)"
+    caption: "[One of the Twelve Mummy Wrappings with Texts and Vignettes, acquired in 1983 ([83.AI.47.1.1](https://www.getty.edu/art/collection/object/1061YT))."
     credit:
 
-  - id: "fig-2"
-    label: "Figure 2**ASK RACHEL"
+  - id: "fig-2-a"
+    src: figures/fig-02-a.jpg
+    label: "a"
     zoom: true
-    caption: "Detail from a composite image showing the join between linen wrapping of Petosiris, son of Tetosiris: left, from the ​J. Paul Getty Museum (83.AI.47.1.1); right, from the Teece Museum, Christchurch, New Zealand, James Logie Memorial Collection (121.73)."
-    credit: "Photo: Foy D. Scalf. © Photograph courtesy Teece Museum of Classical Antiquities, University of Canterbury, New Zealand."
-    annotations:
-    - input: radio
-      items:
-        - label: ""
-          src: figures/fig-02-a.jpg
-          alt: ""
-        - label: ""
-          src: figures/fig-02-b.png
-          alt: ""
+    # caption: "Detail from a composite image showing the join between linen wrapping of Petosiris, son of Tetosiris: left, from the ​J. Paul Getty Museum (83.AI.47.1.1); right, from the Teece Museum, Christchurch, New Zealand, James Logie Memorial Collection (121.73)."
+    # credit: "Photo: Foy D. Scalf. © Photograph courtesy Teece Museum of Classical Antiquities, University of Canterbury, New Zealand."
+  
+  - id: "fig-2-b"
+    src: figures/fig-02-b.jpg
+    label: "b"
+    zoom: true
   
   - id: "fig-3"
     src: "figures/fig-03-fpo.jpg"
@@ -49,25 +46,22 @@ figure_list:
       TK."
     credit: "Photo: Scala / Ministero per i Beni e le Attività culturali / Art Resource, NY"
   
-  - id: "fig-6"
-    label: "Figure 6"
+  - id: "fig-6-a"
+    src: figures/fig-06-a.jpg
+    label: "a"
     zoom: true
-    caption: "Group of 218 Greek, Roman, Etruscan Engraved Gems and Rings (81.AN.76),
-      each with different collecting histories (pictured: 81.AN.76.3, 81.AN.76.49,
-      81.AN.76.110)."
-    credit: "Photo: TK"
-    annotations:
-    - input: radio
-      items:
-        - label: ""
-          src: figures/fig-06-a.jpg
-          alt: ""
-        - label: ""
-          src: figures/fig-06-b.jpg
-          alt: ""
-        - label: ""
-          src: figures/fig-06-c.jpg
-          alt: ""
+    # caption: "Group of 218 Greek, Roman, Etruscan Engraved Gems and Rings (81.AN.76), each with different collecting histories (pictured: 81.AN.76.3, 81.AN.76.49, 81.AN.76.110)."
+    # credit: "Photo: TK"
+  
+  - id: "fig-6-b"
+    src: figures/fig-06-b.jpg
+    label: "b"
+    zoom: true
+
+  - id: "fig-6-c"
+    src: figures/fig-06-c.jpg
+    label: "c"
+    zoom: true
   
   - id: "fig-7"
     src: "figures/fig-07.jpg"
@@ -83,27 +77,17 @@ figure_list:
     caption: "Brummer collection stickers from marble Herm of Hermes (79.AA.132)."
     credit: ""
   
-  - id: "fig-9"
-    label: "Figure 9"
+  - id: "fig-9-a"
+    src: figures/fig-09-a.jpg
+    label: "a"
     zoom: true
-    caption: "Cahn collection numbers preserved on two Attic Red-Figure Psykter Fragments
-      (98.AE.98.1 and 98.AE.98.2)."
-    credit: ""
-    annotations:
-    - input: radio
-      items:
-        - label: ""
-          src: figures/fig-09-a.jpg
-          alt: ""
-        - label: ""
-          src: figures/fig-09-b.jpg
-          alt: ""
-        - label: ""
-          src: figures/fig-09-c.jpg
-          alt: ""
-        - label: ""
-          src: figures/fig-09-d.jpg
-          alt: ""
+    # caption: "Cahn collection numbers preserved on two Attic Red-Figure Psykter Fragments (98.AE.98.1 and 98.AE.98.2)."
+    # credit: ""
+
+  - id: "fig-9-b"
+    src: figures/fig-09-b.jpg
+    label: "b"
+    zoom: true
 
   - id: "fig-10"
     src: "figures/fig-10.jpg"
@@ -129,20 +113,12 @@ figure_list:
     credit: ""
 
   - id: "fig-13"
+    src: figures/fig-13.jpg
     label: "Figure 13"
     zoom: true
     caption: "Sir Charles Alfred William Rycroft monogram preserved under the handle of
       Attic Red-Figure Kylix (82.AE.42)."
     credit: ""
-    annotations:
-    - input: radio
-      items:
-        - label: ""
-          src: figures/fig-13-a.jpg
-          alt: ""
-        - label: ""
-          src: figures/fig-13-b.jpg
-          alt: ""
   
   - id: "fig-14"
     src: "figures/fig-14.jpg"
@@ -160,19 +136,11 @@ figure_list:
     credit: ""
   
   - id: "fig-16"
+    src: figures/fig-16.jpg
     label: "Figure 16"
     zoom: true
     caption: "Detail of the underside of Campanian Neck Amphora (82.AE.128)."
     credit: ""
-    annotations:
-    - input: radio
-      items:
-        - label: ""
-          src: figures/fig-16-a.jpg
-          alt: ""
-        - label: ""
-          src: figures/fig-16-b.jpg
-          alt: ""
   
   - id: "fig-17"
     src: "figures/fig-17.jpg"
@@ -197,28 +165,24 @@ figure_list:
       (79.AP.129)."
     credit: "Photo: Marie Svoboda, J. Paul Getty Museum"
   
-  - id: "fig-20"
-    label: "Figure 20"
+  - id: "fig-20-a"
+    src: figures/fig-20-a.jpg
+    label: "a"
     zoom: true
-    caption: "Statuette of a Sacrificing Woman (78.AB.408.1), front and back; collector’s
-      marks on the back."
-    credit: ""
-    annotations:
-    - input: radio
-      items:
-        - label: ""
-          src: figures/fig-20-a.jpg
-          alt: ""
-        - label: ""
-          src: figures/fig-20-b.jpg
-          alt: ""
+    # caption: "Statuette of a Sacrificing Woman (78.AB.408.1), front and back; collector’s marks on the back."
+    # credit: ""
   
+  - id: "fig-20-b"
+    src: figures/fig-20-b.jpg
+    label: "b"
+    zoom: true
+
   - id: "fig-21"
     src: "figures/fig-21-fpo.jpg"
     label: "Figure 21"
     #zoom: true
     caption: "Detail of auction catalogue price list from Sotheby's London, auction of
-      antiquities, July 22, 1963, $$Sotheby’s 1963$$."
+      antiquities, July 22, 1963, Sotheby’s 1963."
     credit: "Photo:"
   
   - id: "fig-22"
@@ -229,36 +193,29 @@ figure_list:
       (57.AD.9)."
     credit: ""
   
-  - id: "fig-23-1"
+  - id: "fig-23-a"
     src: "figures/fig-23-a-fpo.jpg"
-    label: "Figure 23.1"
+    label: "a"
     #zoom: true
-    caption: "Statue of a Draped Woman (72.AA.153) at the time of its acquisition in
-      1972."
-    credit: ""
+    # caption: "Statue of a Draped Woman (72.AA.153) at the time of its acquisition in 1972 (a); and late nineteenth- or early twentieth-century photograph, DAI-Rome Photo Archive EA 5022 (b)."
+    # credit: ""
   
-  - id: "fig-23-2"
+  - id: "fig-23-b"
     src: "figures/fig-23-b.jpg"
-    label: "Figure 23.2"
+    label: "b"
     zoom: true
-    caption: "Late nineteenth- or early twentieth-century photograph, DAI-Rome Photo
-      Archive EA 5022."
-    credit: ""
   
-  - id: "fig-24"
-    label: "Figure 24"
+  - id: "fig-24-a"
+    src: figures/fig-24-a.jpg
+    label: "a"
     zoom: true
-    caption: "Cinerary Urn Lid with a Reclining Man (71.AD.293.2)."
-    credit: ""
-    annotations:
-    - input: radio
-      items:
-        - label: ""
-          src: figures/fig-24-a.jpg
-          alt: ""
-        - label: ""
-          src: figures/fig-24-b.jpg
-          alt: ""
+    # caption: "Cinerary Urn Lid with a Reclining Man (71.AD.293.2)."
+    # credit: ""
+  
+  - id: "fig-24-b"
+    src: figures/fig-24-b.jpg
+    label: "b"
+    zoom: true
   
   - id: "fig-25"
     src: "figures/fig-25.jpg"
@@ -352,7 +309,7 @@ figure_list:
     label: "Figure 36"
     zoom: true
     caption: "Illustration in 1905 auction catalogue with the Getty’s Portrait of a Man
-      (74.AA.63) in the center,  $$Fifth Avenue Art Galleries 1905$$, lot 622."
+      (74.AA.63) in the center,  Fifth Avenue Art Galleries 1905, lot 622."
     credit: ""
   
   - id: "fig-37"
@@ -394,7 +351,7 @@ figure_list:
     credit: ""
   
   - id: "fig-42"
-    src: "figures/fig-42.png"
+    src: "figures/fig-42.jpg"
     label: "Figure 42"
     zoom: true
     caption: "Online collection catalogue, provenance page of Mazarin Venus (54.AA.11)."

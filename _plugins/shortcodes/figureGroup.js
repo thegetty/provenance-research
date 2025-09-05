@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE 
+// Add group label, caption, and credit
+//
 import { oneLine } from '#lib/common-tags/index.js'
 import chalkFactory from '#lib/chalk/index.js'
 import figure from './figure.js'
@@ -12,7 +16,10 @@ const logger = chalkFactory('shortcodes:figureGroup')
  * @return     {String}  An HTML string of the elements to render
  */
 export default function (eleventyConfig, { page }) {
-  return async function (columns, ids = []) {
+  const figureCaption = eleventyConfig.getFilter('figureCaption')
+  const figureLabel = eleventyConfig.getFilter('figureLabel')
+
+  return async function (columns, ids = [], label, caption, credit) {
     columns = parseInt(columns)
 
     /**
@@ -44,9 +51,14 @@ export default function (eleventyConfig, { page }) {
       figureTags.push(`<div class="q-figure--group__row columns">${row}</div>`)
     }
 
+    const labelId = ids.slice(0,1).toString()
+    const labelElement = label ? figureLabel({ id: labelId, label }) : ''
+    const captionElement = figureCaption({ caption, content: labelElement, credit })
+
     return oneLine`
       <figure class="q-figure q-figure--group">
         ${figureTags.join('\n')}
+        ${captionElement}
       </figure>
     `
   }

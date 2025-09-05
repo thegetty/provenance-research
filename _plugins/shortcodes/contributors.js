@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Refactor logic to handle oxford commas correctly
+//
 import chalkFactory from '#lib/chalk/index.js'
 import { html } from '#lib/common-tags/index.js'
 
@@ -113,10 +117,14 @@ export default function (eleventyConfig) {
       }
       case 'string': {
         const last = contributorNames.pop()
-        const namesString =
-          contributorNames.length >= 1
-            ? contributorNames.join(', ') + ', and ' + last
-            : last
+        let namesString = ''
+        if (contributorNames.length > 1) {
+          namesString = contributorNames.join(', ') + ', and ' + last
+        } else if (contributorNames.length == 1 ){
+          namesString = contributorNames + ' and ' + last
+        } else {
+          namesString = last
+        }
         contributorsElement = `<span class='quire-contributor'>${namesString}</span>`
         break
       }

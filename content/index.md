@@ -4,7 +4,10 @@ layout: cover
 order: 1
 menu: false
 toc: false
-image: spiral-overlay.png
+outputs:
+  - html
 ---
 
 {{ publication.description.full }}
+
+[ENTER](/contents/) {.cover-button}

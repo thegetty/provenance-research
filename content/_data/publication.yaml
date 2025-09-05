@@ -20,9 +20,8 @@ short_title:
 
 description:
   one_line:
-  full: "The first of its kind, this book is an accessible, comprehensive primer of methods and resources for researching the provenance of Mediterranean (Greek, Roman, and Etruscan) antiquities. In addition to outlining effective strategies for documentation and investigation, the volume features an annotated guide to key archives, databases, and twentieth-century dealers to facilitate a broad spectrum of research endeavors. Building upon a decade-long review of the Getty Museum’s antiquities collection, it draws together instructive case studies, legal perspectives, and practical experience to provide an efficient first point of reference for museum professionals, scholars, collectors, and students. The book aims to emphasize the need for diligent provenance research and to shorten the learning curve for such projects.<br/>The free online edition of this open-access publication is available at getty.edu/publications/provenance-research and includes zoomable illustrations. Also available are free PDF and EPUB downloads of the book."
-
-  online_edition: "The free online edition of this open-access publication is available at getty.edu/publications/provenance-research-for-mediterranean-antiquities and includes zoomable illustrations. Also available are free PDF and EPUB downloads of the book."
+  full: "The first of its kind, this book is an accessible, comprehensive primer of methods and resources for researching the provenance of Mediterranean (Greek, Roman, and Etruscan) antiquities. In addition to outlining effective strategies for documentation and investigation, the volume features an annotated guide to key archives, databases, and twentieth-century dealers to facilitate a broad spectrum of research endeavors. Building upon a decade-long review of the Getty Museum’s antiquities collection, it draws together instructive case studies, legal perspectives, and practical experience to provide an efficient first point of reference for museum professionals, scholars, collectors, and students. The book aims to emphasize the need for diligent provenance research and to shorten the learning curve for such projects."
+  online_edition: "The free online edition of this open-access publication is available at [getty.edu/publications/provenance-research-for-mediterranean-antiquities/](https://getty.edu/publications/provenance-research-for-mediterranean-antiquities/) and includes zoomable illustrations. Also available are free PDF and EPUB downloads of the book."
 
 # ------------------------------------------------------------------------------
 # Publication Details
@@ -157,6 +156,11 @@ resource_link:
     media_type: application/epub+zip
     link_relation: alternate
     url: /downloads/output.epub
+  - type: other-format
+    name: Paperback
+    media_type: print
+    link_relation: alternate
+    url: 
   - type: footer-link
     name: About
     link_relation: about
@@ -164,11 +168,11 @@ resource_link:
   - type: footer-link
     name: Privacy Policy
     link_relation: privacy-policy
-    url:
+    url: https://www.getty.edu/legal/privacy.html
   - type: footer-link
     name: Terms of Use
     link_relation: terms-of-service
-    url:
+    url: https://www.getty.edu/legal/copyright.html
 
 # ------------------------------------------------------------------------------
 # Subjects
@@ -181,13 +185,21 @@ subject:
   - type: keywords
     name: "Reference, Guidebook, Greek, Roman, Etruscan, Egyptian, Near Eastern, Byzantine, open-access, accessible primer, methods, resources, collecting history, investigation, annotated guide to key archives, databases, twentieth-century dealers, case studies, legal perspectives, UNESCO, acquisitions, red line, advocacy, cultural heritage, museums, institutions, Spink and Son, Brummer Galleries, French and Company, Nicolas Koutoulakis, Burton Fredericksen, Bernard Ashmole, Jean Charbonneaux, Jiri Frel, Marion True, Barbara Fleischman, Lawrence Fleischman, tombaroli, tomb robbers, Giacomo Medici, Bianfranco Becchin, Robin Symes, Shelby White, Michael Steinhardt"
 
+library_of_congress_cip: | 
+  Library of Congress Cataloging-in-Publication Data
+  - Names: 
+  - Title: 
+  - Description: 
+  - Identifiers: 
+  - Subjects: 
+
 # ------------------------------------------------------------------------------
 # Revision History
 # ------------------------------------------------------------------------------
 
 revision_history:
-  - date:
-    summary: March 1, 2026
+  - date: March 1, 2026
+    summary: 
       - First edition
 
 revision_statement: |

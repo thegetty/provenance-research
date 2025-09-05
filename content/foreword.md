@@ -7,6 +7,4 @@ contributor:
 order: 6
 ---
 
-Foreword
-
-TK TK TK
+TK

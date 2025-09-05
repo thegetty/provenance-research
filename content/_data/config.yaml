@@ -1,5 +1,5 @@
 accordion:
-  controls: arrow # arrow | plus-minus
+  controls: plus-minus # arrow | plus-minus
   copyButton:
     ariaLabel: Copy page section link to clipboard
     successText: Copied page section link to clipboard
@@ -74,4 +74,4 @@ searchEnabled: true
 tableOfContents:
   contributorDivider: ' — '
 
-quire_credit_line: "This publication was created using Quire™, a multiformat publishing tool from Getty."
+quire_credit_line: "This publication was created using [Quire](https://quire.getty.edu/)™, a multiformat publishing tool from Getty."
