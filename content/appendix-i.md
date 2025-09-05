@@ -1,6 +1,6 @@
 ---
-title: Appendix 1
-subtitle: Annotated Resource Guide
+label: Appendix I
+title: Annotated Resource Guide
 short_title: Annotated Resource Guide
 layout: essay
 contributor:

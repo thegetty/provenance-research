@@ -66,3 +66,6 @@ Add `-epub-pdf` suffix to section id and turn off `checkDuplicates` in `IdAttrib
 
 **_includes/components/copyright/licensing.js**
 Updated licensing language
+
+**_includes/components/table-of-contents/item/list.js**
+Wrapped label in span for styling, and removed arrow graphic

@@ -17,7 +17,7 @@
   .quire::after {
     color: black;
     font-size: .74rem;
-    font-family: 'Fragment Mono';
+    font-family: var(--fragment-mono);
     font-weight: 700;
     position: fixed;
     width: 230px;
@@ -94,6 +94,10 @@
 .quire-page__content .container .content p.no-indent-paragraph {
   text-indent: 0;
 }
+.quire-page__content .container .content p.no-line-space-below,
+.quire-page__content .container .content .backmatter p.no-line-space-below {
+  margin-bottom: 0;
+}
 /* HEADINGS */
 .quire-page h2,
 .quire-page h3,
@@ -147,7 +151,7 @@
 }
 /* FIGURE CAPTIONS */
 .content figure .q-figure__caption {
-  font-family: 'Fragment Mono';
+  font-family: var(--fragment-mono);
   font-size: .74rem;
   line-height: 1.2;
   color: black;
@@ -211,10 +215,9 @@
 }
 /* BIBLIOGRAPHY TERMS */
 .quire-page__content .container .content dl dt {
-  font-family: 'Fragment Mono';
+  font-family: var(--fragment-mono);
   font-size: .83rem;
   font-weight: normal;
-  line-height: 1.2;
   line-height: 1.2;
   text-transform: uppercase;
 }
@@ -243,11 +246,155 @@
   display: none;
 }
 
+/* TOC & MENU
+================================================================== */
+.quire-contents-list .menu-list a {
+  color: black;
+  font-weight: 600;
+  font-size: 1.13rem;
+  letter-spacing: .3px;
+  line-height: 1.2;
+  margin-left: var(--base-indent);
+}
+.quire-contents-list .menu-list a .page-label {
+  display: block;
+  font-family: var(--fragment-mono);
+  font-size: .83rem;
+  font-weight: normal;
+  text-transform: uppercase;
+  margin-left: calc(var(--base-indent) * -.5 );
+  margin-bottom: .25rem;
+}
+.quire-contents-list .menu-list a .contributor {
+  display: block;
+  font-family: var(--eb-garamond);
+  font-weight: normal;
+  margin-left: calc(var(--base-indent) * .5 );
+  font-style: normal;
+  margin-top: .25rem;
+}
+
+.quire-menu {
+  font-family: var(--fragment-mono);
+  font-size: .74rem;
+  line-height: 1.2;
+}
+.quire-menu__header__title {
+  font-size: 1.13rem;
+  font-weight: 600;
+}
+.quire-menu__header__contributors {
+  font-family: var(--eb-garamond);
+  font-style: normal;
+  font-size: 1.13rem;
+  margin-left: 2rem;
+}
+.quire-menu .page-item a, 
+.quire-menu .section-item a {
+  font-family: var(--fragment-mono);
+  font-size: .74rem;
+  line-height: 1.2;
+}
+.quire-menu .page-item a.active, 
+.quire-menu .section-item a.active {
+  color: white !important;
+  border-color: white !important;
+  text-transform: uppercase;
+  margin-left: -1.7em;
+  border-left-width: 7px;
+}
+.quire-menu__formats h6 {
+  border-width: 0;
+  color: white;
+  font-weight: 600;
+  text-transform: none;
+  font-size: .93rem;
+  margin-left: 1.5rem;
+}
+.quire-menu .cite-this {
+  font-size: inherit;
+}
+.quire-menu .cite-this__heading {
+  font-weight: 400;
+  text-transform: uppercase;
+}
+.quire-menu__footer .menu-list {
+  display: block;
+}
+.quire-menu .quire-copyright__icon {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
 /* ABOUT & COPYRIGHT PAGE
 ================================================================== */
-/* Publisher line break */
-div.publisher p:first-child {
+.quire-page__content .container .content .backmatter {
+  font-size: .74rem;
+}
+.quire-page__content .container .content .backmatter p {
+  text-indent: 0;
+  margin-bottom: 1rem;
+}
+.quire-page__content .container .content .backmatter h2,
+.quire-page__content .container .content .backmatter h3 {
+  border-width: 0;
+  font-weight: 600;
+  text-transform: none;
+  font-size: .93rem;
+  padding-bottom: 0
+}
+.quire-page__content .container .content .backmatter h2 {
+  margin-top: 2.5rem;
+}
+.quire-page__content .container .content .backmatter h3 {
+  margin-left: var(--base-indent);
+}
+.quire-page__content .container .content .backmatter .copyright__publisher-logo {
+  display: none;
+}
+/* PROJECT TEAM */
+.quire-page__content .container .content .project-team ul {
+  margin-left: 0;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+.quire-page__content .container .content .project-team ul li,
+.quire-page__content .container .content .project-team ul li p {
+  margin-left: 0 !important;
   margin-bottom: 0 !important;
+}
+.quire-page__content .container .content .project-team ul li::before {
+  content: '' !important;
+}
+/* CC ICONS */
+.quire-page__content .content .quire-copyright a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link),
+.quire-page__content .content .quire-copyright a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {
+  border-bottom-width: 0;
+}
+/* LOC CIP DATA */
+.quire-page__content .container .content .cip-data {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+.quire-page__content .container .content .cip-data p {
+  margin-bottom: 0;
+}
+.quire-page__content .container .content .cip-data ul {
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: .5rem;
+}
+.quire-page__content .container .content .cip-data ul li {
+  line-height: 1.6;
+  margin: 0;
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
+.quire-page__content .container .content .cip-data ul li::before {
+  display: none;
+}
+.block-of-text {
+  break-inside: avoid;
 }
 
 /* APPENDICES & SPECIALTY ITEMS
