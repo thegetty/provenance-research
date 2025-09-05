@@ -182,7 +182,7 @@ figure_list:
     label: "Figure 21"
     #zoom: true
     caption: "Detail of auction catalogue price list from Sotheby's London, auction of
-      antiquities, July 22, 1963, $$Sotheby’s 1963$$."
+      antiquities, July 22, 1963, Sotheby’s 1963."
     credit: "Photo:"
   
   - id: "fig-22"
@@ -309,7 +309,7 @@ figure_list:
     label: "Figure 36"
     zoom: true
     caption: "Illustration in 1905 auction catalogue with the Getty’s Portrait of a Man
-      (74.AA.63) in the center,  $$Fifth Avenue Art Galleries 1905$$, lot 622."
+      (74.AA.63) in the center,  Fifth Avenue Art Galleries 1905, lot 622."
     credit: ""
   
   - id: "fig-37"
