@@ -4,6 +4,8 @@ layout: cover
 order: 1
 menu: false
 toc: false
+outputs:
+  - html
 ---
 
 {{ publication.description.full }}

@@ -590,3 +590,43 @@ details.accordion-section[id^="section-case-study"] h4 {
 details.accordion-section[id^="section-case-study"] .q-figure__label .q-figure__label-icon svg {
   fill: white;
 }
+
+
+/* PRINT / PDF
+================================================================== */
+@media print {
+  .content .q-figure--image {
+    margin: 2rem var(--base-indent);
+  }
+  .content .q-figure--group .q-figure--image {
+    margin: 0;
+  }
+  .content figure .q-figure__caption a,
+  .q-figure__label-text,
+  .q-figure__label {
+    display: initial;
+    position: initial;
+    height: initial;
+    margin: 0;
+    padding: 0;
+  }
+  .quire-page__header {
+    width: auto;
+  }
+  .quire-page__header .hero-body {
+    padding-top: 0;
+  }
+  .quire-page h1, 
+  .quire-page__header__title {
+    margin-top: .25in;
+  }
+  .quire-page__content .container .content .footnotes,
+  .quire-page__content .container .content .backmatter {
+    font-size: 6.5pt;
+  }
+  .quire-page__content .container .content .footnotes {
+    column-count: 2;
+    column-gap: .167in;
+  }
+}
+

@@ -4,6 +4,8 @@ title: Provenance Research for Mediterranean Antiquities
 subtitle: An Introduction
 short_title: Introduction
 layout: essay
+classes:
+  - page-one
 contributor:
   - id: jbarr
   - id: nbudrovich

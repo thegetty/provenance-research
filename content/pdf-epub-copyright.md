@@ -9,6 +9,9 @@ outputs:
 toc: false
 menu: false
 ---
+
+<div class="backmatter">
+
 {{ config.quire_credit_line | markdownify }}
 
 {{ publication.description.online_edition }}
@@ -51,3 +54,5 @@ Illustration Credits {.no-line-space-below}
 Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings. 
 
 Authorized Product Safety Representative in the European Union: Easy Access System Europe, Mustamäe tee 50, 10621 Tallinn, Estonia, [gpsr.requests@easproject.com](mailto:gpsr.requests@easproject.com)
+
+</div>
