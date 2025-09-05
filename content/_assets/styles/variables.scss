@@ -40,7 +40,7 @@ $quire-page-paragraph-style: indent; // or use indent
 // Cover typography
 // -----------------------------------------------------------------------------
 $quire-cover-text-color: $white;
-$quire-cover-text-scale: 1; // use decimal numbers such as .8 or 1.3
+$quire-cover-text-scale: .7; // use decimal numbers such as .8 or 1.3
 
 // Menu
 // -----------------------------------------------------------------------------
@@ -137,8 +137,8 @@ $quire-navbar-text-color: null;
 // Cover colors
 // -----------------------------------------------------------------------------
 // Declare cover gradient colors (make them the same for a solid background)
-$quire-cover-color-1: null;
-$quire-cover-color-2: null;
+$quire-cover-color-1: $accent-color;
+$quire-cover-color-2: $accent-color;
 
 @if $theme == classic {
   $quire-cover-color-1: $accent-color !default;
