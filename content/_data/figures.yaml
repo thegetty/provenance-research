@@ -336,12 +336,12 @@ figure_list:
     credit: "Photo: Image produced by ProQuest LLC as part of ProQuest ® Periodicals
       Online"
   
-  #- id: "fig-40"
-  #  src: "figures/fig-40.jpg"
-  #  label: "Figure 40"
-  #  zoom: true
-  #  caption: "Antiquities on view in the Montecito home of Diandra and Michael Douglas, photographed for Architectural Digest, April 1988."
-  #  credit: ""
+  - id: "fig-40"
+    src: "figures/fig-40.jpg"
+    label: "Figure 40"
+    zoom: true
+    caption: "Antiquities on view in the Montecito home of Diandra and Michael Douglas, photographed for Architectural Digest, April 1988."
+    credit: ""
   
   - id: "fig-41"
     src: "figures/fig-41.jpg"
