@@ -4,19 +4,19 @@ figure_list:
     src: "figures/fig-01.jpg"
     label: "Figure 1"
     zoom: true
-    caption: "[One of the Twelve Mummy Wrappings with Texts and Vignettes, acquired in 1983 ([83.AI.47.1.1](https://www.getty.edu/art/collection/object/1061YT))."
+    caption: "Linen Wrapping of Petosiris, son of Tetosiris, with Book of the Dead Spells, Egyptian, 300–100 BCE ([83.AI.47.1.1](https://www.getty.edu/art/collection/object/105z4v)), one of the twelve linen wrappings with texts and vignettes acquired by the Getty Museum in 1983."
     credit:
 
   - id: "fig-2-a"
     src: figures/fig-02-a.jpg
-    label: "a"
+    label: "b"
     zoom: true
     # caption: "Detail from a composite image showing the join between linen wrapping of Petosiris, son of Tetosiris: left, from the ​J. Paul Getty Museum (83.AI.47.1.1); right, from the Teece Museum, Christchurch, New Zealand, James Logie Memorial Collection (121.73)."
     # credit: "Photo: Foy D. Scalf. © Photograph courtesy Teece Museum of Classical Antiquities, University of Canterbury, New Zealand."
   
   - id: "fig-2-b"
     src: figures/fig-02-b.jpg
-    label: "b"
+    label: "a"
     zoom: true
   
   - id: "fig-3"
