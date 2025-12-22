@@ -119,7 +119,7 @@ Each chapter in this publication approaches provenance research in distinct ways
 
 [^12]: See {% cite 'Eakin 2007' %}; {% cite 'Eakin 2010' %}.
 
-[^13]: See {% cite 'Getty Trust 2006' %}. For the current acquisitions policy, see https://media.getty.edu/Text/00ae0cba=827f=5f1a=877e=86468937f24a.pdf/.
+[^13]: See {% cite 'Getty Trust 2006' %}. For the current acquisitions policy, see https://media.getty.edu/Text/00ae0cba-827-5f1a-877e-86468937f24a.pdf/.
 
 [^14]: On Becchina, see https://traffickingculture.org/encyclopedia/case-studies/gianfranco-becchina/. On Symes, see {% cite 'Swains 2017' %}; the Museum of Ancient Art and Archaeology at Aarhus University has undertaken a project to research approximately 1,500 South Italian vase fragments from Symes’s Geneva warehouse: https://antikmuseet.au.dk/en/research/apulian-pottery-from-the-antiquities-market. On White, see {% cite 'Bowley and Mashberg 2023' %}. On Steinhardt, see {% cite 'Mashberg 2021' %}.
 
