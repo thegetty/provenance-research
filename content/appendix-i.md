@@ -812,7 +812,7 @@ Collection, digitized, of approximately two thousand photographs, dating from 19
 
 {% accordion '### Dealers' %} 
 
-See above under “Photo Archives” for additional resources in searching dealer material in these archives. See also appendix 2, [Dealer Biographies](/appendix-2/).
+See above under “Photo Archives” for additional resources in searching dealer material in these archives. See also Appendix II, [Dealer Biographies](/appendix-2/).
 
 #### General
 
