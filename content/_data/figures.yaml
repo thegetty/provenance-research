@@ -23,14 +23,14 @@ figure_list:
     src: "figures/fig-03-fpo.jpg"
     label: "Figure 3"
     zoom: true
-    caption: "Horses of San Marco, Roman, between 300 BCE and 400 CE. Bronze, slightly over life-size, 171 cm (67 5/16 in.) at withers. Basilica of San Marco, Venice."
+    caption: "Horses of San Marco, Roman, second century CE. Bronze, slightly over life-size, 171 cm (67 5/16 in.) at withers. Basilica of San Marco, Venice."
     credit: "Photo: © Per gentile concessione della Procuratoria di San Marco."
   
   - id: "fig-4"
     src: "figures/fig-04.jpg"
     label: "Figure 4"
     zoom: true
-    caption: "Laocoön and His Sons, by Athanodorus, Agesander, and Polydorus of Rhodes, 40–20 BCE. Parian marble, 208 x 163 x 112 cm (81 7/8 x 64 3/16 x 44 1/6 in.). Vatican Museums, MV.1059.0.0."
+    caption: "Laocoön and His Sons, by Athenodorus, Agesander, and Polydorus of Rhodes, early first century CE. Parian marble, 208 x 163 x 112 cm (81 7/8 x 64 3/16 x 44 1/6 in.). Vatican Museums, MV.1059.0.0."
     credit: "Photo: © Governatore of the Vatican City State-Directorat of the Vatican Museums"
   
   - id: "fig-5"
@@ -42,8 +42,7 @@ figure_list:
       presence of Hermes, Leodamas, and Hippolytos. Signed by Euxitheos (potter)
       and by Euphronios (painter). Terracotta, height: 45.7 cm (18 in.); diameter
       top: 55.1 cm (21 11/16 in.); diameter base: 29.5 cm (11 5/8 in.). Cerveteri,
-      Museo Nazionale Archeologico Nazionale di Cerveteri, vase no. 187, inv. no.
-      TK."
+      Museo Nazionale Archeologico Nazionale di Cerveteri, vase no. 187."
     credit: "Photo: Scala / Ministero per i Beni e le Attività culturali / Art Resource, NY"
   
   - id: "fig-6-a"
