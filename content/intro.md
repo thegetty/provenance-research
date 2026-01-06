@@ -119,7 +119,7 @@ Each chapter in this publication approaches provenance research in distinct ways
 
 [^12]: See {% cite 'Eakin 2007' %}; {% cite 'Eakin 2010' %}.
 
-[^13]: See {% cite 'Getty Trust 2006' %}. For the current acquisitions policy, see https://media.getty.edu/Text/00ae0cba-827-5f1a-877e-86468937f24a.pdf/.
+[^13]: See {% cite 'Getty Trust 2006' %}. Also, in 2016 the museum Board of Trustees established an antiquities review committee. For the current acquisitions policy, approved in 2024, see https://media.getty.edu/Text/00ae0cba-827f-5f1a-877e-86468937f24a.pdf.
 
 [^14]: On Becchina, see https://traffickingculture.org/encyclopedia/case-studies/gianfranco-becchina/. On Symes, see {% cite 'Swains 2017' %}; the Museum of Ancient Art and Archaeology at Aarhus University has undertaken a project to research approximately 1,500 South Italian vase fragments from Symes’s Geneva warehouse: https://antikmuseet.au.dk/en/research/apulian-pottery-from-the-antiquities-market. On White, see {% cite 'Bowley and Mashberg 2023' %}. On Steinhardt, see {% cite 'Mashberg 2021' %}.
 
@@ -165,7 +165,7 @@ Each chapter in this publication approaches provenance research in distinct ways
 
 [^35]: See, e.g., {% cite 'Elia 2001' %}; {% cite 'Nørskov 2002' %}; {% cite 'Angelicoussis et al. 2017' %}; {% cite 'Furlotti 2019' %}.
 
-[^36]: For perspectives of those within museums, see {% cite 'Hoving 1993' %}; {% cite 'True 2000' %}; {% cite 'Vikan 2013' %}. Insightful also are oral interviews conducted during the 1990s with key figures in the fields of Mediterranean antiquities and museums, available as digital transcripts; see, e.g., {% cite 'Boardman 1996' %}; {% cite 'Vermeule 1997' %}; {% cite 'von Bothmer 1997' %}.
+[^36]: For perspectives of those within museums, see {% cite 'Hoving 1993' %}; {% cite 'True 2000' %}; {% cite 'Vikan 2016' %}. Insightful also are oral interviews conducted during the 1990s with key figures in the fields of Mediterranean antiquities and museums, available as digital transcripts; see, e.g., {% cite 'Boardman 1996' %}; {% cite 'Vermeule 1997' %}; {% cite 'von Bothmer 1997' %}.
 
 [^37]: Among these in the United States are the Metropolitan Museum of Art; the Art Institute of Chicago; Yale University Art Gallery; Princeton University Art Museum; San Antonio Museum of Art; Denver Museum of Art; Brooklyn Museum of Art; the Michael C. Carlos Museum at Emory University; the National Museum of Asian Art; and the Worcester Art Museum. Internationally, see provenance roles at the Victoria & Albert Museum (United Kingdom), the Allard Pierson Museum (Netherlands), the Royal Ontario Museum (Canada), and Antikenmuseum Basel und Sammlung Ludwig (Switzerland), among others.
 
