@@ -322,7 +322,7 @@ Based in Frankfurt, Yeganeh dealt primarily in antiquities. The name of his wife
 
 [^36]: {% cite 'Simon 1995' %}. The gallery is also mentioned in *Mostra mercato internazionale dell'antiquariato*, 1970s–1980s. (Nicole: What is this? A journal? Series of publications? Clarify.)
 
-[^37]: For a brief history of the Fallani family: {% cite 'Fallani 1997' %}.
+[^37]: For a brief history of the Fallani family: {% cite 'Fallani, Simon, and Economolous 1997' %}.
 
 [^38]: {% cite 'Hecht 2014' 'xiii' %}, {% cite 'Hecht 2014' '4' %}, {% cite 'Hecht 2014' '6' %}, {% cite 'Hecht 2014' '8' %} (George Allen), {% cite 'Hecht 2014' '16–18' %}.
 
