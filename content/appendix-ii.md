@@ -358,7 +358,7 @@ Based in Frankfurt, Yeganeh dealt primarily in antiquities. The name of his wife
 
 [^54]: {% cite 'Millon 2016' '49' %}; {% cite 'Karagelou 2008' %}.
 
-[^55]: {% cite 'Gill 2019' %}; also see, on the Getty return of an ancient bronze head to Türkiye (71.AB.458): {% cite 'Getty 2024' %}.
+[^55]: {% cite 'Gill 2019' %}; also see, on the Getty return of an ancient bronze head to Türkiye (71.AB.458): {% cite 'Getty Trust 2024B' %}.
 
 [^56]: Located at Rue Hôtel-de-Ville 9, Geneva; {% cite 'Krosney 2006' '67' %}.
 

@@ -459,11 +459,11 @@ entries:
 - id: "Getty 1965"
   full: "Getty, J. Paul. 1965. *The Joys of Collecting.* New York: Hawthorn Books."
 
-- id: "Getty Trust 2019"
-  full: "J. Paul Getty Trust. 2019. *Collection Policy.* <http://www.getty.edu/about/governance/pdfs/acquisitions_policy.pdf>."
-
 - id: "Getty Trust 2024A"
-  full: "J. Paul Getty Trust. 2024. “J. Paul Getty Museum Announces Revised Acquisitions Policy.” Press release. *Getty News and Stories*. <https://media.getty.edu/Text/00ae0cba-827f-5f1a-877e-86468937f24a.pdf/>."
+  full: "J. Paul Getty Trust. 2024. *Collection Policy.* <http://www.getty.edu/about/governance/pdfs/acquisitions_policy.pdf>."
+
+- id: "Getty Trust 2006"
+  full: "J. Paul Getty Trust. 2006. “J. Paul Getty Museum Announces Revised Acquisitions Policy.” Press release. *Getty News and Stories*. <https://media.getty.edu/Text/00ae0cba-827f-5f1a-877e-86468937f24a.pdf/>."
 
   - id: "Getty Trust 2024B"
   full: "J. Paul Getty Trust. 2024. “Getty Returns Ancient Bronze Head to Türkiye.” *Getty News and Stories.* April 24. <https://www.getty.edu/news/getty-returns-ancient-bronze-head-to-turkiye/>."
