@@ -294,7 +294,7 @@ Based in Frankfurt, Yeganeh dealt primarily in antiquities. The name of his wife
 
 [^22]: The Metropolitan Museum held a conference on the Brummer Galleries, October 13–14, 2017; also see {% cite 'Biro and Hollevoet-Force 2023' %} and {% cite 'Hindman 2023' %}.
 
-[^23]: {% cite 'Hoffmann 1971' %}.
+[^23]: {% cite 'Hoffmann and Cahn 1971' %}.
 
 [^24]: See {% cite 'Faber-Castell 1983' '556' %}.
 
@@ -428,7 +428,7 @@ Based in Frankfurt, Yeganeh dealt primarily in antiquities. The name of his wife
 
 [^89]: “Tozzi, Piero,” in “Archives Directory for the History of Collecting in America,” *The Frick Collection*, <https://research.frick.org/directory/detail/3027>.
 
-[^90]: {% cite 'Hoffmann 1971' %}.
+[^90]: {% cite 'Hoffmann and Cahn 1971' %}.
 
 [^91]: Museum of Fine Arts, Boston, “Ownership Resolutions: 2011–Weary Herakles” <https://www.mfa.org/collections/provenance/antiquities-and-archeological-material>; International Foundation for Art Research ( IFAR) Case Summary, “Republic of Turkey Claim Against Museum of Fine Arts, Boston for Statue of Herakles” <https://www.ifar.org/case_summary.php?docid=1179735842>; Victoria Reed, “Due Diligence, Provenance Research, and the Acquisition Process at the Museum of Fine Arts, Boston,” *DePaul Journal of Art, Technology and Intellectual Property Law*, 23(2) (Spring 2013). <https://via.library.depaul.edu/jatip/vol23/iss2/4>.
 
