@@ -296,7 +296,7 @@ Based in Frankfurt, Yeganeh dealt primarily in antiquities. The name of his wife
 
 [^23]: {% cite 'Hoffmann 1971' %}.
 
-[^24]: See {% cite 'Faber-Castel 1983' '556' %}.
+[^24]: See {% cite 'Faber-Castell 1983' '556' %}.
 
 [^25]: Vase fragments from Cahn’s collection are often labeled with their inventory number in red ink; see, for example, J. Paul Getty Museum, 86.AE.587 (<https://www.getty.edu/art/collection/object/103WEA>) and 98.AE.98 (<https://www.getty.edu/art/collection/object/108DEH>). For publications of the fragments: {% cite 'Cahn and Kreuzer 1993' %}; {% cite 'Cambitoglou 1997' %}. Other works from his collection were sold at auction in 2002; see {% cite 'Cahn 2002' %}.
 
@@ -420,7 +420,7 @@ Based in Frankfurt, Yeganeh dealt primarily in antiquities. The name of his wife
 
 [^85]: See *The International Antiques Yearbook 1976*, and the *International Art and Antiques Yearbook 1979–80*; the Brooklyn Museum has archival material with Tchacos as a representative of both Galerie Uraeus and Galerie Nefer from 1971 to 1983; <https://archives.brooklynmuseum.org/repositories/2/archival_objects/18986>.
 
-[^86]: {% cite 'Faber-Castel 1983' %}.
+[^86]: {% cite 'Faber-Castell 1983' %}.
 
 [^87]: For a good review, see {% cite 'Brodie 2006' %}.
 
