@@ -165,7 +165,7 @@ Each chapter in this publication approaches provenance research in distinct ways
 
 [^35]: See, e.g., {% cite 'Elia 2001' %}; {% cite 'Nørskov 2002' %}; {% cite 'Angelicoussis et al. 2017' %}; {% cite 'Furlotti 2019' %}.
 
-[^36]: For perspectives of those within museums, see {% cite 'Hoving 1993' %}; {% cite 'True 2000' %}; {% cite 'Vikan 2013' %}. Insightful also are oral interviews conducted during the 1990s with key figures in the fields of Mediterranean antiquities and museums, available as digital transcripts; see, e.g., {% cite 'Boardman 1996' %}; {% cite 'Vermeule 1997' %}; {% cite 'von Bothmer 1997' %}.
+[^36]: For perspectives of those within museums, see {% cite 'Hoving 1993' %}; {% cite 'True 2000' %}; {% cite 'Vikan 2016' %}. Insightful also are oral interviews conducted during the 1990s with key figures in the fields of Mediterranean antiquities and museums, available as digital transcripts; see, e.g., {% cite 'Boardman 1996' %}; {% cite 'Vermeule 1997' %}; {% cite 'von Bothmer 1997' %}.
 
 [^37]: Among these are the Metropolitan Museum of Art; the Art Institute of Chicago; Yale University Art Gallery; Princeton University Art Museum; San Antonio Museum of Art; Denver Museum of Art; Brooklyn Museum of Art; the Michael C. Carlos Museum at Emory University; the National Museum of Asian Art; and the Worcester Art Museum.
 
