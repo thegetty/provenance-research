@@ -258,7 +258,7 @@ Based in Frankfurt, Yeganeh dealt primarily in antiquities. The name of his wife
 
 [^4]: The chart roughly documents the trade networks in Italy in the early 1990s; see {% cite 'Brodie 2012b' %}. See also {% cite 'Watson and Todeschini 2007' '16–18' %}, {% cite 'Watson and Todeschini 2007' '362' %}.
 
-[^5]: Collectors’ guides include {% cite 'Nicholson 1965' %}, {% cite 'Hoffmann and Cahn 1971' %}, and {% cite 'Ede 1976' %}; memoirs include {% cite 'Hecht and Norman 2014' %}, {% cite 'Hoving 1993' %}, {% cite 'McNall 2003' %}, and {% cite 'Ede 2017' %}.
+[^5]: Collectors’ guides include {% cite 'Nicholson 1965' %}, {% cite 'Hoffmann and Cahn 1971' %}, and {% cite 'Ede 1976' %}; memoirs include {% cite 'Hecht and Norman 2014' %}, {% cite 'Hoving 1993' %}, {% cite 'McNall and D’Antonio 2003' %}, and {% cite 'Ede 2017' %}.
 
 [^6]: {% cite 'Watson and Todeschini 2007' '293' %}.
 
