@@ -316,7 +316,7 @@ Educational organization offering courses, publications, and events, as well as 
 
 #### Art Theft Resources
 
-Material from thefts—historic and recent—from documented collections can and do surface, but they are often hard to trace. There are few collations of every museum or storeroom theft over time, although some events, like those museum thefts during and after World War II, may be covered by country-based publications. Others may be documented through case studies and academic publications. In some cases, these may be documented in national or international databases (see below); others may be recognized via their prior publication in their original institution, archival documentation, or original marks of ownership. As discussed in the Introduction, chapter 1, chapter 3, and in the dealer biographies (Appendix II), illicitly excavated material will, prima facie, not be documented in the same way as other materials, and sources documenting looted artifacts are rarely available for wide consultation. Given this, caution is warranted that a looted ancient object may not appear in these resources nor in searches run through commercial art loss firms like the **Art Loss Register** (<https://www.artloss.com/>).
+Material from thefts—historic and recent—from documented collections can and do surface, but they are often hard to trace. There are few collations of every museum or storeroom theft over time, although some events, like those museum thefts during and after World War II, may be covered by country-based publications. Others may be documented through case studies and academic publications. In some cases, these may be documented in national or international databases (see below); others may be recognized via their prior publication in their original institution, archival documentation, or original marks of ownership. As discussed in the Introduction, chapter 1, chapter 3, and in the “Dealer Biographies” [(Appendix II)](/appendix-ii/), illicitly excavated material will, prima facie, not be documented in the same way as other materials, and sources documenting looted artifacts are rarely available for wide consultation. Given this, caution is warranted that a looted ancient object may not appear in these resources nor in searches run through commercial art loss firms like the **Art Loss Register** (<https://www.artloss.com/>).
 
 #### Case Studies on Wartime Theft
 
@@ -812,7 +812,7 @@ Collection, digitized, of approximately two thousand photographs, dating from 19
 
 {% accordion '### Dealers' %} 
 
-See above under “Photo Archives” for additional resources in searching dealer material in these archives. See also appendix 2, [Dealer Biographies](/appendix-2/).
+See above under “Photo Archives” for additional resources in searching dealer material in these archives. See also Appendix II, [Dealer Biographies](/appendix-ii/).
 
 #### General
 

@@ -4,46 +4,42 @@ figure_list:
     src: "figures/fig-01.jpg"
     label: "Figure 1"
     zoom: true
-    caption: "[One of the Twelve Mummy Wrappings with Texts and Vignettes, acquired in 1983 ([83.AI.47.1.1](https://www.getty.edu/art/collection/object/1061YT))."
+    caption: "Linen Wrapping of Petosiris, son of Tetosiris, with Book of the Dead Spells, Egyptian, 300–100 BCE ([83.AI.47.1.1](https://www.getty.edu/art/collection/object/105z4v)), one of the twelve linen wrappings with texts and vignettes acquired by the Getty Museum in 1983."
     credit:
 
   - id: "fig-2-a"
     src: figures/fig-02-a.jpg
-    label: "a"
+    label: "b"
     zoom: true
-    # caption: "A: Fragment of Wrapping of Petosiris, son of Tetosiris, Egyptian, 300–100 BCE, linen, Teece Museum, Christchurch, New Zealand, James Logie Collection (121.73). B: Detail from a composite image showing the join between fragments (Getty Museum 83.AI.47.1 at left; Teece Museum 121.73 at right)."
-    # credit: "Photos: Foy D. Scalf / Courtesy Teece Museum of Classical Antiquities, University of Canterbury, Christchurch, New Zealand."
+    caption: "A: Fragment of Wrapping of Petosiris, son of Tetosiris, Egyptian, 300–100 BCE, linen, Teece Museum, Christchurch, New Zealand, James Logie Collection (121.73). B: Detail from a composite image showing the join between fragments (Getty Museum 83.AI.47.1 at left; Teece Museum 121.73 at right)."
+    credit: "Photos: Foy D. Scalf / Courtesy Teece Museum of Classical Antiquities, University of Canterbury, Christchurch, New Zealand."
   
   - id: "fig-2-b"
     src: figures/fig-02-b.jpg
-    label: "b"
+    label: "a"
     zoom: true
   
   - id: "fig-3"
     src: "figures/fig-03-fpo.jpg"
     label: "Figure 3"
     zoom: true
-    caption: "Horses of San Marco, Roman, between 300 BCE and 400 CE. Bronze, slightly over life-size, 171 cm (67 5/16 in.) at withers. Basilica of San Marco, Venice."
+    caption: "Horses of San Marco, Roman, second century CE. Bronze, slightly over life-size, 171 cm (67 5/16 in.) at withers. Basilica of San Marco, Venice."
     credit: "Photo: © Per gentile concessione della Procuratoria di San Marco."
   
   - id: "fig-4"
     src: "figures/fig-04.jpg"
     label: "Figure 4"
     zoom: true
-    caption: "Laocoön and His Sons, by Athanodorus, Agesander, and Polydorus of Rhodes, 40–20 BCE. Parian marble, 208 x 163 x 112 cm (81 7/8 x 64 3/16 x 44 1/6 in.). Vatican Museums, MV.1059.0.0."
+    caption: "Laocoön and His Sons, by Athenodorus, Agesander, and Polydorus of Rhodes, early first century CE. Parian marble, 208 x 163 x 112 cm (81 7/8 x 64 3/16 x 44 1/6 in.). Vatican Museums, MV.1059.0.0."
     credit: "Photo: © Governatore of the Vatican City State-Directorat of the Vatican Museums"
   
   - id: "fig-5"
     src: "figures/fig-05.jpg"
     label: "Figure 5"
     zoom: true
-    caption: "Euphronios Krater, red-figure calyx-krater, Attic Greek, ca. 515 BCE.
-      Obverse (side A): Body of Sarpedon lifted by Hypnos and Thanatos in the
-      presence of Hermes, Leodamas, and Hippolytos. Signed by Euxitheos (potter)
-      and by Euphronios (painter). Terracotta, height: 45.7 cm (18 in.); diameter
+    caption: "Athenian red-figure calyx krater, ca. 515 BCE. Signed by Euxitheos and Euphronios. Terracotta, height: 45.7 cm (18 in.); diameter
       top: 55.1 cm (21 11/16 in.); diameter base: 29.5 cm (11 5/8 in.). Cerveteri,
-      Museo Nazionale Archeologico Nazionale di Cerveteri, vase no. 187, inv. no.
-      TK."
+      Museo Nazionale Archeologico Nazionale di Cerveteri, vase no. 187."
     credit: "Photo: Scala / Ministero per i Beni e le Attività culturali / Art Resource, NY"
   
   - id: "fig-6-a"
