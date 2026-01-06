@@ -258,7 +258,7 @@ Based in Frankfurt, Yeganeh dealt primarily in antiquities. The name of his wife
 
 [^4]: The chart roughly documents the trade networks in Italy in the early 1990s; see {% cite 'Brodie 2012b' %}. See also {% cite 'Watson and Todeschini 2007' '16–18' %}, {% cite 'Watson and Todeschini 2007' '362' %}.
 
-[^5]: Collectors’ guides include {% cite 'Nicholson 1965' %}, {% cite 'Hoffmann and Cahn 1971' %}, and {% cite 'Ede 1976' %}; memoirs include {% cite 'Hecht 2014' %}, {% cite 'Hoving 1993' %}, {% cite 'McNall 2003' %}, and {% cite 'Ede 2017' %}.
+[^5]: Collectors’ guides include {% cite 'Nicholson 1965' %}, {% cite 'Hoffmann and Cahn 1971' %}, and {% cite 'Ede 1976' %}; memoirs include {% cite 'Hecht and Norman 2014' %}, {% cite 'Hoving 1993' %}, {% cite 'McNall 2003' %}, and {% cite 'Ede 2017' %}.
 
 [^6]: {% cite 'Watson and Todeschini 2007' '293' %}.
 
@@ -280,7 +280,7 @@ Based in Frankfurt, Yeganeh dealt primarily in antiquities. The name of his wife
 
 [^15]: On the exhibitions, see {% cite 'Pantazzi 1981' %}, {% cite 'Leipen et al. 1984' %}, and {% cite 'Borowski 2001' %}; on the auctions: see {% cite 'Christie’s 2000' %}; objects sold and donated to museums, including the Getty Museum, Royal Ontario Museum, Museum of Fine Arts, Boston, and others; for a discussion of the likely illicit origins of the Arslan Tash ivories that Barowski sold, see {% cite 'Fontan 2014' '152' %}.
 
-[^16]: Mentioned in Robert Hecht’s memoir as a client of Giacomo Medici; {% cite 'Hecht 2014' '27' %}.
+[^16]: Mentioned in Robert Hecht’s memoir as a client of Giacomo Medici; {% cite 'Hecht and Norman 2014' '27' %}.
 
 [^17]: {% cite 'Boardman 2017' %}.
 
@@ -302,7 +302,7 @@ Based in Frankfurt, Yeganeh dealt primarily in antiquities. The name of his wife
 
 [^26]: {% cite 'Cahn n.d.' %}.
 
-[^27]: {% cite 'Hecht 2014' '14–15' %}. In 1976, fifteen years after the charges were first brought, Cahn was found guilty of possessing illicit antiquities; these were the only charges ever brought against Cahn; {% cite 'Watson and Todeschini 2007' '164–65' %}.
+[^27]: {% cite 'Hecht and Norman 2014' '14–15' %}. In 1976, fifteen years after the charges were first brought, Cahn was found guilty of possessing illicit antiquities; these were the only charges ever brought against Cahn; {% cite 'Watson and Todeschini 2007' '164–65' %}.
 
 [^28]: {% cite 'Wolfson 2002' %}.
 
@@ -324,13 +324,13 @@ Based in Frankfurt, Yeganeh dealt primarily in antiquities. The name of his wife
 
 [^37]: For a brief history of the Fallani family: {% cite 'Fallani, Simon, and Economolous 1997' %}.
 
-[^38]: {% cite 'Hecht 2014' 'xiii' %}, {% cite 'Hecht 2014' '4' %}, {% cite 'Hecht 2014' '6' %}, {% cite 'Hecht 2014' '8' %} (George Allen), {% cite 'Hecht 2014' '16–18' %}.
+[^38]: {% cite 'Hecht and Norman 2014' 'xiii' %}, {% cite 'Hecht and Norman 2014' '4' %}, {% cite 'Hecht and Norman 2014' '6' %}, {% cite 'Hecht and Norman 2014' '8' %} (George Allen), {% cite 'Hecht and Norman 2014' '16–18' %}.
 
 [^39]: Hecht established Hesperia Art in New York, where it was operated by Vladimir Clain-Stefanelli for a few years (early 1950s), until it was converted into a primarily mail-order business. The business name was revived in 1990 as Hesperia Arts Auction Ltd. to sell Hecht and McNall’s Summa Gallery stock. George Allen (1918–1997), a Haverford college friend of Hecht’s, ran his father’s rare books store, William H. Allen, Bookseller, 2031 Walnut Street, Philadelphia, from 1940 until his death, and ran Hesperia Art with Hecht from 1957 until the early 1970s. Allen served as Hecht’s agent in the sale of the “Trojan Gold” to the University of Pennsylvania Museum in 1966; see {% cite 'Rose 2017' %}.
 
 [^40]: Rosen and Hecht established Atlantis Antiquities Ltd. in 1984, with Andrea Hecht serving as the director by 1988, {% cite 'Reif 1988' %}. They published several sales catalogues, including *Ars and Texnh: Art and Craft of the Graeco-Roman World from 450 B.C. to 600 A.D.* (1989) and Robert Hecht, *Greek and Roman Art* (1990).
 
-[^41]: On museums to which Hecht sold material: {% cite 'Hecht 2014' 'xiii–xiv' %}; {% cite 'Watson and Todeschini 2007' '109' %}.
+[^41]: On museums to which Hecht sold material: {% cite 'Hecht and Norman 2014' 'xiii–xiv' %}; {% cite 'Watson and Todeschini 2007' '109' %}.
 
 [^42]: {% cite 'Hagen and Ryholt 2016' '226–27' %}.
 
@@ -346,7 +346,7 @@ Based in Frankfurt, Yeganeh dealt primarily in antiquities. The name of his wife
 
 [^48]: {% cite 'Waxman 2008' '144–47' %}.
 
-[^49]: {% cite 'Hecht 2014' '15–16' %}; likely Metropolitan Museum 60.11.11.
+[^49]: {% cite 'Hecht and Norman 2014' '15–16' %}; likely Metropolitan Museum 60.11.11.
 
 [^50]: {% cite '*New York Times* 1984' %}; additional biographical details from {% cite 'Ogbechie 2019' %}.
 
@@ -374,11 +374,11 @@ Based in Frankfurt, Yeganeh dealt primarily in antiquities. The name of his wife
 
 [^62]: {% cite 'Solis-Cohen 1990' %}; and see the Hecht biography above.
 
-[^63]: For a detailed discussion of Medici’s family and childhood, see {% cite 'Watson and Todeschini 2007' '153' %}; {% cite 'Silver 2009' '11–14' %}; {% cite 'Hecht 2014' '24' %}.
+[^63]: For a detailed discussion of Medici’s family and childhood, see {% cite 'Watson and Todeschini 2007' '153' %}; {% cite 'Silver 2009' '11–14' %}; {% cite 'Hecht and Norman 2014' '24' %}.
 
-[^64]: The pharmacist Pesciotti (first name Cima or Angelo) had official permission to build his collection since it was to be donated to the state; {% cite 'Silver 2009' '25' %}. According to Hecht’s memoir, Medici acquired these antiquities from “clandestine diggers” in Central Italy and these looted objects either stayed in the Pesciotti collection, now in the National Etruscan Museum (Villa Giulia) in Rome, or were sold on the market through Herbert Cahn; {% cite 'Hecht 2014' '14' %}.
+[^64]: The pharmacist Pesciotti (first name Cima or Angelo) had official permission to build his collection since it was to be donated to the state; {% cite 'Silver 2009' '25' %}. According to Hecht’s memoir, Medici acquired these antiquities from “clandestine diggers” in Central Italy and these looted objects either stayed in the Pesciotti collection, now in the National Etruscan Museum (Villa Giulia) in Rome, or were sold on the market through Herbert Cahn; {% cite 'Hecht and Norman 2014' '14' %}.
 
-[^65]: {% cite 'Hecht 2014' '25–27' %}.
+[^65]: {% cite 'Hecht and Norman 2014' '25–27' %}.
 
 [^66]: {% cite 'Watson and Todeschini 2007' '154' %}, {% cite 'Watson and Todeschini 2007' '200–202' %}, {% cite 'Watson and Todeschini 2007' '206–7' %}.
 
