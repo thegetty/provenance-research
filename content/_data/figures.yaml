@@ -77,7 +77,7 @@ figure_list:
     src: figures/fig-09-a.jpg
     label: "a"
     zoom: true
-    # caption: "Cahn collection numbers preserved on two Attic Red-Figure Psykter Fragments (98.AE.98.1 and 98.AE.98.2)."
+    # caption: "Cahn collection numbers (777 and 778) preserved on two Attic Red-Figure Psykter Fragments, Greek, about 510 BCE, terracotta (98.AE.98.1 and 98.AE.98.2)."
     # credit: ""
 
   - id: "fig-9-b"
@@ -89,8 +89,7 @@ figure_list:
     src: "figures/fig-10.jpg"
     label: "Figure 10"
     zoom: true
-    caption: "Detail of export number or export license on a Cypriot Black on Red Ware
-      Plate (94.AE.114.2)."
+    caption: "Underside of Cypriot Black on Red Ware Plate, ca. 550–450 BCE, terracotta (94.AE.114.2) showing export number (2801)."
     credit: ""
 
   - id: "fig-11"
