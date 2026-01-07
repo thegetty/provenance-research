@@ -46,8 +46,8 @@ figure_list:
     src: figures/fig-06-a.jpg
     label: "a"
     zoom: true
-    # caption: "Group of 218 Greek, Roman, Etruscan Engraved Gems and Rings (81.AN.76), each with different collecting histories (pictured: 81.AN.76.3, 81.AN.76.49, 81.AN.76.110)."
-    # credit: "Photo: TK"
+    # caption: "Three gems from a group of 218 Greek, Roman, Etruscan Engraved Gems and Rings, 81.AN.76 (https://www.getty.edu/art/collection/object/103TYX), each with different collecting histories (pictured: Engraved Scarab with Head of a Gorgon, Greek, ca. 500 BCE, cornelian, 81.AN.76.3 (https://www.getty.edu/art/collection/object/103TYV); Engraved Scaraboid with Chimera, Greek, ca. 400 BCE, blue chalcedony, 81.AN.76.49 (https://www.getty.edu/art/collection/object/103TZR); Engraved Scarab with Bes Fighting a Griffin, Phoenician, ca. 500 BCE, 81.AN.76.110 (https://www.getty.edu/art/collection/object/103V0D))."
+    # credit: ""
   
   - id: "fig-6-b"
     src: figures/fig-06-b.jpg
