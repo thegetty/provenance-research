@@ -9,14 +9,14 @@ figure_list:
 
   - id: "fig-2-a"
     src: figures/fig-02-a.jpg
-    label: "b"
+    label: "a"
     zoom: true
     caption: "A: Fragment of Wrapping of Petosiris, son of Tetosiris, Egyptian, 300–100 BCE, linen, Teece Museum, Christchurch, New Zealand, James Logie Collection (121.73). B: Detail from a composite image showing the join between fragments (Getty Museum ([83.AI.47.1](https://www.getty.edu/art/collection/object/105Z4V)) at left; Teece Museum 121.73 at right)."
     credit: "Photos: Foy D. Scalf / Courtesy Teece Museum of Classical Antiquities, University of Canterbury, Christchurch, New Zealand"
   
   - id: "fig-2-b"
     src: figures/fig-02-b.jpg
-    label: "a"
+    label: "b"
     zoom: true
   
   - id: "fig-3"
