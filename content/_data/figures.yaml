@@ -355,33 +355,33 @@ figure_list:
     caption: "The Mazarin Venus, Roman, second century CE, marble (54.AA.11)."
     credit: ""
   
-  - id: "fig-42"
-    src: "figures/fig-42.jpg"
-    label: "Figure 42"
+  - id: "fig-45"
+    src: "figures/fig-45.jpg"
+    label: "Figure 45"
     zoom: true
-    caption: "Online collection catalogue, provenance page of Mazarin Venus (54.AA.11)."
+    caption: "Online collection entry for the Mazarin Venus (54.AA.11), showing the provenance section."
     credit: ""
   
-  - id: "fig-43"
-    src: "figures/fig-43.jpg"
-    label: "Figure 43"
+  - id: "fig-46"
+    src: "figures/fig-46.jpg"
+    label: "Figure 46"
     zoom: true
     caption: "Inagaki stamp preserved on former base of Head of a Young Woman (2022.10)."
     credit: ""
   
-  - id: "fig-44"
-    src: "figures/fig-44.jpg"
-    label: "Figure 44"
+  - id: "fig-47"
+    src: "figures/fig-47.jpg"
+    label: "Figure 47"
     zoom: true
     caption: "Provenance data entered into record in The Museum System (TMS) for Statue
       of a Draped Woman (72.AA.153)."
     credit: ""
   
-  - id: "fig-45"
-    src: "figures/fig-45.jpg"
-    label: "Figure 45"
+  - id: "fig-48"
+    src: "figures/fig-48.jpg"
+    label: "Figure 48"
     zoom: true
-    caption: "Statuette of a Bull (2001.7)."
+    caption: "Statuette of a Bull, Roman, 25 BCE–75 CE, silver with gilding (2001.7)."
     credit: ""
   
   - id: "fig-46"
