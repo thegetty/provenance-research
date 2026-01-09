@@ -395,16 +395,16 @@ figure_list:
     caption: "Etching of sarcophagus by A. Tendi in volume by James Christie, illustration of the Eleusinian Mysteries, in section on the ancient Lampadophoria, 1806. Los Angeles, Getty Research Institute 83-B914."
     credit: ""
   
-  - id: "fig-48"
-    src: "figures/fig-48.jpg"
-    label: "Figure 48"
+  - id: "fig-51"
+    src: "figures/fig-51.jpg"
+    label: "Figure 51"
     zoom: true
-    caption: "Objects of art and statuary at Spink & Son Ltd, dealers in antiquities, 6 King Street, St. James’s, City of Westminster, Greater London Authority, SW1Y, 1918."
-    credit: "Photo:"
+    caption: "Objects of art and statuary at Spink & Son Ltd., dealers in antiquities, 6 King Street, St. James’s, City of Westminster, Greater London Authority, SW1Y, 1918."
+    credit: "Photo: Historic England"
   
-  - id: "fig-49"
-    src: "figures/fig-49.jpg"
-    label: "Figure 49"
+  - id: "fig-52"
+    src: "figures/fig-52.jpg"
+    label: "Figure 52"
     zoom: true
     caption: "Rokeby Hall, interior. Photograph, 12 x 17 cm (4 3/4 x 6 11/16 in.). Vermeule Collection, Academy in Rome, Photographic Archive, Vermeule.Sculpt.71."
-    credit: "Photo: Academy in Rome, Photographic Archive"
+    credit: "Photo: Digitized image courtesy of the American Academy in Rome, Photographic Archive"
