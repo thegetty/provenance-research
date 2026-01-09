@@ -223,7 +223,7 @@ entries:
   full: "Cambitoglou, Alexander, Jacques Chamay, and Brenno Bottini. 1997. *Céramique de Grande Grèce: La collection de fragments Herbert A. Cahn*. Zürich: Akanthus."
 
 - id: "Canaday 1973"
-  full: "Canaday, John. 1973. “Met Proud of a Rare Greek Pitcher.” *New York Times*, February 26. [https://www.nytimes.com/1973/02/26/archives/met-proud-of-a-rare-greek-pitcher-calls-venders-traders-left-native.html](%20https://www.nytimes.com/1973/02/26/archives/met-proud-of-a-rare-greek-pitcher-calls-venders-traders-left-native.html)."
+  full: "Canaday, John. 1973. “Met Proud of a Rare Greek Pitcher.” *New York Times*, February 26. <https://www.nytimes.com/1973/02/26/archives/met-proud-of-a-rare-greek-pitcher-calls-venders-traders-left-native.html>."
 
 - id: "Capecchi 1993"
   full: "Capecchi, Gabriella. 1993. *L’archivio storico fotografico di Stefano Bardini: Arte Greca Etrusca Romana*. Florence: A. Bruschi."
@@ -242,6 +242,9 @@ entries:
 
 - id: "Catterson 2020"
   full: "Catterson, Lynn. 2020. “From Visual Inventory to Trophy Clippings: Bardini & Co. and the Use of Photography in the Late Nineteenth-Century Art Market.” *Mitteilungen des Kunsthistorischen Institutes in Florenz* 62, no. 1: 69–91."
+
+- id: "Chappell and Polk 2011"
+  full: "Chappell, Duncan, and Kenneth Polk. 2011. “Unraveling the ‘Cordata’: Just How Organized is the International Traffic in Cultural Objects?” In *Crime in the Art and Antiquities World: Illegal Trafficking in Cultural Property*, edited by Stefano Manacorda and Duncan Chappell, 99–113. New York: Springer.
 
 - id: "Chippindale and Gill 1993"
   full: "Chippindale, Christopher, and David W. J. Gill. 1993. “Material and Intellectual Consequences of Esteem for Cycladic Figures.” *American Journal of Archaeology* 97, no. 4: 601–59."
@@ -951,6 +954,9 @@ entries:
 - id: "Scalf forthcoming"
   full: "Scalf, Foy. D. Forthcoming. *The Getty Book of the Dead: Ancient Egyptian Manuscripts in the Getty Museum*. Los Angeles: J. Paul Getty Museum."
 
+- id: "Schmidt 1991"
+  full: "Schmidt, Margot. 1991. *Der zerbrochene Krug: Vasenfragmente klassischer Zeit aus Athen und Grossgriechenland; Sammlung H.A. Cahn: Ausstellung im Antikenmuseum Basel und Sammlung Ludwig (13. Juni-31. Oktober 1991)*. Exhibition catalogue. Basel: Gissler."
+   
 - id: "Schnapp 1997"
   full: "Schnapp, Alain. 1997. *The Discovery of the Past*, trans. by Ian Kinnes and Gillian Varndell. New York: Harry N. Abrams."
 

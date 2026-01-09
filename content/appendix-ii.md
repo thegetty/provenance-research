@@ -256,186 +256,188 @@ Based in Frankfurt, Yeganeh dealt primarily in antiquities. The name of his wife
 
 [^3]: See {% cite 'Tompkins 2020' '162–93' %}; {% cite 'Chappell and Polk 2011' %}.
 
-[^3]: {% cite 'Hoffmann and Cahn 1971' '231' %}.
+[^4]: {% cite 'Hoffmann and Cahn 1971' '231' %}.
 
-[^4]: The chart roughly documents the trade networks in Italy in the early 1990s; see {% cite 'Brodie 2012b' %}. See also {% cite 'Watson and Todeschini 2007' '16–18' %}, {% cite 'Watson and Todeschini 2007' '362' %}.
+[^5]: The chart roughly documents the trade networks in Italy in the early 1990s; see {% cite 'Brodie 2012b' %}. See also {% cite 'Watson and Todeschini 2007' '16–18, 362' %}.
 
-[^5]: Collectors’ guides include {% cite 'Nicholson 1965' %}, {% cite 'Hoffmann and Cahn 1971' %}, and {% cite 'Ede 1976' %}; memoirs include {% cite 'Hecht and Norman 2014' %}, {% cite 'Hoving 1993' %}, {% cite 'McNall and D’Antonio 2003' %}, and {% cite 'Ede 2017' %}.
+[^6]: To explore Getty object records linked to these individuals, search the dealer’s name on the Getty Museum Collection pages (includes deaccessioned records and works currently in the collection): <https://www.getty.edu/art/collection/>.
 
-[^6]: {% cite 'Watson and Todeschini 2007' '293' %}.
+[^7]: Collectors’ guides include {% cite 'Nicholson 1965' %}, {% cite 'Hoffmann and Cahn 1971' %}, and {% cite 'Ede 1976' %}; memoirs include {% cite 'Hecht and Norman 2014' %}, {% cite 'Hoving 1993' %}, {% cite 'McNall and D’Antonio 2003' %}, and {% cite 'Boardman 2017' %}.
 
-[^7]: {% cite 'Lapatin 2000' '44' %}.
+[^8]: {% cite 'Watson and Todeschini 2007' '293' %}.
 
-[^8]: The false “K. Haug” provenance is also associated with paperwork bearing Hotel Helvetia letterhead. See Museum of Fine Arts, Boston 1979.40, https://collections.mfa.org/objects/153849; and on The Toledo Museum’s Etruscan Kalpis, returned to Italy in 2013, see {% cite 'Toledo Museum 2023' %} and {% cite 'Brodie 2014' %}.
+[^9]: {% cite 'Lapatin 2000' '44' %}.
 
-[^9]: {% cite 'Watson and Todeschini 2007' '291' %}.
+[^10]: For example, an Athenian red-figure pelike, returned to Italy in 2006 (Museum of Fine Arts, Boston 1979.40) and an Etruscan black-figure kalpis, returned to Italy in 2013 (Toledo, Museum of Arts, 82.134, {% cite 'Brodie 2014' %} and {% cite 'Toledo Museum 2023' %}).
 
-[^10]: {% cite 'Watson and Todeschini 2007' '283' %}.
+[^11]: {% cite 'Watson and Todeschini 2007' '291' %}.
 
-[^11]: {% cite 'Fitz-Gibbon 2017' %}.
+[^12]: {% cite 'Watson and Todeschini 2007' '283' %}.
 
-[^12]: {% cite 'Watson and Todeschini 2007' '292–93' %}.
+[^13]: {% cite 'Fitz-Gibbon 2017' %}.
 
-[^13]: The addresses of the Basel and Paris galleries are given in {% cite 'Hoffmann and Cahn 1971' %}; in some sources, the Paris gallery is called Archéologie Classique et du Proche-Orient.
+[^14]: {% cite 'Watson and Todeschini 2007' '292–93' %}.
 
-[^14]: The relation of Nina Borowski to Elie Borowski is unconfirmed, but both have advertisements with the 40 Rue du Bac, Paris, address. Nina Borowski produced a few catalogues; additional references to art fair exhibitions for the Paris gallery are found in *Artis* and *Die Weltkunst*.
+[^15]: The addresses of the Basel and Paris galleries are given in {% cite 'Hoffmann and Cahn 1971' '251, 253' %}; in some sources, the Paris gallery is called Archéologie Classique et du Proche-Orient.
 
-[^15]: On the exhibitions, see {% cite 'Pantazzi 1981' %}, {% cite 'Leipen et al. 1984' %}, and {% cite 'Borowski 2001' %}; on the auctions: see {% cite 'Christie’s 2000' %}; objects sold and donated to museums, including the Getty Museum, Royal Ontario Museum, Museum of Fine Arts, Boston, and others; for a discussion of the likely illicit origins of the Arslan Tash ivories that Barowski sold, see {% cite 'Fontan 2014' '152' %}.
+[^16]: The relation of Nina Borowski to Elie Borowski is unconfirmed, but both have advertisements with the 40 Rue du Bac, Paris, address. Nina Borowski produced a few catalogues; additional references to art fair exhibitions for the Paris gallery are found in *Artis* and *Die Weltkunst*.
 
-[^16]: Mentioned in Robert Hecht’s memoir as a client of Giacomo Medici; {% cite 'Hecht and Norman 2014' '27' %}.
+[^17]: On the exhibitions, see {% cite 'Pantazzi 1981' %}, {% cite 'Leipen et al. 1984' %}, and {% cite 'Borowski 2001' %}; on the auctions: see {% cite 'Christie’s 2000' %}; objects sold and donated to museums, including the Getty Museum, Royal Ontario Museum, Museum of Fine Arts, Boston, and others; for a discussion of the likely illicit origins of the Arslan Tash ivories that Barowski sold, see {% cite 'Fontan 2014' '152' %}.
 
-[^17]: {% cite 'Boardman 2017' %}.
+[^18]: Mentioned in Robert Hecht’s memoir as a client of Giacomo Medici; {% cite 'Hecht and Norman 2014' '27' %}.
 
-[^18]: Their New York gallery changed locations frequently: 19 West 52nd Street; 27, 30, 43, 53, and 55 East 57th Street; 110 East 58th Street, 11 East 68th Street, and 383 Park Avenue.
+[^19]: {% cite 'Boardman 2017' %}; for The Bible Lands Museum Jerusalem, see <https://www.blmj.org/en/about/>.
 
-[^19]: The antiquities were sold in the third sale; {% cite 'Parke-Bernet Galleries 1949' %}.
+[^20]: Their New York gallery changed locations frequently: 19 West 52nd Street; 27, 30, 43, 53, and 55 East 57th Street; 110 East 58th Street, 11 East 68th Street, and 383 Park Avenue.
 
-[^20]: {% cite 'Sotheby’s 1964' %}; {% cite 'Galerie Koller 1979' %}.
+[^21]: The antiquities were sold in the third sale; {% cite 'Parke-Bernet Galleries 1949' %}.
 
-[^21]: The digitized archive can be accessed at *The Met*, “The Brummer Gallery Records,” Digital Collections from The Metropolitan Museum of Art Libraries, <http://libmma.contentdm.oclc.org/cdm/landingpage/collection/p16028coll9>.
+[^22]: {% cite 'Sotheby’s 1964' %}; {% cite 'Galerie Koller 1979' %}.
 
-[^22]: The Metropolitan Museum held a conference on the Brummer Galleries, October 13–14, 2017; also see {% cite 'Biro and Hollevoet-Force 2023' %} and {% cite 'Hindman 2023' %}.
+[^23]: The digitized archive can be accessed at *The Met*, “The Brummer Gallery Records,” Digital Collections from The Metropolitan Museum of Art Libraries, <http://libmma.contentdm.oclc.org/cdm/landingpage/collection/p16028coll9>.
 
-[^23]: {% cite 'Hoffmann and Cahn 1971' %}.
+[^24]: The Metropolitan Museum held a conference on the Brummer Galleries, October 13–14, 2017; also see {% cite 'Biro, Brennan, and Force 2023' %}.
 
-[^24]: See {% cite 'Faber-Castell 1983' '556' %}.
+[^25]: {% cite 'Hoffmann and Cahn 1971' %}.
 
-[^25]: Vase fragments from Cahn’s collection are often labeled with their inventory number in red ink; see, for example, J. Paul Getty Museum, 86.AE.587 (<https://www.getty.edu/art/collection/object/103WEA>) and 98.AE.98 (<https://www.getty.edu/art/collection/object/108DEH>). For publications of the fragments: {% cite 'Cahn and Kreuzer 1993' %}; {% cite 'Cambitoglou 1997' %}. Other works from his collection were sold at auction in 2002; see {% cite 'Cahn 2002' %}.
+[^26]: See {% cite 'Faber-Castell 1983' '556' %}.
 
-[^26]: {% cite 'Cahn n.d.' %}.
+[^27]: Vase fragments from Cahn’s collection are often labeled with their inventory number in red ink, as discussed in Chapter 2 in the section [“Examining the Object”](/2/). For publications of the fragments: {% cite 'Schmidt 1991' %}; {% cite 'Cahn and Kreuzer 1993' %}; {% cite 'Cambitoglou, Chamay, and Bottini 1997' %}. Other works from his collection were sold at auction in 2002; see {% cite 'Cahn 2002' %}.
 
-[^27]: {% cite 'Hecht and Norman 2014' '14–15' %}. In 1976, fifteen years after the charges were first brought, Cahn was found guilty of possessing illicit antiquities; these were the only charges ever brought against Cahn; {% cite 'Watson and Todeschini 2007' '164–65' %}.
+[^28]: {% cite 'Cahn n.d.' %}
 
-[^28]: {% cite 'Wolfson 2002' %}.
+[^29]: {% cite 'Hecht and Norman 2014' '14–15' %}. In 1976, fifteen years after the charges were first brought, Cahn was found guilty of possessing illicit antiquities; these were the only charges ever brought against Cahn; {% cite 'Watson and Todeschini 2007' '164–65' %}.
 
-[^29]: The Folio Society even published a guide to collecting: {% cite 'Nicholson 1965' %}.
+[^30]: {% cite 'Wolfson 2002' %}.
 
-[^30]: {% cite 'Ede 1976' %}.
+[^31]: The Folio Society even published a guide to collecting: {% cite 'Nicholson 1965' %}.
 
-[^31]: On the Collector’s Cabinet, see {% cite 'Reed 1975' %}.
+[^32]: {% cite 'Ede 1976' %}.
 
-[^32]: Other than a home page noting the closure of the gallery, the Royal-Athena website is no longer active, but information including a description of the firm and other pages can still be accessed through archived webpages: <https://web.archive.org/web/20200224195611/http://royalathena.com/PAGES/intropages/introduction.html>; see also IADAA member page, <https://iadaa.org/member/dr-jerome-m-eisenberg/>.
+[^33]: On the Collector’s Cabinet, see {% cite 'Reed 1975' %}.
 
-[^33]: On the closure and the transfer of stock, see the notice on the current website home page: <http://www.royalathena.com/>.
+[^34]: Other than a home page noting the closure of the gallery, the Royal-Athena website is no longer active, but information including a description of the firm and other pages can still be accessed through archived webpages: <https://web.archive.org/web/20200224195611/http://royalathena.com/PAGES/intropages/introduction.html>.
 
-[^34]: André Emmerich Gallery, *Masterpieces of Greek Vase Painting: 7th to 5th century B.C.*, April–March 1964, exh. cat. (New York: André Emmerich Gallery, 1964); André Emmerich Gallery, *Art of the Ancients: Greek, Etruscans and Romans*, February 7–March 13, 1968 (New York: André Emmerich Gallery, 1968); André Emmerich Gallery, *Art of Ancient Italy*, exh. cat. (New York: André Emmerich Gallery, 1970).
+[^35]: On the closure and the transfer of stock, see the notice on the current website home page: <http://www.royalathena.com/>.
 
-[^35]: <https://www.aaa.si.edu/collections/andr-emmerich-gallery-records-and-andr-emmerich-papers-6275>.
+[^36]: André Emmerich Gallery, *Masterpieces of Greek Vase Painting: 7th to 5th century B.C.*, April–March 1964, exh. cat. (New York: André Emmerich Gallery, 1964); André Emmerich Gallery, *Art of the Ancients: Greek, Etruscans and Romans*, February 7–March 13, 1968 (New York: André Emmerich Gallery, 1968); André Emmerich Gallery, *Art of Ancient Italy*, exh. cat. (New York: André Emmerich Gallery, 1970).
 
-[^36]: {% cite 'Simon 1995' %}. The gallery is also mentioned in *Mostra mercato internazionale dell'antiquariato*, 1970s–1980s. (Nicole: What is this? A journal? Series of publications? Clarify.)
+[^37]: <https://www.aaa.si.edu/collections/andr-emmerich-gallery-records-and-andr-emmerich-papers-6275>.
 
-[^37]: For a brief history of the Fallani family: {% cite 'Fallani, Simon, and Economolous 1997' %}.
+[^38]: {% cite 'Simon 1995' %}; {% cite 'Hoffmann and Cahn 1971' '252' %}.
 
-[^38]: {% cite 'Hecht and Norman 2014' 'xiii' %}, {% cite 'Hecht and Norman 2014' '4' %}, {% cite 'Hecht and Norman 2014' '6' %}, {% cite 'Hecht and Norman 2014' '8' %} (George Allen), {% cite 'Hecht and Norman 2014' '16–18' %}.
+[^39]: For a brief history of the Fallani family: {% cite 'Fallani, Simon, and Economolous 1997' %}.
 
-[^39]: Hecht established Hesperia Art in New York, where it was operated by Vladimir Clain-Stefanelli for a few years (early 1950s), until it was converted into a primarily mail-order business. The business name was revived in 1990 as Hesperia Arts Auction Ltd. to sell Hecht and McNall’s Summa Gallery stock. George Allen (1918–1997), a Haverford college friend of Hecht’s, ran his father’s rare books store, William H. Allen, Bookseller, 2031 Walnut Street, Philadelphia, from 1940 until his death, and ran Hesperia Art with Hecht from 1957 until the early 1970s. Allen served as Hecht’s agent in the sale of the “Trojan Gold” to the University of Pennsylvania Museum in 1966; see {% cite 'Rose 2017' %}.
+[^40]: {% cite 'Hecht and Norman 2014' 'xiii, 4, 6, 16–18' %}, {% cite 'Hecht and Norman 2014' '8' %} (George Allen).
 
-[^40]: Rosen and Hecht established Atlantis Antiquities Ltd. in 1984, with Andrea Hecht serving as the director by 1988, {% cite 'Reif 1988' %}. They published several sales catalogues, including *Ars and Texnh: Art and Craft of the Graeco-Roman World from 450 B.C. to 600 A.D.* (1989) and Robert Hecht, *Greek and Roman Art* (1990).
+[^41]: Hecht established Hesperia Art in New York, where it was operated by Vladimir Clain-Stefanelli for a few years (early 1950s), until it was converted into a primarily mail-order business. The business name was revived in 1990 as Hesperia Arts Auction Ltd. to sell Hecht and McNall’s Summa Gallery stock. George Allen (1918–1997), a Haverford college friend of Hecht’s, ran his father’s rare books store, William H. Allen, Bookseller, 2031 Walnut Street, Philadelphia, from 1940 until his death, and ran Hesperia Art with Hecht from 1957 until the early 1970s. Allen served as Hecht’s agent in the sale of the “Trojan Gold” to the University of Pennsylvania Museum in 1966; see {% cite 'Rose 2017' %} and [in this volume](/1/).
 
-[^41]: On museums to which Hecht sold material: {% cite 'Hecht and Norman 2014' 'xiii–xiv' %}; {% cite 'Watson and Todeschini 2007' '109' %}.
+[^42]: <https://www.metmuseum.org/art/collection/search/255353>.
 
-[^42]: {% cite 'Hagen and Ryholt 2016' '226–27' %}.
+[^43]: Rosen and Hecht established Atlantis Antiquities Ltd. in 1984, with Andrea Hecht serving as the director by 1988, {% cite 'Reif 1988' %}. They published several sales catalogues, including *Ars and Texnh: Art and Craft of the Graeco-Roman World from 450 B.C. to 600 A.D.* (1989) and Robert Hecht, *Greek and Roman Art* (1990).
 
-[^43]: Dikran Kelekian, *The Kelekian Collection of Persian and Analogous Potteries, 1885–1910* (Paris: H. Clarke, 1910), <https://archive.org/details/kelekiancollect00kele/mode/2up>; Dikran Kelekian, *Additional Documents of Coptic Art: In the Collection of Dikran G. Kelekian, Inc.* (New York: Delphic Press, 1941).
+[^44]: On museums to which Hecht sold material: {% cite 'Hecht and Norman 2014' 'xiii–xiv' %}; {% cite 'Watson and Todeschini 2007' '109' %}.
 
-[^44]: For more on Kelekian’s connections to the Metropolitan Museum, see *The Met*, “Buried Finds: Textile Collectors in Egypt,” 2012, <https://www.metmuseum.org/exhibitions/listings/2012/buried-finds>.
+[^45]: {% cite 'Hagen and Ryholt 2016' '226–27' %}.
 
-[^45]: The Kelekian Archive (Onassis Library for Hellenic and Roman Art, Department of Greek and Roman Art, Metropolitan Museum of Art, New York) contains invoices, correspondence, ledgers and shipment inventories, catalogues, and photographs and can be consulted on site. Also see {% cite 'deCamargo 2012' %}. For additional archives containing Kelekian’s correspondence, see “Archives Directory for the History of Collecting in America,” *The Frick Collection*, <https://research.frick.org/directory/detail/946>.
+[^46]: Dikran Kelekian, *The Kelekian Collection of Persian and Analogous Potteries, 1885–1910* (Paris: H. Clarke, 1910), <https://archive.org/details/kelekiancollect00kele/mode/2up>; Dikran Kelekian, *Additional Documents of Coptic Art: In the Collection of Dikran G. Kelekian, Inc.* (New York: Delphic Press, 1941).
 
-[^46]: United States Holocaust Memorial Museum, Oral history interview with Susanne K. Bennet, daughter of John Jacob Klejman, March 22, 2012, transcript; accession no. RG-50.106.0195, <https://collections.ushmm.org/oh_findingaids/RG-50.106.0195_trs_en.pdf>.
+[^47]: For more on Kelekian’s connections to the Metropolitan Museum, see *The Met*, “Buried Finds: Textile Collectors in Egypt,” 2012, <https://www.metmuseum.org/exhibitions/listings/2012/buried-finds>.
 
-[^47]: {% cite 'Canaday 1973' %}.
+[^48]: The Kelekian Archive (Onassis Library for Hellenic and Roman Art, Department of Greek and Roman Art, Metropolitan Museum of Art, New York) contains invoices, correspondence, ledgers and shipment inventories, catalogues, and photographs and can be consulted on site. Also see {% cite 'deCamargo 2012' %}. For additional archives containing Kelekian’s correspondence, see “Archives Directory for the History of Collecting in America,” *The Frick Collection*, <https://research.frick.org/directory/detail/946>.
 
-[^48]: {% cite 'Waxman 2008' '144–47' %}.
+[^49]: United States Holocaust Memorial Museum, Oral history interview with Susanne K. Bennet, daughter of John Jacob Klejman, March 22, 2012, transcript; accession no. RG-50.106.0195, <https://collections.ushmm.org/oh_findingaids/RG-50.106.0195_trs_en.pdf>.
 
-[^49]: {% cite 'Hecht and Norman 2014' '15–16' %}; likely Metropolitan Museum 60.11.11.
+[^50]: {% cite 'Canaday 1973' %}.
 
-[^50]: {% cite '*New York Times* 1984' %}; additional biographical details from {% cite 'Ogbechie 2019' %}.
+[^51]: {% cite 'Waxman 2008' '144–47' %}.
 
-[^51]: Mathias Komor Photographic Archive, 1934–1978, The Getty Research Institute, Los Angeles, accession no. 89.P.5, <http://hdl.handle.net/10020/cifa89p5>. Additional correspondence archives are held by other institutions, some of which include: University of Missouri, Museum of Art and Archaeology, Administrative Records, Box 5 FF 46, Mathias Komor: New York, 1960–1981; Philadelphia Museum of Art archives, Henry P. McIlhenny Papers: V. Art collection: B. Objects by genre, Box 77, Folder 2: Ceramics. Mathias Komor [firm]. 1946–1950; Cleveland Museum of Art, Ingalls Library and Museum Archives, Records of the Director's Office: William Mathewson Milliken, 1930–1958, Series 1, Box 25, folder 2: Komor, Mathias, 1946–1957.
+[^52]: {% cite 'Hecht and Norman 2014' '15–16' %}.
 
-[^52]: For an example of a Louis de Clercq and Henri de Boisgelin provenance, see {% cite 'Sotheby’s 2018' %}, lot 16.
+[^53]: {% cite '*New York Times* 1984' %}; additional biographical details from {% cite 'Ogbechie 2019' %}.
 
-[^53]: {% cite 'Getz-Gentle 2008' %}.
+[^54]: Mathias Komor Photographic Archive, 1934–1978, The Getty Research Institute, Los Angeles, accession no. 89.P.5, <http://hdl.handle.net/10020/cifa89p5>. Additional correspondence archives are held by other institutions, some of which include: University of Missouri, Museum of Art and Archaeology, Administrative Records, Box 5 FF 46, Mathias Komor: New York, 1960–1981; Philadelphia Museum of Art archives, Henry P. McIlhenny Papers: V. Art collection: B. Objects by genre, Box 77, Folder 2: Ceramics. Mathias Komor [firm]. 1946–1950; Cleveland Museum of Art, Ingalls Library and Museum Archives, Records of the Director's Office: William Mathewson Milliken, 1930–1958, Series 1, Box 25, folder 2: Komor, Mathias, 1946–1957.
 
-[^54]: {% cite 'Millon 2016' '49' %}; {% cite 'Karagelou 2008' %}.
+[^55]: For an example of a Louis de Clercq and Henri de Boisgelin provenance, see {% cite 'Sotheby’s 2018' %}, lot 16.
 
-[^55]: {% cite 'Gill 2019' %}; also see, on the Getty return of an ancient bronze head to Türkiye (71.AB.458): {% cite 'Getty Trust 2024B' %}.
+[^56]: {% cite 'Getz-Gentle 2008' %}.
 
-[^56]: Located at Rue Hôtel-de-Ville 9, Geneva; {% cite 'Krosney 2006' '67' %}.
+[^57]: {% cite 'Millon 2016' '49' %}; {% cite 'Karagelou 2008' %}.
 
-[^57]: At the time of writing, the following resources list Koutoulakis in their finding aids: Brooklyn Museum, New York, [“Guide to the Records of the Department of Egyptian, Classical, and Ancient Near Eastern Art (1890s–2002)” (2013)](https://d1lfxha3ugu3d4.cloudfront.net/archives/ECANEA_2013.pdf); Museum of Modern Art, New York, [Paul Rosenberg Archives](https://www.moma.org/research-and-learning/archives/finding-aids/PaulRosenbergf), II.E.12, K Miscellaneous 1947–1949, Koutoulakis, N.
+[^58]: {% cite 'Gill 2019' %}; also see, on the Getty return of an ancient bronze head to Türkiye, [71.AB.458](https://www.getty.edu/art/collection/object/103SV3): {% cite 'Getty Trust 2024B' %}.
 
-[^58]: Joel Malter, of Joel L. Malter & Co. in Encino, was the primary ancient coin dealer in Los Angeles in the 1960s; on Malter, see {% cite 'Kammerer 2004' '364' %}.
+[^59]: Located at Rue Hôtel-de-Ville 9, Geneva; {% cite 'Krosney 2006' '67' %}.
 
-[^59]: {% cite 'McNall and D’Antonio 2003' %}.
+[^60]: At the time of writing, the following resources list Koutoulakis in their finding aids: Brooklyn Museum, New York, [“Guide to the Records of the Department of Egyptian, Classical, and Ancient Near Eastern Art (1890s–2002)” (2013)](https://d1lfxha3ugu3d4.cloudfront.net/archives/ECANEA_2013.pdf); Museum of Modern Art, New York, [Paul Rosenberg Archives](https://www.moma.org/research-and-learning/archives/finding-aids/PaulRosenbergf), II.E.12, K Miscellaneous 1947–1949, Koutoulakis, N.
 
-[^60]: {% cite 'McNall and D’Antonio 2003' %}, chapter 3.
+[^61]: Joel Malter, of Joel L. Malter & Co. in Encino, was the primary ancient coin dealer in Los Angeles in the 1960s; on Malter, see {% cite 'Kammerer 2004' '364' %}.
 
-[^61]: Sotheby’s New York sold the Hunt collection in several auctions: June 19, 1990; June 21–22, 1990; December 4, 1990; June 19–20, 1991.
+[^62]: {% cite 'McNall and D’Antonio 2003' %}.
 
-[^62]: {% cite 'Solis-Cohen 1990' %}; and see the Hecht biography above.
+[^63]: {% cite 'McNall and D’Antonio 2003' %}, chapter 3.
 
-[^63]: For a detailed discussion of Medici’s family and childhood, see {% cite 'Watson and Todeschini 2007' '153' %}; {% cite 'Silver 2009' '11–14' %}; {% cite 'Hecht and Norman 2014' '24' %}.
+[^64]: Sotheby’s New York sold the Hunt collection in several auctions: June 19, 1990; June 21–22, 1990; December 4, 1990; June 19–20, 1991.
 
-[^64]: The pharmacist Pesciotti (first name Cima or Angelo) had official permission to build his collection since it was to be donated to the state; {% cite 'Silver 2009' '25' %}. According to Hecht’s memoir, Medici acquired these antiquities from “clandestine diggers” in Central Italy and these looted objects either stayed in the Pesciotti collection, now in the National Etruscan Museum (Villa Giulia) in Rome, or were sold on the market through Herbert Cahn; {% cite 'Hecht and Norman 2014' '14' %}.
+[^65]: {% cite 'Solis-Cohen 1990' %}; and see the Hecht biography above.
 
-[^65]: {% cite 'Hecht and Norman 2014' '25–27' %}.
+[^66]: For a detailed discussion of Medici’s family and childhood, see {% cite 'Watson and Todeschini 2007' '153' %}; {% cite 'Silver 2009' '11–14' %}; {% cite 'Hecht and Norman 2014' '24' %}.
 
-[^66]: {% cite 'Watson and Todeschini 2007' '154' %}, {% cite 'Watson and Todeschini 2007' '200–202' %}, {% cite 'Watson and Todeschini 2007' '206–7' %}.
+[^67]: The pharmacist Pesciotti (first name Cima or Angelo) had official permission to build his collection since it was to be donated to the state; {% cite 'Silver 2009' '25' %}. According to Hecht’s memoir, Medici acquired these antiquities from “clandestine diggers” in Central Italy and these looted objects either stayed in the Pesciotti collection, now in the National Etruscan Museum (Villa Giulia) in Rome, or were sold on the market through Herbert Cahn; {% cite 'Hecht and Norman 2014' '14' %}.
 
-[^67]: {% cite 'Watson and Todeschini 2007' '27' %}; {% cite 'Silver 2009' '121–22' %}, {% cite 'Silver 2009' '139' %}.
+[^68]: {% cite 'Hecht and Norman 2014' '25–27' %}.
 
-[^68]: Henri Albert Jacques managed Edition Services on behalf of Medici; Jacques also managed Xoilan Trader Inc. on behalf of Robin Symes. Other fronts include Serge Vilbert, “Guido” (Medici’s father’s name), and the company Tecafin Fiduciare. See {% cite 'Watson and Todeschini 2007' '72–73' %}, {% cite 'Watson and Todeschini 2007' '147–48' %}.
+[^69]: {% cite 'Watson and Todeschini 2007' '154, 200–202, 206–7' %}.
 
-[^69]: The “Zbinden collection” was used as a front with Sotheby’s that was linked to Christian Boursaud; {% cite 'Watson and Todeschini 2007' '95' %}.
+[^70]: {% cite 'Watson and Todeschini 2007' '27' %}; {% cite 'Silver 2009' '121–22, 139' %}.
 
-[^70]: For a discussion of some objects identified from the archive, see {% cite 'Gill and Tsirogiannis 2016' %}; and for a summary, see {% cite 'Brodie 2023' %}, <https://traffickingculture.org/encyclopedia/case-studies/giacomo-medici/>.
+[^71]: Henri Albert Jacques managed Edition Services on behalf of Medici; Jacques also managed Xoilan Trader Inc. on behalf of Robin Symes. Other fronts include Serge Vilbert, “Guido” (Medici’s father’s name), and the company Tecafin Fiduciare. See {% cite 'Watson and Todeschini 2007' '72–73, 147–48' %}.
 
-[^71]: See “Statement of Facts, In the Matter of A Grand Jury Investigation Into a Private New York Antiquities Collector (Michael Steinhardt), Dec. 6, 2021”: <https://images.law.com/contrib/content/uploads/documents/292/102693/2021-12-06-Steinhardt-Statement-of-Facts-w-Attachments-Filed.pdf>.
+[^72]: The “Zbinden collection” was used as a front with Sotheby’s that was linked to Christian Boursaud; {% cite 'Watson and Todeschini 2007' '95' %}.
 
-[^72]: See the current Merrin Gallery website at <https://merringallery.com/>.
+[^73]: For a discussion of some objects identified from the archive, see {% cite 'Gill and Tsirogiannis 2016' %}; and for a summary, see {% cite 'Brodie 2023' %}, <https://traffickingculture.org/encyclopedia/case-studies/giacomo-medici/>.
 
-[^73]: {% cite 'Hoffmann 1971' %}.
+[^74]: See “Statement of Facts, In the Matter of A Grand Jury Investigation Into a Private New York Antiquities Collector (Michael Steinhardt), Dec. 6, 2021”: <https://images.law.com/contrib/content/uploads/documents/292/102693/2021-12-06-Steinhardt-Statement-of-Facts-w-Attachments-Filed.pdf>.
 
-[^74]: “Leo Mildenberg,” *Coins Weekly*, October 14, 2009, <https://new.coinsweekly.com/nations/leo-mildenberg-2/>.
+[^75]: See the current Merrin Gallery website at <https://merringallery.com/>.
 
-[^75]: Bank Leu and Münzen und Medaillen, *Griechische Münzen aus der Sammlung eines Kunstfreundes*, sales cat., May 28, 1974, Zurich.
+[^76]: {% cite 'Hoffmann and Cahn 1971' %}.
 
-[^76]: J. Biers, ed., *A Peaceable Kingdom: Animals in Ancient Art from the Leo Mildenberg Collection*, part VI, auction cat., Christie’s London, October 26–27, 2004, and April 20, 2005 (Mainz: von Zabern, 2004).
+[^77]: “Leo Mildenberg,” *Coins Weekly*, October 14, 2009, <https://new.coinsweekly.com/nations/leo-mildenberg-2/>.
 
-[^77]: The earliest references to Robin Symes’s Kings Road shop are from 1967 and describe it as offering “Medieval and renaissance works of art, wood sculptures, early 17th century furniture”; *The 1967–8 International Antiques Yearbook,* ed. Philip Wilson (London: Studio Vista, 1967) 289.
+[^78]: Bank Leu and Münzen und Medaillen, *Griechische Münzen aus der Sammlung eines Kunstfreundes*, sales cat., May 28, 1974, Zurich.
 
-[^78]: “The Inside Page,” *Daily Mirror*, February 5, 1969, 11.
+[^79]: J. Biers, ed., *A Peaceable Kingdom: Animals in Ancient Art from the Leo Mildenberg Collection*, part VI, auction cat., Christie’s London, October 26–27, 2004, and April 20, 2005 (Mainz: von Zabern, 2004).
 
-[^79]: Symes sold antiquities to the British Museum as early as 1969 (a group of five Cycladic objects, 1969,1001.1–5, and a silver medallion, 1969,0403.1); the 1971 catalogue includes thirty-three objects, including Cycladic figures, Greek and Roman bronzes, Roman sculpture, Egyptian panel portraits and sculpture, and jewelry. Robin Symes, *Ancient Art*, dealer cat. (London: n.p., 1971).
+[^80]: The earliest references to Robin Symes’s Kings Road shop are from 1967 and describe it as offering “Medieval and renaissance works of art, wood sculptures, early 17th century furniture”; *The 1967–8 International Antiques Yearbook,* ed. Philip Wilson (London: Studio Vista, 1967) 289.
 
-[^80]: Xoilan Trader Inc. shared a Geneva administrative address (7 Avenue Krieg) with Medici’s Editions Services; both were managed by Henri Albert Jacques. Xoilan was owned by Alexander Michaelides, a relative of Christo Michaelides. Symes claimed Xoilan was for his personal collection; {% cite 'Watson and Todeschini 2007' '259–61' %} and n. 67.
+[^81]: “The Inside Page,” *Daily Mirror*, February 5, 1969, 11.
 
-[^81]: Symes advertised in *Apollo* between 1969 and 1999.
+[^82]: Symes sold antiquities to the British Museum as early as 1969 (a group of five Cycladic objects, 1969,1001.1–5, and a silver medallion, 1969,0403.1); the 1971 catalogue includes thirty-three objects, including Cycladic figures, Greek and Roman bronzes, Roman sculpture, Egyptian panel portraits and sculpture, and jewelry. Robin Symes, *Ancient Art*, dealer cat. (London: n.p., 1971).
 
-[^82]: {% cite 'Brodie 2012a' %}; also {% cite 'Felch and Frammolino 2011' %}.
+[^83]: Xoilan Trader Inc. shared a Geneva administrative address (7 Avenue Krieg) with Medici’s Editions Services; both were managed by Henri Albert Jacques. Xoilan was owned by Alexander Michaelides, a relative of Christo Michaelides. Symes claimed Xoilan was for his personal collection; {% cite 'Watson and Todeschini 2007' '259–61' %}, note 67.
 
-[^83]: {% cite 'Watson and Todeschini 2007' '322' %}. With the exception of four Polaroid photographs, the Schinoussa photo archive’s images are shot by professional photographers and have studio stamps on the backs, indicating locations that include Basel, Switzerland; Kingston-upon-Thames, England; Bond Street, London; and Madison Avenue, New York.
+[^84]: Symes advertised in *Apollo* between 1969 and 1999.
 
-[^84]: “Stolen Artefacts Stashed by British Art Dealer Are Returned to Italy,” *The Guardian,* March 22, 2016, <https://www.theguardian.com/world/2016/mar/22/stolen-artefacts-stashed-british-art-dealer-returned-italy>.
+[^85]: [88.AA.76](https://www.getty.edu/art/collection/object/1HC1T7); {% cite 'Brodie 2012a' %}; [Rose, in this volume](/1/); {% cite 'Felch and Frammolino 2011' %}.
 
-[^85]: See *The International Antiques Yearbook 1976*, and the *International Art and Antiques Yearbook 1979–80*; the Brooklyn Museum has archival material with Tchacos as a representative of both Galerie Uraeus and Galerie Nefer from 1971 to 1983; <https://archives.brooklynmuseum.org/repositories/2/archival_objects/18986>.
+[^86]: {% cite 'Watson and Todeschini 2007' '322' %}. With the exception of four Polaroid photographs, the Schinoussa photo archive’s images are shot by professional photographers and have studio stamps on the backs, indicating locations that include Basel, Switzerland; Kingston-upon-Thames, England; Bond Street, London; and Madison Avenue, New York.
 
-[^86]: {% cite 'Faber-Castell 1983' %}.
+[^87]: “Stolen Artefacts Stashed by British Art Dealer Are Returned to Italy,” *The Guardian,* March 22, 2016, <https://www.theguardian.com/world/2016/mar/22/stolen-artefacts-stashed-british-art-dealer-returned-italy>.
 
-[^87]: For a good review, see {% cite 'Brodie 2006' %}.
+[^88]: See *The International Antiques Yearbook 1976*, and the *International Art and Antiques Yearbook 1979–80*; the Brooklyn Museum has archival material with Tchacos as a representative of both Galerie Uraeus and Galerie Nefer from 1971 to 1983; <https://archives.brooklynmuseum.org/repositories/2/archival_objects/18986>.
 
-[^88]: {% cite 'Watson and Todeschini 2007' '190–94' %}.
+[^89]: {% cite 'Faber-Castell 1983' %}.
 
-[^89]: “Tozzi, Piero,” in “Archives Directory for the History of Collecting in America,” *The Frick Collection*, <https://research.frick.org/directory/detail/3027>.
+[^90]: For a good review, see {% cite 'Brodie 2006' %}.
 
-[^90]: {% cite 'Hoffmann and Cahn 1971' %}.
+[^91]: {% cite 'Watson and Todeschini 2007' '190–94' %}.
 
-[^91]: Museum of Fine Arts, Boston, “Ownership Resolutions: 2011–Weary Herakles” <https://www.mfa.org/collections/provenance/antiquities-and-archeological-material>; International Foundation for Art Research ( IFAR) Case Summary, “Republic of Turkey Claim Against Museum of Fine Arts, Boston for Statue of Herakles” <https://www.ifar.org/case_summary.php?docid=1179735842>; Victoria Reed, “Due Diligence, Provenance Research, and the Acquisition Process at the Museum of Fine Arts, Boston,” *DePaul Journal of Art, Technology and Intellectual Property Law*, 23(2) (Spring 2013). <https://via.library.depaul.edu/jatip/vol23/iss2/4>.
+[^92]: “Tozzi, Piero,” in “Archives Directory for the History of Collecting in America,” *The Frick Collection*, <https://research.frick.org/directory/detail/3027>.
 
-[^92]: For Getty holdings connected with Yeganeh, see search results for “Mohammad Yeganeh” on the Getty Museum Collection pages: <https://www.getty.edu/art/collection/search?provenance.owner.id=person/3f5bbffc-fa09-4052-a039-89bb302ec2e1&is_standalone=true>.
+[^93]: {% cite 'Hoffmann and Cahn 1971' %}.
 
-[^93]: 74.AA.37 (<https://www.getty.edu/art/collection/object/103SZH>) and 83.AE.320 (<https://www.getty.edu/art/collection/object/103VGY>) were published in Erwin Bielefeld, *Kunstwerke der Antike*, dealer cat. (Frankfurt: Galerie für griechische, römische und byzantinische Kunst, 1971).
+[^94]: [MFA Boston 1981.783](https://collections.mfa.org/objects/149765/weary-herakles-herakles-farnese-type); Museum of Fine Arts, Boston, “Ownership Resolutions: 2011–Weary Herakles” <https://www.mfa.org/collections/provenance/antiquities-and-archeological-material>; Victoria Reed, “Due Diligence, Provenance Research, and the Acquisition Process at the Museum of Fine Arts, Boston,” *DePaul Journal of Art, Technology and Intellectual Property Law*, 23(2) (Spring 2013). <https://via.library.depaul.edu/jatip/vol23/iss2/4>.
+
+[^95]: 74.AA.37 (<https://www.getty.edu/art/collection/object/103SZH>) and 83.AE.320 (<https://www.getty.edu/art/collection/object/103VGY>) were published in Erwin Bielefeld, *Kunstwerke der Antike*, dealer cat. (Frankfurt: Galerie für griechische, römische und byzantinische Kunst, 1971).
 
 {% endaccordion %}
