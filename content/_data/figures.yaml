@@ -92,19 +92,29 @@ figure_list:
     caption: "Underside of Cypriot Black on Red Ware Plate, ca. 550–450 BCE, terracotta ([94.AE.114.2](94.AE.114.2)) showing export number (2801)."
     credit: ""
 
-  - id: "fig-11"
-    src: "figures/fig-11.jpg"
-    label: "Figure 11"
+  - id: "fig-11-a"
+    src: "figures/fig-11-a.jpg"
+    label: "a"
     zoom: true
     caption: "A (front): Statuette of an Ape with Its Baby, Greek (Boeotian), mid-6th century BCE ([76.AD.16](https://www.getty.edu/art/collection/object/103T3X)). B (bottom): Underside of Statuette of an Ape with Its Baby ([76.AD.16](https://www.getty.edu/art/collection/object/103T3X)), showing price label."
     credit: ""
 
-  - id: "fig-12"
-    src: "figures/fig-12.jpg"
-    label: "Figure 12"
+  - id: "fig-11-b"
+    src: figures/fig-11-b.jpg
+    label: "b"
+    zoom: true
+
+  - id: "fig-12-a"
+    src: "figures/fig-12-a.jpg"
+    label: "a"
     zoom: true
     caption: "A: Cameo with Hercules and Diomedes, Roman, 25 BCE–14 CE, sardonyx set in a modern gold mount ([2023.19](https://www.getty.edu/art/collection/object/1146B1)). B: Detail of ownership engraving on Cameo with Hercules and Diomedes (2023.19)."
     credit: ""
+
+  - id: "fig-12-b"
+    src: figures/fig-12-b.jpg
+    label: "b"
+    zoom: true
 
   - id: "fig-13"
     src: figures/fig-13.jpg
