@@ -96,8 +96,8 @@ figure_list:
     src: "figures/fig-11-a.jpg"
     label: "a"
     zoom: true
-    caption: "A (front): Statuette of an Ape with Its Baby, Greek (Boeotian), mid-6th century BCE ([76.AD.16](https://www.getty.edu/art/collection/object/103T3X)). B (bottom): Underside of Statuette of an Ape with Its Baby ([76.AD.16](https://www.getty.edu/art/collection/object/103T3X)), showing price label."
-    credit: ""
+    # caption: "A (front): Statuette of an Ape with Its Baby, Greek (Boeotian), mid-6th century BCE ([76.AD.16](https://www.getty.edu/art/collection/object/103T3X)). B (bottom): Underside of Statuette of an Ape with Its Baby ([76.AD.16](https://www.getty.edu/art/collection/object/103T3X)), showing price label."
+    # credit: ""
 
   - id: "fig-11-b"
     src: figures/fig-11-b.jpg
@@ -108,8 +108,8 @@ figure_list:
     src: "figures/fig-12-a.jpg"
     label: "a"
     zoom: true
-    caption: "A: Cameo with Hercules and Diomedes, Roman, 25 BCE–14 CE, sardonyx set in a modern gold mount ([2023.19](https://www.getty.edu/art/collection/object/1146B1)). B: Detail of ownership engraving on Cameo with Hercules and Diomedes (2023.19)."
-    credit: ""
+    # caption: "A: Cameo with Hercules and Diomedes, Roman, 25 BCE–14 CE, sardonyx set in a modern gold mount ([2023.19](https://www.getty.edu/art/collection/object/1146B1)). B: Detail of ownership engraving on Cameo with Hercules and Diomedes (2023.19)."
+    # credit: ""
 
   - id: "fig-12-b"
     src: figures/fig-12-b.jpg
