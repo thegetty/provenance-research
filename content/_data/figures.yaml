@@ -9,13 +9,14 @@ figure_list:
 
   - id: "fig-2-a"
     src: figures/fig-02-a.jpg
-    label: "b"
+    label: "a"
     zoom: true
-    # caption: "A: Fragment of Wrapping of Petosiris, son of Tetosiris, Egyptian, 300–100 BCE, linen, Teece Museum, Christchurch, New Zealand, James Logie Collection (121.73). Photo: Teece Museum of Classical Antiquities, University of Canterbury, New Zealand. B: Detail from a composite image showing the join between fragments (Getty Museum 83.AI.47.1 at left; Teece Museum 121.73 at right). Photo: Foy D. Scalf."
+    caption: "A: Fragment of Wrapping of Petosiris, son of Tetosiris, Egyptian, 300–100 BCE, linen, Teece Museum, Christchurch, New Zealand, James Logie Collection (121.73). B: Detail from a composite image showing the join between fragments (Getty Museum ([83.AI.47.1](https://www.getty.edu/art/collection/object/105Z4V)) at left; Teece Museum 121.73 at right)."
+    credit: "Photos: Foy D. Scalf / Courtesy Teece Museum of Classical Antiquities, University of Canterbury, Christchurch, New Zealand"
   
   - id: "fig-2-b"
     src: figures/fig-02-b.jpg
-    label: "a"
+    label: "b"
     zoom: true
   
   - id: "fig-3"
@@ -23,7 +24,7 @@ figure_list:
     label: "Figure 3"
     zoom: true
     caption: "Horses of San Marco, Roman, second century CE. Bronze, slightly over life-size, 171 cm (67 5/16 in.) at withers. Basilica of San Marco, Venice."
-    credit: "Photo: © Per gentile concessione della Procuratoria di San Marco."
+    credit: "Photo: © Per gentile concessione della Procuratoria di San Marco"
   
   - id: "fig-4"
     src: "figures/fig-04.jpg"
@@ -45,8 +46,8 @@ figure_list:
     src: figures/fig-06-a.jpg
     label: "a"
     zoom: true
-    # caption: "Group of 218 Greek, Roman, Etruscan Engraved Gems and Rings (81.AN.76), each with different collecting histories (pictured: 81.AN.76.3, 81.AN.76.49, 81.AN.76.110)."
-    # credit: "Photo: TK"
+    # caption: "Three gems from a group of 218 Greek, Roman, Etruscan Engraved Gems and Rings, ([81.AN.76](https://www.getty.edu/art/collection/object/103TYX)), each with different collecting histories (pictured: Engraved Scarab with Head of a Gorgon, Greek, ca. 500 BCE, cornelian, ([81.AN.76.3](https://www.getty.edu/art/collection/object/103TYV)); Engraved Scaraboid with Chimera, Greek, ca. 400 BCE, blue chalcedony, ([81.AN.76.49](https://www.getty.edu/art/collection/object/103TZR)); Engraved Scarab with Bes Fighting a Griffin, Phoenician, ca. 500 BCE, ([81.AN.76.110](https://www.getty.edu/art/collection/object/103V0D)))."
+    # credit: ""
   
   - id: "fig-6-b"
     src: figures/fig-06-b.jpg
@@ -69,14 +70,14 @@ figure_list:
     src: "figures/fig-08-fpo.jpg"
     label: "Figure 8"
     zoom: true
-    caption: "Brummer collection stickers from marble Herm of Hermes (79.AA.132)."
+    caption: "Brummer collection stickers from marble Herm of Hermes ([79.AA.132](https://www.getty.edu/art/collection/object/103TQG))."
     credit: ""
   
   - id: "fig-9-a"
     src: figures/fig-09-a.jpg
     label: "a"
     zoom: true
-    # caption: "Cahn collection numbers preserved on two Attic Red-Figure Psykter Fragments (98.AE.98.1 and 98.AE.98.2)."
+    # caption: "Cahn collection numbers (777 and 778) preserved on two Attic Red-Figure Psykter Fragments, Greek, about 510 BCE, terracotta ([98.AE.98.1](https://www.getty.edu/art/collection/object/108DEJ)) and ([98.AE.98.2](https://www.getty.edu/art/collection/object/108DEK))."
     # credit: ""
 
   - id: "fig-9-b"
@@ -88,83 +89,87 @@ figure_list:
     src: "figures/fig-10.jpg"
     label: "Figure 10"
     zoom: true
-    caption: "Detail of export number or export license on a Cypriot Black on Red Ware
-      Plate (94.AE.114.2)."
+    caption: "Underside of Cypriot Black on Red Ware Plate, ca. 550–450 BCE, terracotta ([94.AE.114.2](94.AE.114.2)) showing export number (2801)."
     credit: ""
 
-  - id: "fig-11"
-    src: "figures/fig-11.jpg"
-    label: "Figure 11"
+  - id: "fig-11-a"
+    src: "figures/fig-11-a.jpg"
+    label: "a"
     zoom: true
-    caption: "Detail of price label on a Statuette of an Ape with Its Baby (76.AD.16)."
+    caption: "A (front): Statuette of an Ape with Its Baby, Greek (Boeotian), mid-6th century BCE ([76.AD.16](https://www.getty.edu/art/collection/object/103T3X)). B (bottom): Underside of Statuette of an Ape with Its Baby ([76.AD.16](https://www.getty.edu/art/collection/object/103T3X)), showing price label."
     credit: ""
 
-  - id: "fig-12"
-    src: "figures/fig-12.jpg"
-    label: "Figure 12"
+  - id: "fig-11-b"
+    src: figures/fig-11-b.jpg
+    label: "b"
     zoom: true
-    caption: "Detail of ownership engraving on Cameo with Hercules and Diomedes
-      (2023.19)."
+
+  - id: "fig-12-a"
+    src: "figures/fig-12-a.jpg"
+    label: "a"
+    zoom: true
+    caption: "A: Cameo with Hercules and Diomedes, Roman, 25 BCE–14 CE, sardonyx set in a modern gold mount ([2023.19](https://www.getty.edu/art/collection/object/1146B1)). B: Detail of ownership engraving on Cameo with Hercules and Diomedes (2023.19)."
     credit: ""
+
+  - id: "fig-12-b"
+    src: figures/fig-12-b.jpg
+    label: "b"
+    zoom: true
 
   - id: "fig-13"
     src: figures/fig-13.jpg
     label: "Figure 13"
     zoom: true
-    caption: "Sir Charles Alfred William Rycroft monogram preserved under the handle of
-      Attic Red-Figure Kylix (82.AE.42)."
+    caption: "Sir Charles Alfred William Rycroft monogram preserved under the handle of Attic Red-Figure Kylix, Greek, ca. 480 BCE, terracotta ([82.AE.42](https://www.getty.edu/art/collection/object/103VA6))."
     credit: ""
   
   - id: "fig-14"
     src: "figures/fig-14.jpg"
     label: "Figure 14"
     zoom: true
-    caption: "Dietrich von Bothmer label on Epichysis (96.AE.227)."
+    caption: "Dietrich von Bothmer label on underside of Pitcher (epichysis), Greek, fourth century BCE, terracotta ([96.AE.227](https://www.getty.edu/art/collection/object/107SAX))."
     credit: ""
   
   - id: "fig-15"
     src: "figures/fig-15.jpg"
     label: "Figure 15"
     zoom: true
-    caption: "Dietrich von Bothmer abbreviation label on Attic Black-Figure Band Skyphos
-      Fragment (85.AE.446)."
+    caption: "Dietrich von Bothmer label on Attic Black-Figure Band Skyphos Fragment, Greek, ca. 540–30 BCE, terracotta ([85.AE.446](https://www.getty.edu/art/collection/object/103VW7))."
     credit: ""
   
   - id: "fig-16"
     src: figures/fig-16.jpg
     label: "Figure 16"
     zoom: true
-    caption: "Detail of the underside of Campanian Neck Amphora (82.AE.128)."
+    caption: "Detail of the underside of Campanian Neck Amphora, early fifth century BCE, terracotta ([82.AE.128](https://www.getty.edu/art/collection/object/103VCR))."
     credit: ""
   
   - id: "fig-17"
     src: "figures/fig-17.jpg"
     label: "Figure 17"
     zoom: true
-    caption: "Sticker on base of Statuette of a Bird with Two Chicks (96.AD.228)."
+    caption: "Sticker on base of Statuette of a Bird with Two Chicks, Greek (Boeotian), late sixth century BCE, terracotta ([96.AD.228](https://www.getty.edu/art/collection/object/107SB2))."
     credit: ""
   
   - id: "fig-18"
     src: "figures/fig-18.jpg"
     label: "Figure 18"
     zoom: true
-    caption: "Italian export stamp preserved on underside of Attic Red-Figure Askos
-      (83.AE.396)."
+    caption: "Italian export seal preserved on underside of Attic Red-Figure Askos, Greek, ca. 410 BCE, terracotta ([83.AE.396](https://www.getty.edu/art/collection/object/103VHP)). The significance of the other markings (838, 600, IG.) is still to be determined."
     credit: ""
   
   - id: "fig-19"
     src: "figures/fig-19.jpg"
     label: "Figure 19"
     zoom: true
-    caption: "Austrian export stamp preserved on reverse of Mummy Portrait of a Woman
-      (79.AP.129)."
+    caption: "Detail of the reverse of Funerary Portrait of a Woman, Romano-Egyptian, ca. 175–200 CE, tempera on wood ([79.AP.129](https://www.getty.edu/art/collection/object/103TQE)), showing one of the partially-preserved Austrian export stamps (dark ink, triangle-shaped). Other markings include a set of numbers, “109 / 167,” which may relate to the panel's sale in 1942 at the Kende Galleries, where it was lot 167."
     credit: "Photo: Marie Svoboda, J. Paul Getty Museum"
   
   - id: "fig-20-a"
     src: figures/fig-20-a.jpg
     label: "a"
     zoom: true
-    # caption: "Statuette of a Sacrificing Woman (78.AB.408.1), front and back; collector’s marks on the back."
+    # caption: "Statuette of a Sacrificing Woman, Etruscan, fourth–third centuries BCE, bronze ([78.AB.408.1](https://www.getty.edu/art/collection/object/105Y7A)), front and back; collector’s marks on the back."
     # credit: ""
   
   - id: "fig-20-b"
@@ -176,23 +181,21 @@ figure_list:
     src: "figures/fig-21-fpo.jpg"
     label: "Figure 21"
     #zoom: true
-    caption: "Detail of auction catalogue price list from Sotheby's London, auction of
-      antiquities, July 22, 1963, Sotheby’s 1963."
-    credit: "Photo:"
+    caption: "Details of the purchaser of Lot 74 from Sotheby’s sale catalogue. Price list for Sotheby’s Antiquities sale in London on July 22, 1963: “74 Weiner, M.H. 50 140.00.”"
+    credit: "Photo: Courtesy of Sotheby’s"
   
   - id: "fig-22"
     src: "figures/fig-22.jpg"
     label: "Figure 22"
     zoom: true
-    caption: "Twentieth-century imitation of a Statuette of Crouching Aphrodite
-      (57.AD.9)."
+    caption: "Imitation of a Statuette of Crouching Aphrodite, twentieth century, terracotta (57.AD.9)."
     credit: ""
   
   - id: "fig-23-a"
     src: "figures/fig-23-a-fpo.jpg"
     label: "a"
     #zoom: true
-    # caption: "Statue of a Draped Woman (72.AA.153) at the time of its acquisition in 1972 (a); and late nineteenth- or early twentieth-century photograph, DAI-Rome Photo Archive EA 5022 (b)."
+    # caption: "A: Statue of a Draped Woman, Roman, ca. 160–190 CE, marble ([72.AA.153](https://www.getty.edu/art/collection/object/103SP6)) at the time of its acquisition by the Getty Museum in 1972. B: Late nineteenth- or early twentieth-century photograph, DAI-Rome Photo Archive EA 5022."
     # credit: ""
   
   - id: "fig-23-b"
@@ -204,7 +207,7 @@ figure_list:
     src: figures/fig-24-a.jpg
     label: "a"
     zoom: true
-    # caption: "Cinerary Urn Lid with a Reclining Man (71.AD.293.2)."
+    # caption: "A: Cinerary Urn with the Plow Hero. B: Cinerary Urn Lid with a Reclining Man, Etruscan, 150–100 BCE, terracotta ([71.AD.293](https://www.getty.edu/art/collection/object/105XDH))."
     # credit: ""
   
   - id: "fig-24-b"
@@ -216,33 +219,28 @@ figure_list:
     src: "figures/fig-25.jpg"
     label: "Figure 25"
     zoom: true
-    caption: "Online collection catalogue, provenance page of Cinerary Urn and Lid
-      (71.AD.293)."
+    caption: "Online collection catalogue, provenance page of Cinerary Urn and Lid (71.AD.293)."
     credit: ""
   
   - id: "fig-26"
     src: "figures/fig-26.jpg"
     label: "Figure 26"
     zoom: true
-    caption: "Situla with a Frieze of Athletic Contests (96.AC.41)."
+    caption: "Situla with a Frieze of Athletic Contests, Roman, 75–100 CE, bronze ([96.AC.41](https://www.getty.edu/art/collection/object/10402V))."
     credit: ""
   
   - id: "fig-27"
     src: "figures/fig-27.jpg"
     label: "Figure 27"
     zoom: true
-    caption: "Frontispiece from Charles Patin’s 1663 Familiae Romanae in antiquis
-      numismatibus, with image of the situla at the bottom left. Los Angeles,
-      Getty Research Institute (96.AC.41)."
+    caption: "Frontispiece from Charles Patin’s *Familiae Romanae in antiquis numismatibus* (1663), with engraving of the situla (96.AC.41) at the bottom left. Los Angeles, Getty Research Institute 84-B8630."
     credit: ""
   
   - id: "fig-28"
     src: "figures/fig-28.jpg"
     label: "Figure 28"
     zoom: true
-    caption: "Drawing of the situla by Pierre Jacques of Reims (Bibliothèque nationale de
-      France, Paris, Codex Remensis), fol. 60). Los Angeles, Getty Research
-      Institute (96.AC.41)."
+    caption: "Drawing of the situla (96.AC.41) by Pierre Jacques of Reims. Jacques’s drawing shows the frieze of the situla rolled out on two registers (Bibliothèque nationale de France, Paris, Codex Remensis, fol. 60). Reproduced in Reinach 1902, Los Angeles, Getty Research Institute 93-B23801."
     credit: ""
   
   - id: "fig-29"
@@ -251,28 +249,28 @@ figure_list:
     zoom: true
     caption: "Page from the Knoedler Gallery Stockbooks, showing no. 8026, a Cycladic
       Idol, 2500 BCE. Painting stock book 11: A7178-A9437), February 1959–December
-      1970. Los Angeles, Getty Research Institute (2012.M.54)."
+      1970. Los Angeles, Getty Research Institute 2012.M.54 (bx.11)."
     credit: ""
   
   - id: "fig-30"
     src: "figures/fig-30.jpg"
     label: "Figure 30"
     zoom: true
-    caption: "Head of Venus (73.AA.125)."
+    caption: "Head of Venus (Crouching Aphrodite type), Roman, first–second century CE, marble ([73.AA.125](https://www.getty.edu/art/collection/object/105XKE))."
     credit: ""
   
   - id: "fig-31"
     src: "figures/fig-31.jpg"
     label: "Figure 31"
     zoom: true
-    caption: "Brummer Gallery card P2328: Marble head; upper part missing; Greek."
-    credit: "Photo:"
+    caption: "Brummer Gallery card P2328: Marble, head, Greek, fragmented (recto). Handwritten notes include the object description, “Marble head; upper part missing / Greek”; the date the object arrived at the Brummer Gallery in New York, “Arr. Nov. 5, 1925”; and the sale date in red ink at center, “Mar. 4, 1927.”"
+    credit: "Photo: Brummer Gallery Records, Metropolitan Museum / Art Resource, NY"
   
   - id: "fig-32"
     src: "figures/fig-32.jpg"
     label: "Figure 32"
     zoom: true
-    caption: "Statuette of a Horse and Rider (2002.85)."
+    caption: "Statuette of a Horse and Rider, Greek (Boeotian), seventh century BCE, terracotta ([2002.85](https://www.getty.edu/art/collection/object/109219))."
     credit: ""
   
   - id: "fig-33"
@@ -290,119 +288,133 @@ figure_list:
     caption: "DAI-Rome Arachne Inventarbuch entry for Horse and Rider, photo number 5865
       (source: https://arachne.dainst.org/entity/1572804)."
     credit: ""
-  
+
   - id: "fig-35"
     src: "figures/fig-35.jpg"
     label: "Figure 35"
     zoom: true
-    caption: "Page from Gabriel Saint-Aubin’s annotated copy of the 1775 Mariette sale,
-      with drawing of lot 94."
-    credit: "Photo: © 2026 Museum of Fine Arts, Boston"
+    caption: "Portrait bust of a Man, Roman, 140–60 CE, marble ([2018.31](https://www.getty.edu/art/collection/object/109P06))."
+    credit: ""
   
   - id: "fig-36"
     src: "figures/fig-36.jpg"
     label: "Figure 36"
     zoom: true
-    caption: "Illustration in 1905 auction catalogue with the Getty’s Portrait of a Man
-      (74.AA.63) in the center,  Fifth Avenue Art Galleries 1905, lot 622."
-    credit: ""
+    caption: "Page 16 from Gabriel Saint-Aubin’s annotated copy of the 1775 Mariette sale,
+      with drawings of lots. Number 94 is the Getty gem with Venus and Anchises ([2017.2](https://www.getty.edu/art/collection/object/109NAS)). Museum of Fine Arts, Boston, 37.1713.16."
+    credit: "Photo: © 2026 Museum of Fine Arts, Boston"
   
   - id: "fig-37"
     src: "figures/fig-37.jpg"
     label: "Figure 37"
     zoom: true
-    caption: "Portrait of a Man, perhaps Periander (74.AA.63)."
+    caption: "Illustration in 1905 auction catalogue with the Getty’s Portrait of a Man
+      ([74.AA.63](https://www.getty.edu/art/collection/object/103T09)) in the center, Fifth Avenue Art Galleries 1905, lot 622."
     credit: ""
   
   - id: "fig-38"
     src: "figures/fig-38.jpg"
     label: "Figure 38"
-    #zoom: true
-    caption: "Stereoscopic view of Lowther Castle’s statuary collection, with the Getty
-      Museum’s Statue of a Seated Cybele with the Portrait Head of Her Priestess
-      (57.AA.19) visible at the rear."
+    zoom: true
+    caption: "Portrait of a Man, perhaps Periander, Roman, first–second centuries CE, marble (74.AA.63)."
     credit: ""
   
   - id: "fig-39"
     src: "figures/fig-39.jpg"
     label: "Figure 39"
-    zoom: true
-    caption: "Spink & Son Ltd. dealer advertisement in Connoisseur, May 1951, LXVIII."
-    credit: "Photo: Image produced by ProQuest LLC as part of ProQuest ® Periodicals
-      Online"
-  
+    #zoom: true
+    caption: "Stereoscopic view of the statuary collection at Lowther Castle, with the Getty
+      Museum’s Statue of a Seated Cybele with the Portrait Head of Her Priestess
+      ([57.AA.19](https://www.getty.edu/art/collection/object/103SPE)) visible at the rear."
+    credit: ""
+
   - id: "fig-40"
     src: "figures/fig-40.jpg"
     label: "Figure 40"
-    zoom: true
-    caption: "Antiquities on view in the Montecito home of Diandra and Michael Douglas, photographed for Architectural Digest, April 1988."
+    #zoom: true
+    caption: "Statuette of a Nude Youth, Etruscan, 325–300 BCE, bronze ([96.AB.35](https://www.getty.edu/art/collection/object/104039))."
     credit: ""
-  
+
   - id: "fig-41"
     src: "figures/fig-41.jpg"
     label: "Figure 41"
-    zoom: true
-    caption: "The Mazarin Venus (54.AA.11)."
+    #zoom: true
+    caption: "Cameo with the Head of Medusa, Roman, second–third century CE, sardonyx set in a nineteenth-century gold mount ([2001.28.12](https://www.getty.edu/art/collection/object/108HGQ))."
     credit: ""
   
   - id: "fig-42"
     src: "figures/fig-42.jpg"
     label: "Figure 42"
     zoom: true
-    caption: "Online collection catalogue, provenance page of Mazarin Venus (54.AA.11)."
-    credit: ""
+    caption: "Spink & Son Ltd. dealer advertisement in Connoisseur, May 1951, LXVIII."
+    credit: "Photo: Image produced by ProQuest LLC as part of ProQuest ® Periodicals Online"
   
   - id: "fig-43"
     src: "figures/fig-43.jpg"
     label: "Figure 43"
     zoom: true
-    caption: "Inagaki stamp preserved on former base of Head of a Young Woman (2022.10)."
-    credit: ""
+    caption: "Antiquities on view in the Montecito home of Diandra and Michael Douglas, photographed for *Architectural Digest*, April 1988."
+    credit: "Photo: John Vaughan, *Architectural Digest*, © Condé Nast"
   
   - id: "fig-44"
     src: "figures/fig-44.jpg"
     label: "Figure 44"
     zoom: true
-    caption: "Provenance data entered into record in The Museum System (TMS) for Statue
-      of a Draped Woman (72.AA.153)."
+    caption: "The Mazarin Venus, Roman, second century CE, marble ([54.AA.11](https://www.getty.edu/art/collection/object/103SNC))."
     credit: ""
   
   - id: "fig-45"
     src: "figures/fig-45.jpg"
     label: "Figure 45"
     zoom: true
-    caption: "Statuette of a Bull (2001.7)."
+    caption: "Online collection entry for the Mazarin Venus (54.AA.11), showing the provenance section."
     credit: ""
   
   - id: "fig-46"
     src: "figures/fig-46.jpg"
     label: "Figure 46"
     zoom: true
-    caption: "Fragment of a Sarcophagus Lid (71.AA.257)."
+    caption: "Inagaki stamp preserved on former base of Head of a Young Woman ([2022.10](https://www.getty.edu/art/collection/object/10A2WA))."
     credit: ""
   
   - id: "fig-47"
     src: "figures/fig-47.jpg"
     label: "Figure 47"
     zoom: true
-    caption: "James Christie, illustration of the Eleusinian Mysteries, 1825. Los
-      Angeles, Getty Research Institute (83-B914)."
+    caption: "Provenance data entered into record in The Museum System (TMS) for Statue of a Draped Woman ([72.AA.153](https://www.getty.edu/art/collection/object/103QSQ))."
     credit: ""
   
   - id: "fig-48"
     src: "figures/fig-48.jpg"
     label: "Figure 48"
     zoom: true
-    caption: "Objects of art and statuary at Spink & Son Ltd, dealers in antiquities, 6
-      King Street, St. James’s, City of Westminster, Greater London Authority,
-      SW1Y, 1918."
-    credit: "Photo:"
+    caption: "Statuette of a Bull, Roman, 25 BCE–75 CE, silver with gilding ([2001.7](https://www.getty.edu/art/collection/object/108GSK))."
+    credit: ""
   
   - id: "fig-49"
     src: "figures/fig-49.jpg"
     label: "Figure 49"
     zoom: true
-    caption: "Rokeby Hall, interior. Photograph, 12 x 17 cm (4 3/4 x 6 11/16 in.)
-      Vermeule Collection, Academy in Rome, Photographic Archive,
-      Vermeule.Sculpt.71."
-    credit: "Photo: Academy in Rome, Photographic Archive"
+    caption: "Fragment of a Sarcophagus Lid, Roman, 180–90 CE, marble ([71.AA.257](https://www.getty.edu/art/collection/object/103SSA))."
+    credit: ""
+  
+  - id: "fig-50"
+    src: "figures/fig-50.jpg"
+    label: "Figure 50"
+    zoom: true
+    caption: "Etching of sarcophagus by A. Tendi in volume by James Christie, illustration of the Eleusinian Mysteries, in section on the ancient Lampadophoria, 1806. Los Angeles, Getty Research Institute 83-B914."
+    credit: ""
+  
+  - id: "fig-51"
+    src: "figures/fig-51.jpg"
+    label: "Figure 51"
+    zoom: true
+    caption: "Objects of art and statuary at Spink & Son Ltd., dealers in antiquities, 6 King Street, St. James’s, City of Westminster, Greater London Authority, SW1Y, 1918."
+    credit: "Photo: Historic England"
+  
+  - id: "fig-52"
+    src: "figures/fig-52.jpg"
+    label: "Figure 52"
+    zoom: true
+    caption: "Rokeby Hall, interior. Photograph, 12 x 17 cm (4 3/4 x 6 11/16 in.). Vermeule Collection, Academy in Rome, Photographic Archive, Vermeule.Sculpt.71."
+    credit: "Photo: Digitized image courtesy of the American Academy in Rome, Photographic Archive"
