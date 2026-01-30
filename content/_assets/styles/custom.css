@@ -231,6 +231,9 @@
   padding: 0;
   font-style: normal;
 }
+.quire-page__content .content blockquote em {
+  font-style: italic;
+}
 .quire-page__content .container .content blockquote p:first-child::before {
   content: '';
 }
