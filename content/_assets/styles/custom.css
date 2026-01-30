@@ -174,15 +174,14 @@
   font-weight: normal;
 }
 .in-text-heading {
-  font-family: var(--fragment-mono);
-  font-size: .83rem;
+  font-size: .8rem;
   text-transform: uppercase;
   margin-top: .75rem;
+  letter-spacing: 1px;
+  font-weight: 500;
 }
 .in-text-heading .footnote-ref,
 .in-text-heading .footnote-ref a.footnote-ref-anchor {
-  font-family: var(--eb-garamond);
-  font-weight: 500;
   font-size: .75rem;
 }
 /* FIGURE CAPTIONS */
@@ -198,6 +197,9 @@
 }
 .q-figure__label .q-figure__label-icon {
   display: none;
+}
+.q-figure--group > .q-figure__caption .q-figure__modal-link {
+  pointer-events: none;
 }
 /* LISTS */
 .quire-page__content .container .content ul {
@@ -245,9 +247,12 @@
 .quire-page__content .container .content .footnotes li p:not(:first-child) {
   text-indent: calc(var(--base-indent) * .5);
 }
-/* .quire-page__content .container .content .footnotes li p:not(:first-child) {
-  text-indent: calc(var(--base-indent) * .5);
-} */
+.container .content blockquote ol:first-child::before {
+  content: '' !important;
+}
+.quire-page__content .container .content blockquote .footnotes ol {
+  margin-left: 1.5rem;
+}
 /* FOOTNOTE LINKS */
 .quire-page__content .content .footnote-ref a {
   font-weight: 500;
@@ -276,6 +281,10 @@
   font-weight: normal;
   line-height: 1.2;
   text-transform: uppercase;
+}
+/* OBJECT LINKS */
+a[href^='https://www.getty.edu/art/collection/object/'] {
+  white-space: nowrap;
 }
 
 /* NAV
@@ -610,6 +619,9 @@ details.accordion-section[id^="section-case-study"] h4 {
 }
 details.accordion-section[id^="section-case-study"] .q-figure__label .q-figure__label-icon svg {
   fill: white;
+}
+details.accordion-section[id^="section-case-study"] .accordion-section__body > .q-figure {
+  margin-top: 2rem;
 }
 @media print {
   section.accordion-section[id^=section-case-study] {
