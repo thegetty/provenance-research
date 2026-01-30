@@ -70,8 +70,14 @@ Updated licensing language
 **_includes/components/table-of-contents/item/list.js**
 Wrapped label in span for styling, and removed arrow graphic
 
+**_plugins/markdown/index.js**
+Add superscript support; and create better line breaks for URLs, per Chicago Manual of Style
+
 **_plugins/shortcodes/contributors.js**
 Refactor logic to handle oxford commas correctly
 
 **_plugins/shortcodes/figureGroup.js**
 Add group label, caption, and credit
+
+**_plugins/transforms/outputs/pdf/transform.js**
+Fix relative links transform (ported from code core Quire)

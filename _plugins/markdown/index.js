@@ -1,3 +1,8 @@
+//
+// CUSTOMIZED FILE
+// Add superscript support, lines 6 and 53
+// Create better line breaks for URLs, per Chicago Manual of Style, lines 80-99
+//
 import markdownItSup from 'markdown-it-sup'
 import { footnoteRef, footnoteTail } from './footnotes.js'
 import MarkdownIt from 'markdown-it'
@@ -69,6 +74,27 @@ export default function (eleventyConfig, options) {
     if (href.startsWith('http')) {
       tokens[idx].attrSet('target', '_blank')
     }
+    return defaultRender(tokens, idx, options, env, self)
+  }
+
+  /**
+   * Insert zero-width space with punctuation for better line breaks in URLs
+   * per Chicago Manual of Style
+   */
+  markdownLibrary.renderer.rules.link_open = (tokens, idx, options, env, self) => {
+    const linkTextIndex = idx + 1
+    const breakAfter = /([[\/]{2}|:])/g // double-slash and colon
+    const breakBefore = /([(?<!\/)\/(?!\/)|~|\.|,|_|?|#|%|=|+|&|-])/g // single-slash and others
+    const breakCharacter = '​' // zero-width space  
+
+    const linkText = tokens[linkTextIndex].content.includes('http') 
+      ? tokens[linkTextIndex].content
+        .replace(breakAfter, '$1' + breakCharacter)
+        .replace(breakBefore, breakCharacter + '$1')
+      : tokens[linkTextIndex].content
+    
+    tokens[linkTextIndex].content = linkText
+
     return defaultRender(tokens, idx, options, env, self)
   }
 
