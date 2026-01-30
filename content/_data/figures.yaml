@@ -17,7 +17,7 @@ figure_list:
   - id: "fig-2-b"
     src: figures/fig-02-b.jpg
     label: "b"
-    zoom: true
+    # zoom: true
   
   - id: "fig-3"
     src: "figures/fig-03-fpo.jpg"
@@ -201,7 +201,7 @@ figure_list:
   - id: "fig-23-b"
     src: "figures/fig-23-b-fpo.jpg"
     label: "b"
-    zoom: true
+    # zoom: true
   
   - id: "fig-24-a"
     src: figures/fig-24-a.jpg
