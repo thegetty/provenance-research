@@ -286,9 +286,9 @@
   text-transform: uppercase;
 }
 /* OBJECT LINKS */
-a[href^='https://www.getty.edu/art/collection/object/'] {
+/* a[href^='https://www.getty.edu/art/collection/object/'] {
   white-space: nowrap;
-}
+} */
 
 /* NAV
 ================================================================== */
