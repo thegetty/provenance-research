@@ -67,7 +67,7 @@ figure_list:
     credit: "TK"
   
   - id: "fig-8"
-    src: "figures/fig-08-fpo.jpg"
+    src: "figures/fig-08.jpg"
     label: "Figure 8"
     zoom: true
     caption: "Brummer collection stickers from marble Herm of Hermes ([79.AA.132](https://www.getty.edu/art/collection/object/103TQG))."
