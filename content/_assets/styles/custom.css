@@ -197,6 +197,11 @@
   font-weight: 500;
 }
 
+/* FIGURES */
+.q-figure.add-image-border img {
+  border: 1px solid black;
+}
+
 /* FIGURE CAPTIONS */
 .content figure .q-figure__caption {
   font-family: var(--host-grotesque);
