@@ -20,7 +20,7 @@ figure_list:
     # zoom: true
   
   - id: "fig-3"
-    src: "figures/fig-03-fpo.jpg"
+    src: "figures/fig-03.jpg"
     label: "Figure 3"
     zoom: true
     caption: "Horses of San Marco, Roman, second century CE. Bronze, slightly over life-size, 171 cm (67 5/16 in.) at withers. Basilica of San Marco, Venice."
