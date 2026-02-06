@@ -70,6 +70,12 @@ Updated licensing language
 **_includes/components/table-of-contents/item/list.js**
 Wrapped label in span for styling, and removed arrow graphic
 
+**_layouts/base.11ty.js**
+Added class to `<body>` element for styling the cover page
+
+**_layouts/cover.liquid**
+Changed contributor list from 'string' to 'name', removed hard-coded italics 
+
 **_plugins/markdown/index.js**
 Add superscript support; and create better line breaks for URLs, per Chicago Manual of Style
 
