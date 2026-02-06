@@ -17,10 +17,10 @@ figure_list:
   - id: "fig-2-b"
     src: figures/fig-02-b.jpg
     label: "b"
-    zoom: true
+    # zoom: true
   
   - id: "fig-3"
-    src: "figures/fig-03-fpo.jpg"
+    src: "figures/fig-03.jpg"
     label: "Figure 3"
     zoom: true
     caption: "Horses of San Marco, Roman, second century CE. Bronze, slightly over life-size, 171 cm (67 5/16 in.) at withers. Basilica of San Marco, Venice."
@@ -67,7 +67,7 @@ figure_list:
     credit: "TK"
   
   - id: "fig-8"
-    src: "figures/fig-08-fpo.jpg"
+    src: "figures/fig-08.jpg"
     label: "Figure 8"
     zoom: true
     caption: "Brummer collection stickers from marble Herm of Hermes ([79.AA.132](https://www.getty.edu/art/collection/object/103TQG))."
@@ -178,7 +178,7 @@ figure_list:
     zoom: true
 
   - id: "fig-21"
-    src: "figures/fig-21-fpo.jpg"
+    src: "figures/fig-21.jpg"
     label: "Figure 21"
     #zoom: true
     caption: "Details of the purchaser of Lot 74 from Sotheby’s sale catalogue. Price list for Sotheby’s Antiquities sale in London on July 22, 1963: “74 Weiner, M.H. 50 140.00.”"
@@ -192,16 +192,16 @@ figure_list:
     credit: ""
   
   - id: "fig-23-a"
-    src: "figures/fig-23-a-fpo.jpg"
+    src: "figures/fig-23-a.jpg"
     label: "a"
     #zoom: true
     # caption: "A: Statue of a Draped Woman, Roman, ca. 160–190 CE, marble ([72.AA.153](https://www.getty.edu/art/collection/object/103SP6)) at the time of its acquisition by the Getty Museum in 1972. B: Late nineteenth- or early twentieth-century photograph, DAI-Rome Photo Archive EA 5022."
     # credit: ""
   
   - id: "fig-23-b"
-    src: "figures/fig-23-b.jpg"
+    src: "figures/fig-23-b-fpo.jpg"
     label: "b"
-    zoom: true
+    # zoom: true
   
   - id: "fig-24-a"
     src: figures/fig-24-a.jpg

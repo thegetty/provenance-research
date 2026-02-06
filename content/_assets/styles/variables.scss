@@ -28,9 +28,6 @@ $noto-serif: 'Noto Serif', serif;
 $times-serif: Times, serif;
 $host-grotesque: 'Host Grotesk', sans-serif;
 $eb-garamond: 'EB Garamond', serif;
-$fragment-mono: 'Fragment Mono', monospace;
-
-
 
 // Page typography
 // -----------------------------------------------------------------------------
@@ -85,8 +82,8 @@ $print-entry-image-display: all; // first | all
 // Declare theme variables
 $quire-primary-font: $eb-garamond; // body and menu text
 $quire-headings-font: $host-grotesque; // headings
-$quire-footnotes-font: $fragment-mono; // footnotes and page backmatter
-$quire-navigation-font: $fragment-mono; // navbar and next/prev buttons
+$quire-footnotes-font: $host-grotesque; // footnotes and page backmatter
+$quire-navigation-font: $host-grotesque; // navbar and next/prev buttons
 
 @if $theme == classic {
   // Classic Theme
