@@ -326,7 +326,7 @@ Based in Frankfurt, Yeganeh dealt primarily in antiquities. The name of his wife
 
 [^38]: {% cite 'Simon 1995' %}; {% cite 'Hoffmann and Cahn 1971' '252' %}.
 
-[^39]: For a brief history of the Fallani family: {% cite 'Fallani, Simon, and Economolous 1997' %}.
+[^39]: For a brief history of the Fallani family: {% cite 'Fallani, Simon, and Economopoulos 1997' %}.
 
 [^40]: {% cite 'Hecht and Norman 2014' 'xiii, 4, 6, 16–18' %}, {% cite 'Hecht and Norman 2014' '8' %} (George Allen).
 

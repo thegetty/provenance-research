@@ -115,7 +115,7 @@ Each chapter in this publication approaches provenance research in distinct ways
 
 [^10]: The AIA would pass their official Resolution on the Acquisition of Antiquities by Museums on December 30, 1973: <https://www.archaeological.org/wp-content/uploads/2019/05/Resolution-on-the-Acquisition-of-Antiquities-by-Museums.pdf>; on UNESCO, see {% cite 'UNESCO 1970' %}.
 
-[^11]: See {% cite 'Watson and Todeschini 2007, 17–18' %}; <https://traffickingculture.org/encyclopedia/case-studies/organigram/>.
+[^11]: See {% cite 'Watson and Todeschini 2007' '17–18' %}; <https://traffickingculture.org/encyclopedia/case-studies/organigram/>.
 
 [^12]: See {% cite 'Eakin 2007' %}; {% cite 'Eakin 2010' %}.
 
