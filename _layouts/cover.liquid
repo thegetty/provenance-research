@@ -1,4 +1,7 @@
 ---
+## CUSTOMIZED FILE
+## Changed contributor list from 'string' to 'name', removed hard-coded italics 
+##
 classes:
  - quire-cover
 description: Quire publication cover page
@@ -31,9 +34,9 @@ layout: base.11ty.js
       <div class="contributor">
         <span class="visually-hidden">Contributors: </span>
         {% if publication.contributor_as_it_appears %}
-          <em>{{ publication.contributor_as_it_appears }}</em>
+          {{ publication.contributor_as_it_appears }}
         {% else %}
-          <em>{% contributors context=publicationContributors, format='string', type='primary' %}</em>
+          {% contributors context=publicationContributors, format='name', type='primary' %}
         {% endif %}
       </div>
     </div>
