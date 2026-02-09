@@ -364,11 +364,11 @@ Based in Frankfurt, Yeganeh dealt primarily in antiquities. The name of his wife
 
 [^57]: {% cite 'Millon 2016' '49' %}; {% cite 'Karagelou 2008' %}.
 
-[^58]: {% cite 'Gill 2019' %}; also see, on the Getty return of an ancient bronze head to Türkiye, [71.AB.458](https://www.getty.edu/art/collection/object/103SV3): {% cite 'Getty Trust 2024B' %}.
+[^58]: {% cite 'Gill 2019' %}; also see, on the Getty return of an ancient bronze head to Türkiye, 71.AB.458 (https://www.getty.edu/art/collection/object/103SV3): {% cite 'Getty Trust 2024B' %}.
 
 [^59]: Located at Rue Hôtel-de-Ville 9, Geneva; {% cite 'Krosney 2006' '67' %}.
 
-[^60]: At the time of writing, the following resources list Koutoulakis in their finding aids: Brooklyn Museum, New York, [“Guide to the Records of the Department of Egyptian, Classical, and Ancient Near Eastern Art (1890s–2002)” (2013)](https://d1lfxha3ugu3d4.cloudfront.net/archives/ECANEA_2013.pdf); Museum of Modern Art, New York, [Paul Rosenberg Archives](https://www.moma.org/research-and-learning/archives/finding-aids/PaulRosenbergf), II.E.12, K Miscellaneous 1947–1949, Koutoulakis, N.
+[^60]: At the time of writing, the following resources list Koutoulakis in their finding aids: Brooklyn Museum, New York, “Guide to the Records of the Department of Egyptian, Classical, and Ancient Near Eastern Art, 1890s–2002” (2013), https://d1lfxha3ugu3d4.cloudfront.net/archives/ECANEA_2013.pdf; Museum of Modern Art, New York, Paul Rosenberg Archives, https://www.moma.org/research/archives/finding-aids/PaulRosenbergf, II.E.12, K Miscellaneous 1947–1949, Koutoulakis, N.
 
 [^61]: Joel Malter, of Joel L. Malter & Co. in Encino, was the primary ancient coin dealer in Los Angeles in the 1960s; on Malter, see {% cite 'Kammerer 2004' '364' %}.
 
@@ -418,7 +418,7 @@ Based in Frankfurt, Yeganeh dealt primarily in antiquities. The name of his wife
 
 [^84]: Symes advertised in *Apollo* between 1969 and 1999.
 
-[^85]: [88.AA.76](https://www.getty.edu/art/collection/object/1HC1T7); {% cite 'Brodie 2012a' %}; [Rose, in this volume](/1/); {% cite 'Felch and Frammolino 2011' %}.
+[^85]: 88.AA.76 (https://www.getty.edu/art/collection/object/1HC1T7); {% cite 'Brodie 2012a' %}; [Rose](/1/), in this volume; {% cite 'Felch and Frammolino 2011' %}.
 
 [^86]: {% cite 'Watson and Todeschini 2007' '322' %}. With the exception of four Polaroid photographs, the Schinoussa photo archive’s images are shot by professional photographers and have studio stamps on the backs, indicating locations that include Basel, Switzerland; Kingston-upon-Thames, England; Bond Street, London; and Madison Avenue, New York.
 
@@ -436,7 +436,7 @@ Based in Frankfurt, Yeganeh dealt primarily in antiquities. The name of his wife
 
 [^93]: {% cite 'Hoffmann and Cahn 1971' %}.
 
-[^94]: [MFA Boston 1981.783](https://collections.mfa.org/objects/149765/weary-herakles-herakles-farnese-type); Museum of Fine Arts, Boston, “Ownership Resolutions: 2011–Weary Herakles” <https://www.mfa.org/collections/provenance/antiquities-and-archeological-material>; Victoria Reed, “Due Diligence, Provenance Research, and the Acquisition Process at the Museum of Fine Arts, Boston,” *DePaul Journal of Art, Technology and Intellectual Property Law*, 23(2) (Spring 2013). <https://via.library.depaul.edu/jatip/vol23/iss2/4>.
+[^94]: MFA Boston 1981.783 (https://collections.mfa.org/objects/149765/weary-herakles-herakles-farnese-type); Museum of Fine Arts, Boston, “Ownership Resolutions: 2011–Weary Herakles” <https://www.mfa.org/collections/provenance/antiquities-and-archeological-material>; Victoria Reed, “Due Diligence, Provenance Research, and the Acquisition Process at the Museum of Fine Arts, Boston,” *DePaul Journal of Art, Technology and Intellectual Property Law*, 23(2) (Spring 2013). <https://via.library.depaul.edu/jatip/vol23/iss2/4>.
 
 [^95]: 74.AA.37 (<https://www.getty.edu/art/collection/object/103SZH>) and 83.AE.320 (<https://www.getty.edu/art/collection/object/103VGY>) were published in Erwin Bielefeld, *Kunstwerke der Antike*, dealer cat. (Frankfurt: Galerie für griechische, römische und byzantinische Kunst, 1971).
 
