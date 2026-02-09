@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Wrap nav labels in span tags for styling
+//
 /* eslint-disable camelcase */
 
 import truncate from '#lib/truncate/index.js'
@@ -69,7 +73,7 @@ export default function (eleventyConfig) {
                 <use xlink:href="#left-arrow-icon"></use>
               </switch>
             </svg>
-            ${navBarLabel({ label, short_title, title })}
+            <span class="navbar-label">${navBarLabel({ label, short_title, title })}</span>
           </a>
         </li>
       `
@@ -99,9 +103,9 @@ export default function (eleventyConfig) {
       const { label, short_title, title } = data
       return html`
         <li class="quire-navbar-page-controls__item quire-next-page">
-          <a href="${url}" rel='next'>
+          <a href="${url}" rel='next'>    e
             <span class="visually-hidden">Next Page: </span>
-            ${navBarLabel({ label, short_title, title })}
+            <span class="navbar-label">${navBarLabel({ label, short_title, title })}</span>
             <svg data-outputs-exclude="epub,pdf">
               <switch>
                 <use xlink:href="#right-arrow-icon"></use>

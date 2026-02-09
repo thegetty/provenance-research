@@ -352,7 +352,7 @@ An application is required to become a registered user of the INTERPOL database.
 
 {% accordion '### Marks of Ownership' %}
 
-See also the discussion of [“Stamps and Seals”](/2/#stamps-and-seals) in chapter 2.
+See also the discussion of “[Stamps and Seals](/2/#stamps-and-seals)” in chapter 2.
 
 Unfortunately, there are very few resources for documenting marks of ownership on Mediterranean antiquities. However, some comparative examples from across the art world are presented here.
 
@@ -811,7 +811,7 @@ Digitized collection of approximately two thousand photographs, dating from 1959
 
 {% accordion '### Dealers' %} 
 
-See above under “Photo Archives” for additional resources in searching dealer material in these archives. See also Appendix 2, [“Dealer Biographies”](/appendix-2/).
+See above under “Photo Archives” for additional resources in searching dealer material in these archives. See also Appendix 2, “[Dealer Biographies](/appendix-2/)”.
 
 #### General
 

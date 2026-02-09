@@ -17,10 +17,7 @@ export default async function (data) {
   const id = this.slugify(url) || path.parse(inputPath).name
   const pageId = `page-${id}`
   const figures = pageData.page.figures
-
   const coverPageClass = url === '/' ? ' class="cover-page"' : ''
-
-  console.log('URL :: ' + url)
 
   return html`
     <!doctype html>
