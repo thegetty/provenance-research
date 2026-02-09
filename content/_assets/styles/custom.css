@@ -426,6 +426,11 @@ body.cover-page .quire-navbar a {
   font-style: normal;
   margin-top: .25rem;
 }
+@media print {
+   .quire-contents-list.list {
+    font-family: var(--host-grotesque);
+   }
+}
 
 .quire-menu {
   font-family: var(--host-grotesque);

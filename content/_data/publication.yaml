@@ -21,7 +21,7 @@ short_title:
 description:
   one_line:
   full: "The first of its kind, this book is an accessible, comprehensive primer of methods and resources for researching the provenance of Mediterranean (Greek, Roman, and Etruscan) antiquities. In addition to outlining effective strategies for documentation and investigation, the volume features an annotated guide to key archives, databases, and twentieth-century dealers to facilitate a broad spectrum of research endeavors. Building upon a decade-long review of the Getty Museum’s antiquities collection, it draws together instructive case studies, legal perspectives, and practical experience to provide an efficient first point of reference for museum professionals, scholars, collectors, and students. The book aims to emphasize the need for diligent provenance research and to shorten the learning curve for such projects."
-  online_edition: "The free online edition of this open-access publication is available at [getty.edu/publications/provenance-research-for-mediterranean-antiquities/](https://getty.edu/publications/provenance-research-for-mediterranean-antiquities/) and includes zoomable illustrations. Also available are free PDF and EPUB downloads of the book."
+  online_edition: "The free online edition of this open-access publication is available at [getty.edu/publications/provenance-research/](https://getty.edu/publications/provenance-research/) and includes zoomable illustrations. Also available are free PDF and EPUB downloads of the book."
 
 # ------------------------------------------------------------------------------
 # Publication Details
@@ -54,8 +54,8 @@ project_team:
   - Dani Grossman, *Cover Design*
   - Molly McGeehan, *Production*
   - Nancy Rivera, *Image and Rights Acquisition*
-  - Jenny Park, and Alex Hallenbeck, *Digital and Production Assistant*
-  - Alex Hallenbeck, *Editorial and Digital Assistant*
+  - Jenny Park, *Digital and Production Assistant*
+  - Alex Hallenbeck and Alba Menéndez Pereda, *Editorial and Digital Assistants*
 
 # ------------------------------------------------------------------------------
 # Contributors
