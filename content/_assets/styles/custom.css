@@ -172,6 +172,12 @@ body.cover-page .quire-navbar a {
 .quire-page__content .content a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {
   border-bottom-width: 0px !important;
 }
+@media print {
+  .quire-page__content .content a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):not(.footnote-ref-anchor):not(.footnote-backref),
+  .quire-citation__button {
+    text-decoration: none !important;
+  }
+}
 
 .quire-page__content .container .content {
   padding: 0;
@@ -185,6 +191,9 @@ body.cover-page .quire-navbar a {
 .quire-page__content .container .content p.no-indent-paragraph {
   text-indent: 0 !important;
   margin-top: 1rem !important;
+}
+.quire-page__content .container .content .footnotes p.no-indent-paragraph {
+  margin-top: 0 !important;
 }
 .quire-page__content .container .content p.no-line-space-below,
 .quire-page__content .container .content .backmatter p.no-line-space-below {
@@ -260,6 +269,11 @@ body.cover-page .quire-navbar a {
 .q-figure--group > .q-figure__caption .q-figure__modal-link {
   pointer-events: none;
 }
+@media print {
+  .content figure.q-figure--group > .q-figure__caption {
+    margin-top: 0;
+  }
+}
 /* LISTS */
 .quire-page__content .container .content ul {
   margin-left: var(--base-indent);
@@ -318,7 +332,7 @@ body.cover-page .quire-navbar a {
 /* FOOTNOTE LINKS */
 .quire-page__content .content .footnote-ref a {
   font-weight: 500;
-  font-size: .75rem;
+  font-size: .65rem;
 }
 .quire-page__content .content a.footnote-backref {
   font-size: inherit;
@@ -337,11 +351,13 @@ body.cover-page .quire-navbar a {
   margin-bottom: 0;
 }
 /* BIBLIOGRAPHY TERMS */
-.quire-page__content .container .content dl dt {
-  font-family: var(--host-grotesque);
-  font-size: .85rem;
+.quire-page__content .container .content .quire-page__content__references dl dt {
   font-weight: 500;
-  letter-spacing: .2px;
+  letter-spacing: 0.2px;
+}
+.quire-page__content .container .content .quire-page__content__references {
+  font-family: var(--host-grotesque);
+  line-height: 1.6;
 }
 /* OBJECT LINKS */
 /* a[href^='https://www.getty.edu/art/collection/object/'] {
@@ -366,10 +382,21 @@ body.cover-page .quire-navbar a {
 }
 .quire-navbar a {
   text-transform: uppercase;
-}
+}   
 .quire-progress-bar,
 .quire-contents-buttons {
   display: none;
+}
+/* Fix display of nav labels */
+.quire-navbar-page-controls__item.quire-next-page a,
+.quire-navbar-page-controls__item.quire-previous-page a {
+  white-space: nowrap;
+  max-width: calc((100vw - 18rem) * .5);
+}
+@media screen and (max-width: 860px) {
+  span.navbar-label {
+    display: none !important;
+  }
 }
 
 /* TOC & MENU
@@ -557,6 +584,21 @@ body.cover-page .quire-navbar a {
   letter-spacing: .2px;
   margin-right: 1rem;
 }
+@media print {
+  .dealer-biographies .accordion-section > p:nth-child(2),
+  .dealer-biographies .accordion-section > p:nth-child(3) {
+    text-indent: 0;
+    margin-left: var(--base-indent);
+    margin-bottom: .5rem;
+  }
+  .dealer-biographies .accordion-section > p strong {
+    font-family: var(--host-grotesque);
+    font-size: .85rem;
+    font-weight: 500;
+    letter-spacing: .2px;
+    margin-right: 1rem;
+  }
+}
 /* PROVENANCE TABLE */
 .quire-page__content .container .content .provenance-table table {
   margin-left: var(--base-indent);
@@ -692,13 +734,14 @@ details.accordion-section[id^="section-case-study"] .accordion-section__body > .
     background-color: var(--case-study-background-color);
     padding: 1.5rem;
     margin-top: 2.25rem;
+    margin-bottom: 2.25rem;
   }
   section.accordion-section[id^=section-case-study] h4 {
     margin-left: 0;
     margin-top: 0 !important;
   }
-  section.accordion-section[id^=section-case-study] .q-figure--image {
-    margin-left: 0;
+  section.accordion-section[id^=section-case-study] figure:not(.q-figure--group) .q-figure--image {
+    margin-left: var(--base-indent);
     margin-right: 0;
   }
 }
@@ -756,18 +799,18 @@ details.accordion-section[id^="section-case-study"] .accordion-section__body > .
   .quire-page__header__title {
     margin-top: .25in;
   }
-  .quire-page__content .container .content .quire-page__content__references {
-    font-size: 7.75pt;
-  }
   .quire-page__content .container .content .backmatter,
   .quire-page__content .container .content .footnotes,
-  .quire-page__content .container .content .quire-page__content__references dl dt  {
+  .quire-page__content .container .content .quire-page__content__references  {
     font-size: 6.5pt;
   }
   .quire-page__content .container .content .footnotes,
   .quire-page__content .container .content .quire-page__content__references  {
     column-count: 2;
     column-gap: 0.167in;
+  }
+  .quire-page__content .container .content blockquote .footnotes {
+    column-count: 1;
   }
 }
 
