@@ -103,7 +103,7 @@ export default function (eleventyConfig) {
       const { label, short_title, title } = data
       return html`
         <li class="quire-navbar-page-controls__item quire-next-page">
-          <a href="${url}" rel='next'>    e
+          <a href="${url}" rel='next'>
             <span class="visually-hidden">Next Page: </span>
             <span class="navbar-label">${navBarLabel({ label, short_title, title })}</span>
             <svg data-outputs-exclude="epub,pdf">
