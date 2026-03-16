@@ -20,7 +20,7 @@ short_title:
 
 description:
   one_line:
-  full: "The first of its kind, this book is an accessible, comprehensive primer of methods and resources for researching the provenance of Mediterranean (Greek, Roman, and Etruscan) antiquities. In addition to outlining effective strategies for documentation and investigation, the volume features an annotated guide to key archives, databases, and twentieth-century dealers to facilitate a broad spectrum of research endeavors. Building upon a decade-long review of the Getty Museum’s antiquities collection, it draws together instructive case studies, legal perspectives, and practical experience to provide an efficient first point of reference for museum professionals, scholars, collectors, and students. The book aims to emphasize the need for diligent provenance research and to shorten the learning curve for such projects."
+  full: "The first of its kind, this book is an accessible, comprehensive primer of methods and resources for researching the provenance of Mediterranean (Greek, Roman, and Etruscan) antiquities. In addition to outlining effective strategies for documentation and investigation, the volume features an annotated guide to key archives, databases, and twentieth-century dealers to facilitate a broad spectrum of research endeavors. Building upon a decade-long review of the Getty Museum’s antiquities collection, it draws together instructive case studies, legal perspectives, and practical experience to provide an efficient reference for museum professionals, scholars, collectors, and students."
   online_edition: "The free online edition of this open-access publication is available at [getty.edu/publications/provenance-research/](https://getty.edu/publications/provenance-research/) and includes zoomable illustrations. Also available are free PDF and EPUB downloads of the book."
 
 # ------------------------------------------------------------------------------
@@ -187,11 +187,14 @@ subject:
 
 library_of_congress_cip: | 
   Library of Congress Cataloging-in-Publication Data
-  - Names: 
-  - Title: 
-  - Description: 
-  - Identifiers: 
-  - Subjects: 
+  - Names: Barr, Judith (Curatorial assistant) editor | Budrovich, Nicole editor | Saunders, David editor | Clark, Stephen W. (Stephen Wells) contributor | Rose, Charles Brian contributor | Urice, Stephen K., 1950- contributor | J. Paul Getty Museum issuing body  
+  - Title: Provenance research for Mediterranean antiquities : methods and resources / edited by Judith Barr, Nicole Budrovich, David Saunders ; with contributions by Stephen W. Clark, C. Brian Rose, Stephen K. Urice. 
+  - Description: First edition. | Los Angeles : J. Paul Getty Museum, 2026. | Includes bibliographical references. | Summary: "This book is a comprehensive primer of methods and resources for researching the collecting history—the provenance—of Mediterranean (Greek, Roman, and Etruscan) antiquities"—Provided by publisher.  
+  - Identifiers: LCCN 2025035555 | ISBN 9798887120218 paperback | ISBN 9798887120225 epub | ISBN 9798887120232 adobe pdf | ISBN 9798887120249  
+  - Subjects: LCSH: Classical antiquities—Collectors and collecting | Art—Provenance—Research | Museums—Collection management | Mediterranean Region—Antiquities—Collectors and collecting 
+  - Classification: LCC DE59 .P765 2026 
+  - LC record available at https://lccn.loc.gov/2025035555
+
 
 # ------------------------------------------------------------------------------
 # Revision History
