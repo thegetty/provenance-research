@@ -67,6 +67,9 @@ Add `-epub-pdf` suffix to section id and turn off `checkDuplicates` in `IdAttrib
 **_includes/components/copyright/licensing.js**
 Updated licensing language
 
+**_includes/components/menu/item.js**
+Add page subtitles to sidebar menu
+
 **_includes/components/navigation.js**
 Fix label appearance in navbar
 
