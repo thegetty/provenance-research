@@ -430,6 +430,10 @@ body.cover-page .quire-navbar a {
    .quire-contents-list.list {
     font-family: var(--host-grotesque);
    }
+   /* Make frontmatter page number appear in lower roman in TOC */
+   .quire-contents-list .page-item:first-child > a::after {
+    content: leader(dotted) " " target-counter(attr(href, url), page, lower-roman);
+  }
 }
 
 .quire-menu {
