@@ -63,8 +63,9 @@ figure_list:
     src: "figures/fig-07.jpg"
     label: "Figure 7"
     zoom: true
-    caption: "Provenance research suggested workflow."
-    credit: "TK"
+    caption: "Suggested workflow for provenance research."
+    credit: ""
+    described_by_id: "fig-7-description"
   
   - id: "fig-8"
     src: "figures/fig-08.jpg"
