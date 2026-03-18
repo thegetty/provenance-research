@@ -715,6 +715,12 @@ p + .accordion-section:last-child {
 .accordion-section + h2 {
   margin-top: 0 !important;
 }
+@media print {
+  .accordion-section + h2 {
+    margin-top: 1.5em !important;
+  }
+}
+
 /* CASE STUDIES */
 details.accordion-section[id^="section-case-study"] {
   background-color: var(--accent-color);
