@@ -90,7 +90,7 @@ figure_list:
     src: "figures/fig-10.jpg"
     label: "Figure 10"
     zoom: true
-    caption: "Underside of Cypriot Black on Red Ware Plate, ca. 550–450 BCE, terracotta ([94.AE.114.2](94.AE.114.2)) showing export number (2801)."
+    caption: "Underside of Cypriot Black on Red Ware Plate, ca. 550–450 BCE, terracotta ([94.AE.114.2](https://www.getty.edu/art/collection/object/10409Z)) showing export number (2801)."
     credit: ""
 
   - id: "fig-11-a"
@@ -200,7 +200,7 @@ figure_list:
     # credit: ""
   
   - id: "fig-23-b"
-    src: "figures/fig-23-b-fpo.jpg"
+    src: "figures/fig-23-b.jpg"
     label: "B"
     # zoom: true
   
@@ -275,7 +275,7 @@ figure_list:
     credit: ""
   
   - id: "fig-33"
-    src: "figures/fig-33-fpo.jpg"
+    src: "figures/fig-33.jpg"
     label: "Figure 33"
     zoom: true
     caption: "Horse and rider, DAI-Rome Microfiche 1768_D14 (source:
@@ -354,7 +354,7 @@ figure_list:
     src: "figures/fig-43.jpg"
     label: "Figure 43"
     zoom: true
-    caption: "Antiquities on view in the Montecito home of Diandra and Michael Douglas, photographed for *Architectural Digest*, April 1988."
+    caption: "Artworks on view in the Montecito home of Diandra and Michael Douglas, photographed for *Architectural Digest*, April 1988."
     credit: "Photo: John Vaughan, *Architectural Digest*, © Condé Nast"
   
   - id: "fig-44"
