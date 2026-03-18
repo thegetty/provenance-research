@@ -9,14 +9,14 @@ figure_list:
 
   - id: "fig-2-a"
     src: figures/fig-02-a.jpg
-    label: "a"
+    label: "A"
     zoom: true
     # caption: "A: Fragment of Wrapping of Petosiris, son of Tetosiris, Egyptian, 300–100 BCE, linen, Teece Museum, Christchurch, New Zealand, James Logie Collection (121.73). B: Detail from a composite image showing the join between fragments (Getty Museum ([83.AI.47.1](https://www.getty.edu/art/collection/object/105Z4V)) at left; Teece Museum 121.73 at right)."
     # credit: "Photos: Foy D. Scalf / Courtesy Teece Museum of Classical Antiquities, University of Canterbury, Christchurch, New Zealand"
   
   - id: "fig-2-b"
     src: figures/fig-02-b.jpg
-    label: "b"
+    label: "B"
     # zoom: true
   
   - id: "fig-3"
@@ -44,19 +44,19 @@ figure_list:
   
   - id: "fig-6-a"
     src: figures/fig-06-a.jpg
-    label: "a"
+    label: "A"
     zoom: true
     # caption: "Three gems from a group of 218 Greek, Roman, Etruscan Engraved Gems and Rings, ([81.AN.76](https://www.getty.edu/art/collection/object/103TYX)), each with different collecting histories (pictured: Engraved Scarab with Head of a Gorgon, Greek, ca. 500 BCE, cornelian, ([81.AN.76.3](https://www.getty.edu/art/collection/object/103TYV)); Engraved Scaraboid with Chimera, Greek, ca. 400 BCE, blue chalcedony, ([81.AN.76.49](https://www.getty.edu/art/collection/object/103TZR)); Engraved Scarab with Bes Fighting a Griffin, Phoenician, ca. 500 BCE, ([81.AN.76.110](https://www.getty.edu/art/collection/object/103V0D)))."
     # credit: ""
   
   - id: "fig-6-b"
     src: figures/fig-06-b.jpg
-    label: "b"
+    label: "B"
     zoom: true
 
   - id: "fig-6-c"
     src: figures/fig-06-c.jpg
-    label: "c"
+    label: "C"
     zoom: true
   
   - id: "fig-7"
@@ -75,14 +75,14 @@ figure_list:
   
   - id: "fig-9-a"
     src: figures/fig-09-a.jpg
-    label: "a"
+    label: "A"
     zoom: true
     # caption: "Cahn collection numbers (777 and 778) preserved on two Attic Red-Figure Psykter Fragments, Greek, about 510 BCE, terracotta ([98.AE.98.1](https://www.getty.edu/art/collection/object/108DEJ)) and ([98.AE.98.2](https://www.getty.edu/art/collection/object/108DEK))."
     # credit: ""
 
   - id: "fig-9-b"
     src: figures/fig-09-b.jpg
-    label: "b"
+    label: "B"
     zoom: true
 
   - id: "fig-10"
@@ -94,26 +94,26 @@ figure_list:
 
   - id: "fig-11-a"
     src: "figures/fig-11-a.jpg"
-    label: "a"
+    label: "A"
     zoom: true
     # caption: "A (front): Statuette of an Ape with Its Baby, Greek (Boeotian), mid-6th century BCE ([76.AD.16](https://www.getty.edu/art/collection/object/103T3X)). B (bottom): Underside of Statuette of an Ape with Its Baby ([76.AD.16](https://www.getty.edu/art/collection/object/103T3X)), showing price label."
     # credit: ""
 
   - id: "fig-11-b"
     src: figures/fig-11-b.jpg
-    label: "b"
+    label: "B"
     zoom: true
 
   - id: "fig-12-a"
     src: "figures/fig-12-a.jpg"
-    label: "a"
+    label: "A"
     zoom: true
     # caption: "A: Cameo with Hercules and Diomedes, Roman, 25 BCE–14 CE, sardonyx set in a modern gold mount ([2023.19](https://www.getty.edu/art/collection/object/1146B1)). B: Detail of ownership engraving on Cameo with Hercules and Diomedes (2023.19)."
     # credit: ""
 
   - id: "fig-12-b"
     src: figures/fig-12-b.jpg
-    label: "b"
+    label: "B"
     zoom: true
 
   - id: "fig-13"
@@ -167,14 +167,14 @@ figure_list:
   
   - id: "fig-20-a"
     src: figures/fig-20-a.jpg
-    label: "a"
+    label: "A"
     zoom: true
     # caption: "Statuette of a Sacrificing Woman, Etruscan, fourth–third centuries BCE, bronze ([78.AB.408.1](https://www.getty.edu/art/collection/object/105Y7A)), front and back; collector’s marks on the back."
     # credit: ""
   
   - id: "fig-20-b"
     src: figures/fig-20-b.jpg
-    label: "b"
+    label: "B"
     zoom: true
 
   - id: "fig-21"
@@ -193,26 +193,26 @@ figure_list:
   
   - id: "fig-23-a"
     src: "figures/fig-23-a.jpg"
-    label: "a"
+    label: "A"
     #zoom: true
     # caption: "A: Statue of a Draped Woman, Roman, ca. 160–190 CE, marble ([72.AA.153](https://www.getty.edu/art/collection/object/103SP6)) at the time of its acquisition by the Getty Museum in 1972. B: Late nineteenth- or early twentieth-century photograph, DAI-Rome Photo Archive EA 5022."
     # credit: ""
   
   - id: "fig-23-b"
     src: "figures/fig-23-b-fpo.jpg"
-    label: "b"
+    label: "B"
     # zoom: true
   
   - id: "fig-24-a"
     src: figures/fig-24-a.jpg
-    label: "a"
+    label: "A"
     zoom: true
     # caption: "A: Cinerary Urn with the Plow Hero. B: Cinerary Urn Lid with a Reclining Man, Etruscan, 150–100 BCE, terracotta ([71.AD.293](https://www.getty.edu/art/collection/object/105XDH))."
     # credit: ""
   
   - id: "fig-24-b"
     src: figures/fig-24-b.jpg
-    label: "b"
+    label: "B"
     zoom: true
   
   - id: "fig-25"
