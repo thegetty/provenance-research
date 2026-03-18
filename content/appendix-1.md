@@ -487,9 +487,14 @@ The CMS was a long-term project to publish all known Aegean seals and sealings i
 
 Egyptian material is often considered a corpus of its own, but given that Egyptian objects may feature in collections of Mediterranean antiquities, we have gathered some resources together here.
 
+<div class="provenance-literature">
+
 ***Literature***
 Hagen, Fredrik, and Kim Ryholt. *The Antiquities Trade in Egypt 1880–1930: The H.O. Lange Papers* (Copenhagen: Det Kongelige Danske Videnskabernes Selskab, 2016).
-Stevenson, Alice. *Scattered Finds: Archaeology, Egyptology and Museums* (London: UCL Press, 2019; <https://doi.org/10.2307/j.ctv550cxt>). {.provenance-literature}
+
+Stevenson, Alice. *Scattered Finds: Archaeology, Egyptology and Museums* (London: UCL Press, 2019; <https://doi.org/10.2307/j.ctv550cxt>).
+
+</div>
 
 **Griffith Institute**
 **The Digital Topographical Bibliography, The Griffith Institute**
@@ -530,11 +535,18 @@ The GRI’s Photo Archive encompasses millions of photographs with specific Medi
 <https://fondazionezeri.unibo.it/en/photo-archive>
 This photo archive includes a section on ancient artworks, including some dealer photographs. Other photographs provide useful comparanda for dealer and photographer marks. The library also contains numerous auction catalogues.
 
+<div class="provenance-literature">
+
 ***Literature***
 For more on the practices behind historic dealer-created photography, see:
+
 Norskov, Vinnie. “The Photographs in John Marshall’s Archive.” In *Ancient Art and Its Commerce in Early Twentieth-Century Europe: The John Marshall Archive: A Collection of Essays Written by the Participants of the John Marshall Archive Project*, edited by Guido Petruccioli, 54–57 (Oxford: Archaeopress, 2022).
+
 Bärnighausen, Julia. “Bureaucratic Hybrids: Photographs from the Galleria Sangiorgi in Rome at the Kunsthistorisches Institut in Florenz.” *Mitteilungen des Kunsthistorischen Institutes in Florenz* 62, no. 1 (2020): 43–67.
-See [chapter 2](/2/#assembling-provenance-information) for our discussion of using photographs as an information source for antiquities and some cautions regarding their analysis. {.provenance-literature}
+
+See [chapter 2](/2/#assembling-provenance-information) for our discussion of using photographs as an information source for antiquities and some cautions regarding their analysis.
+
+</div>
 
 {% endaccordion %}
 
@@ -605,9 +617,14 @@ A detailed and useful summary of sources.
 https://francearchives.gouv.fr/fr/article/930253419
 A listing by personal name of *commissaires-priseurs* archives at the Archives de Paris.
 
+<div class="provenance-literature">
+
 ***Literature***
 Rouge-Ducos, Isabelle. *Le crieur et le marteau: Histoire des commissaires-priseurs de Paris (1801–1945)* (Paris: Editions Belin, 2013).
-Saint-Raymond, Léa. *À la conquête du marché de l’art: Le Pari(s) des enchères (1830–1939)* (Paris: Classiques Garnier, 2021). {.provenance-literature}
+
+Saint-Raymond, Léa. *À la conquête du marché de l’art: Le Pari(s) des enchères (1830–1939)* (Paris: Classiques Garnier, 2021).
+
+</div>
 
 ##### Germany
 
@@ -621,6 +638,8 @@ More than a thousand auctioneer copies of catalogues from the firm Galerie Hugo 
 
 Given the large corpus of guides dedicated to provenance research concerning the years during and after World War II (see “Provenance Research Guides” above), this section will not seek to reproduce their efforts. However, as Mediterranean antiquities have not, to date, often been a focus of these investigations, gaps in an object’s provenance between 1930 and 1945 should be treated with the same diligence as for European paintings and sculpture. Mediterranean antiquities continued to be part of the European art market during the war, and were subject to seizure and forced sales, just like other material in private collections and galleries. Antiquities were also looted from museum collections and excavation stores, some of which have surfaced or been identified in more recent years.[^4] However, many countries have not yet made World War II–era archival information accessible.
 
+<div class="provenance-literature">
+
 ***Literature***
 New contributions to the literature on Mediterranean antiquities during World War II have provided key insight into relevant archives and the unique challenges of researching this kind of material.
 
@@ -628,7 +647,9 @@ Bald Romano, Irene, ed. “The Fate of Antiquities in the Nazi Era.” Special i
 
 Choudhury, Najiba. “Seizures and Liquidation Sales in the United States During World War II: Tracking the Fate of Japanese Art Dealership, Yamanaka & Company, Inc.” *Journal for Art Market Studies* 4, no. 2 (2020). <https://doi.org/10.23690/jams.v4i2.125>.
 
-Dunn-Vaturi, Anne. “Mind the Gap: Researching Ownership History of Ancient Artifacts during the Nazi Era.” *RETOUR – Freier Blog für Provenienzforschende*, April 14, 2021. <https://retour.hypotheses.org/1460>. {.provenance-literature}
+Dunn-Vaturi, Anne. “Mind the Gap: Researching Ownership History of Ancient Artifacts during the Nazi Era.” *RETOUR – Freier Blog für Provenienzforschende*, April 14, 2021. <https://retour.hypotheses.org/1460>.
+
+</div>
 
 #### General Resources 
 
@@ -856,12 +877,20 @@ A digitized card file and correspondence with photographs and extensive annotati
 http://opacmuseicivicifiorentini.comune.fi.it/mcf/storico/archivio-storico.html
 Bardini is best known as a dealer for medieval and Renaissance Italian works of art, and access to his rich archival materials remains limited. However, a wealth of publications on the archive, particularly on his rich photographic legacy, provide valuable insight and evidence for its utility in provenance research for Mediterranean antiquities.
 
+<div class="provenance-literature">
+
 ***Literature***
 Capecchi, Gabriella. *L'Archivio Storico Fotografico di Stefano Bardini: Arte Greca Etrusca Romana* (Florence: A. Bruschi, 1993).
+
 Catterson, Lynn. “Bardini, Stefano” (2003). *Grove Art Online*. <https://doi.org/10.1093/gao/9781884446054.article.T006332>.
+
 Catterson, Lynn. “From Visual Inventory to Trophy Clippings: Bardini & Co. and the Use of Photography in the Late Nineteenth-Century Art Market.” *Mitteilungen des Kunsthistorischen Institutes in Florenz* 62, no. 1 (2020): 69–91.
+
 Moskowitz, Anita F. 2018. “The Photographic Archive of Stefano Bardini: A Few Case Studies of Its Utility.” *Source: Notes in the History of Art* 37, no. 4: 237–45.
-Tunesi, Annalea. “Stefano Bardini's Photographic Archive: A Visual Historical Document.” PhD thesis, University of Leeds, 2014. {.provenance-literature}
+
+Tunesi, Annalea. “Stefano Bardini's Photographic Archive: A Visual Historical Document.” PhD thesis, University of Leeds, 2014.
+
+</div>
 
 **Alfredo Barsanti (1877–1946)**
 **Barsanti Archive**

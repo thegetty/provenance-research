@@ -577,7 +577,8 @@ body.cover-page .quire-navbar a {
   text-transform: none;
   font-style: normal;
 }
-.quire-page__content .container .content .provenance-resources p.provenance-literature {
+.quire-page__content .container .content .provenance-resources p.provenance-literature,
+.quire-page__content .container .content .provenance-resources div.provenance-literature {
   margin-left: var(--base-indent);
 }
 /* DEALER BIOGRAPHIES */
