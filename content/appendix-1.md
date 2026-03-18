@@ -967,9 +967,8 @@ Partially digitized; inventory sheets record consignment, purchase, proposed buy
 **Raphael Stora Negative Collection and Sales Invoices**
 **Metropolitan Museum of Art, Watson Library, Cloisters Archives Collections**
 <https://www.metmuseum.org/art/libraries-and-research-centers/watson-digital-collections/cloisters-archives-collections>
-**Digitized collection of approximately a thousand photographic negatives from the New York and Paris dealer Raphael Stora, including a small number of antiquities from many areas.**
-https://libmma.contentdm.oclc.org/digital/collection/p15324coll6/id/1927/rec/1
-A listing of the negatives.
+<https://libmma.contentdm.oclc.org/digital/collection/p15324coll6/id/1927/rec/1>
+Digitized collection of approximately a thousand photographic negatives from the New York and Paris dealer Raphael Stora, including a small number of antiquities from many areas.
 
 **Piero Tozzi (1882–1974)**
 **The Tozzi Archive**
@@ -979,7 +978,6 @@ Extensive archival holdings of Piero Tozzi, a dealer and antiquarian active in b
 
 **Dieter Widmer (1918–2011), photographer for dealer Elie Borowski**
 **Dieter Widmer Photographs of Antiquities from the Ancient Mediterranean World**
-**Forthcoming**
 **Getty Research Institute**
 https://primo.getty.edu/permalink/f/19q6gmb/GETTY_ALMA21251920700001551
 Based in Basel, Widmer was a popular photographer for Swiss dealers, museums, and collectors throughout the second half of the twentieth century. This collection of more than 1,800 negatives preserves photographs taken for the dealer Elie Borowski (1913–2003) between 1954 and 1982, each dated by month and year. See also <http://www.fotoarchive.org/_archive/widm/info.html>.
