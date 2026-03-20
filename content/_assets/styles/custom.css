@@ -728,6 +728,9 @@ details.accordion-section[id^="section-case-study"] {
   padding: 1.5rem;
   margin-top: 2.25rem;
 }
+.quire-page details.accordion-section[id^="section-case-study"] .accordion-section__heading h4 {
+  margin-left: 0;
+}
 details.accordion-section[id^="section-case-study"] *:not(.accordion-section__copy-link-button) {
   color: white !important;
 }
@@ -735,9 +738,8 @@ details.accordion-section[id^="section-case-study"] *:not(.accordion-section__co
 .accordion-section__heading:hover .accordion-section__copy-link-button {
   color: white;
 }
-details.accordion-section[id^="section-case-study"] h4 {
-  margin-left: 0;
-  margin-bottom: 0 !important;
+.quire-page__content .content details.accordion-section[id^="section-case-study"] a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):not(.footnote-ref-anchor):not(.footnote-backref):hover, .quire-citation__button:hover {
+  color: white !important;
 }
 details.accordion-section[id^="section-case-study"] .q-figure__label .q-figure__label-icon svg {
   fill: white;
