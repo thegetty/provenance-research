@@ -1,7 +1,7 @@
 //
 // CUSTOMIZED FILE
 // Add superscript support, lines 6 and 53
-// Create better line breaks for URLs, per Chicago Manual of Style, lines 80-99
+// Create better line breaks for URLs, per Chicago Manual of Style, lines 80-95
 //
 import markdownItSup from 'markdown-it-sup'
 import { footnoteRef, footnoteTail } from './footnotes.js'
@@ -35,6 +35,8 @@ export default function (eleventyConfig, options) {
     level: [1]
   }
 
+  console.log('MARKDOWNIFY PLUGIN')
+
   /**
    * @see https://github.com/arve0/markdown-it-attrs#usage
    */
@@ -66,22 +68,19 @@ export default function (eleventyConfig, options) {
       return self.renderToken(tokens, idx, options)
     }
 
-  /**
-   * Render external links so that they open in a new tab
-   */
   markdownLibrary.renderer.rules.link_open = (tokens, idx, options, env, self) => {
+    /**
+     * Render external links so that they open in a new tab
+     */
     const href = tokens[idx].attrGet('href')
     if (href.startsWith('http')) {
       tokens[idx].attrSet('target', '_blank')
     }
-    return defaultRender(tokens, idx, options, env, self)
-  }
 
-  /**
-   * Insert zero-width space with punctuation for better line breaks in URLs
-   * per Chicago Manual of Style
-   */
-  markdownLibrary.renderer.rules.link_open = (tokens, idx, options, env, self) => {
+    /**
+     * Insert zero-width space with punctuation for better line breaks in URLs
+     * per Chicago Manual of Style
+     */
     const linkTextIndex = idx + 1
     const breakAfter = /([[\/]{2}|:])/g // double-slash and colon
     const breakBefore = /([(?<!\/)\/(?!\/)|~|\.|,|_|?|#|%|=|+|&|-])/g // single-slash and others
