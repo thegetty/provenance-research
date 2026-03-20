@@ -97,7 +97,7 @@ Each chapter in this publication approaches provenance research in distinct ways
 
 [^1]: 83.AI.47; <https://www.getty.edu/art/collection/object/105Z4V>.
 
-[^2]: See further {% cite 'Scalf forthcoming' %}, and an online discussion between Judith Barr and Heba Abd el Gawad, “‘Unwrapping’ the Book of the Dead at the Getty,” on January 26, 2024; <https://www.youtube.com/watch?v=enL-UWsHZ9k>. Three of the wrappings were featured in the Getty Villa exhibition *The Egyptian Book of the Dead* (November 1, 2023–January 29, 2024; March 4–November 30, 2026); see <https://www.getty.edu/art/exhibitions/book_of_dead/>.
+[^2]: See further {% cite 'Scalf forthcoming' %}, and an online discussion between Judith Barr and Heba Abd el Gawad, “‘Unwrapping’ the Book of the Dead at the Getty,” on January 26, 2024; <https://www.youtube.com/watch?v=enL-UWsHZ9k>. Three of the wrappings were featured in the Getty Villa exhibition *The Egyptian Book of the Dead* (November 1, 2023–January 29, 2024; March 4–November 30, 2026); <https://www.getty.edu/art/exhibitions/book_of_dead/>.
 
 [^3]: 70.AA.109; <https://www.getty.edu/art/collection/object/103QSP>.
 
