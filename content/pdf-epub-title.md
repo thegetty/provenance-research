@@ -10,14 +10,19 @@ toc: false
 ---
 
 {%- if publication.title -%}
-  <h1 class="title">{{ publication.title | markdownify }}{% if publication.subtitle %}: {{ publication.subtitle | markdownify }}{% endif %}
-  {% if publication.reading_line %}<br /><br />{{ publication.reading_line | markdownify }}{% endif %}</h1>
+  <h1 class="title">
+    {{- publication.title | markdownify -}}
+    {%- if publication.subtitle -%}
+      <span class="visually-hidden">: </span>
+      <span class="subtitle">{{- publication.subtitle | markdownify -}}</span>
+    {%- endif -%}
+  </h1>
 {%- endif -%}
 
 {%- if publication.contributor_as_it_appears -%}
-  <p class="contributor">{{ publication.contributor_as_it_appears | markdownify }}</p>
+  <p class="contributor">{{- publication.contributor_as_it_appears | markdownify -}}</p>
 {%- else -%}
-  <p class="contributor">{% contributors context=publicationContributors type="primary" format="string" %}</p>
+  {%- contributors context=publicationContributors type="primary" format="name" -%}
 {%- endif -%}
 
 {%- for publisher in publication.publisher -%}

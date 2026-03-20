@@ -427,12 +427,17 @@ body.cover-page .quire-navbar a {
   margin-top: .25rem;
 }
 @media print {
-   .quire-contents-list.list {
+  .quire-contents-list.list {
     font-family: var(--host-grotesque);
-   }
-   /* Make frontmatter page number appear in lower roman in TOC */
-   .quire-contents-list .page-item:first-child > a::after {
+  }
+  /* Make frontmatter page number appear in lower roman in TOC */
+  .quire-contents-list .page-item:first-child > a::after {
     content: leader(dotted) " " target-counter(attr(href, url), page, lower-roman);
+  }
+  .quire-contents-list .page-item > a::after {
+    font-size: 1rem;
+    font-weight: 500;
+    padding-left: .5rem;
   }
 }
 
@@ -570,8 +575,9 @@ body.cover-page .quire-navbar a {
 .quire-page__content .container .content .provenance-resources p strong {
   font-family: var(--host-grotesque);
   font-size: .85rem;
-  font-weight: 500;
+  font-weight: 400;
   letter-spacing: .2px;
+  color: black;
 }
 .quire-page__content .container .content .provenance-resources p em strong {
   text-transform: none;
@@ -590,9 +596,10 @@ body.cover-page .quire-navbar a {
 .dealer-biographies .accordion-section__body > p strong {
   font-family: var(--host-grotesque);
   font-size: .85rem;
-  font-weight: 500;
+  font-weight: 400;
   letter-spacing: .2px;
   margin-right: 1rem;
+  color: black;
 }
 @media print {
   .dealer-biographies .accordion-section > p:nth-child(2),
@@ -604,9 +611,10 @@ body.cover-page .quire-navbar a {
   .dealer-biographies .accordion-section > p strong {
     font-family: var(--host-grotesque);
     font-size: .85rem;
-    font-weight: 500;
+    font-weight: 400;
     letter-spacing: .2px;
     margin-right: 1rem;
+    color: black;
   }
 }
 /* PROVENANCE TABLE */
@@ -773,24 +781,66 @@ details.accordion-section[id^="section-case-study"] .accordion-section__body > .
   }
   .half-title-page {
     font-size: 1rem;
-    font-weight: 600;
+    font-weight: 500;
+    letter-spacing: .25px;
+    align-items: flex-start;
+    text-align: left;
+  }
+  .half-title {
+    margin-bottom: 1.25in;
+    width: 2in;
+    margin-left: calc(var(--base-indent) * 5);
   }
   .title-page {
     text-align: left;
+    align-items: flex-start;
   }
   .title-page .title {
-    font-size: 28pt;
     margin: 0;
+    margin-left: var(--base-indent);
+    font-size: 37.14pt;
+    line-height: 1.06;
+    width: 4in;
+    letter-spacing: .75pt;
   }
-  .title-page .contributor {
+  .title-page .subtitle {
+    color: inherit;
+    display: block;
+    margin: 0;
+    margin-left: calc(var(--base-indent) * 1.5);
+    font-size: 30.09pt;
+    line-height: 1.02;
+    letter-spacing: .5pt;
+    margin-top: var(--base-indent);
+  }
+  .title-page .quire-contributors-list {
+    margin-left: calc(var(--base-indent) * 5);
+  }
+  .title-page .quire-contributor {
+    color: black;
     font-family: var(--eb-garamond);
-    margin-left: 1in;
+    font-size: 1rem;
+    font-weight: 500;
+    letter-spacing: 1px;
+    line-height: 2;
+    text-transform: uppercase;
+  }
+  .title-page .quire-contributor:nth-child(2) {
+    margin-left: var(--base-indent);
+  }
+  .title-page .quire-contributor:nth-child(3) {
+    margin-left: calc(var(--base-indent) * 2);
   }
   .title-page .publisher {
+    color: black;
     font-family: var(--host-grotesque);
     font-size: 1rem;
-    text-align: right;
-    width: 2.5in;
+    font-weight: 500;
+    letter-spacing: .25px;
+    text-align: left;
+    text-transform: none;
+    width: 100%;
+    margin-left: var(--base-indent);
   }
   .content .q-figure--image {
     margin: 2rem var(--base-indent);
