@@ -793,6 +793,9 @@ details.accordion-section[id^="section-case-study"] .accordion-section__body > .
   .content .q-figure--image {
     margin: 2rem var(--base-indent);
   }
+  .content .q-figure--image.pdf-full-width {
+    margin: 2rem 0;
+  }
   .content .q-figure--group .q-figure--image {
     margin: 0;
   }
