@@ -23,7 +23,7 @@ figure_list:
     src: "figures/fig-03.jpg"
     label: "Figure 3"
     zoom: true
-    caption: "Horses of San Marco, Roman, second century CE. Bronze, slightly over life-size, 171 cm (67 5/16 in.) at withers. Basilica of San Marco, Venice."
+    caption: "Horses of San Marco, Roman, second century CE. Bronze, height: 171 cm (67 5/16 in.) at withers. Basilica of San Marco, Venice."
     credit: "Photo: © Per gentile concessione della Procuratoria di San Marco"
   
   - id: "fig-4"
@@ -39,7 +39,7 @@ figure_list:
     zoom: true
     caption: "Athenian red-figure calyx krater, ca. 515 BCE. Signed by Euxitheos and Euphronios. Terracotta, height: 45.7 cm (18 in.); diameter
       top: 55.1 cm (21 11/16 in.); diameter base: 29.5 cm (11 5/8 in.). Cerveteri,
-      Museo Nazionale Archeologico Nazionale di Cerveteri, vase no. 187."
+      Museo Nazionale Archeologico Nazionale di Cerveteri, vase no. 187, inv. no. 145139."
     credit: "Photo: Scala / Ministero per i Beni e le Attività culturali / Art Resource, NY"
   
   - id: "fig-6-a"
