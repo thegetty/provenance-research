@@ -4,14 +4,14 @@ figure_list:
     src: "figures/fig-01.jpg"
     label: "Figure 1"
     zoom: true
-    caption: "Linen Wrapping of Petosiris, son of Tetosiris, with Book of the Dead Spells, Egyptian, 300–100 BCE ([83.AI.47.1.1](https://www.getty.edu/art/collection/object/105z4v)), one of the twelve linen wrappings with texts and vignettes acquired by the Getty Museum in 1983."
+    caption: "Detail of Linen Wrapping of Petosiris, son of Tetosiris, with Book of the Dead Spells, Egyptian, 300–100 BCE ([83.AI.47.1.1](https://www.getty.edu/art/collection/object/1061YT)), one of the twelve linen wrappings with texts and vignettes acquired by the Getty Museum in 1983."
     credit:
 
   - id: "fig-2-a"
     src: figures/fig-02-a.jpg
     label: "A"
     zoom: true
-    # caption: "A: Fragment of Wrapping of Petosiris, son of Tetosiris, Egyptian, 300–100 BCE, linen, Teece Museum, Christchurch, New Zealand, James Logie Collection (121.73). B: Detail from a composite image showing the join between fragments (Getty Museum ([83.AI.47.1](https://www.getty.edu/art/collection/object/105Z4V)) at left; Teece Museum 121.73 at right)."
+    # caption: "A: Fragment of Wrapping of Petosiris, son of Tetosiris, Egyptian, 300–100 BCE, linen, Teece Museum, Christchurch, New Zealand, James Logie Collection (121.73). B: Detail from a composite image showing the join between fragments (Getty Museum [83.AI.47.1](https://www.getty.edu/art/collection/object/105Z4V) at left; Teece Museum 121.73 at right)."
     # credit: "Photos: Foy D. Scalf / Courtesy Teece Museum of Classical Antiquities, University of Canterbury, Christchurch, New Zealand"
   
   - id: "fig-2-b"
