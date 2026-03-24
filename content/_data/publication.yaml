@@ -138,7 +138,7 @@ copyright: © 2026 J. Paul Getty Trust
 license:
   name: Creative Commons Attribution 4.0 International License
   abbreviation: CC BY-NC
-  url: creativecommons.org/licenses/by-nc/4.0/
+  url: https://creativecommons.org/licenses/by-nc/4.0/
   scope: text-only # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------

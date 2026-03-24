@@ -544,7 +544,7 @@ Norskov, Vinnie. “The Photographs in John Marshall’s Archive.” In *Ancient
 
 Bärnighausen, Julia. “Bureaucratic Hybrids: Photographs from the Galleria Sangiorgi in Rome at the Kunsthistorisches Institut in Florenz.” *Mitteilungen des Kunsthistorischen Institutes in Florenz* 62, no. 1 (2020): 43–67.
 
-See [chapter 2](/2/#assembling-provenance-information) for our discussion of using photographs as an information source for antiquities and some cautions regarding their analysis.
+See [chapter 2](/2/#part-2-assembling-provenance-information) for our discussion of using photographs as an information source for antiquities and some cautions regarding their analysis.
 
 </div>
 
@@ -778,7 +778,7 @@ The archives of Arndt contain extensive correspondence with dealers and collecto
 **Felbermeyer Photographs of Antiquities and Art in Italy**
 **Getty Research Institute**
 <https://primo.getty.edu/permalink/f/19q6gmb/GETTY_ALMA21143962670001551>
-Perhaps best known for his work as chief photographer for the Central Collecting Point, Munich, after World War II, Felbermeyer was a photographer first for the Deutsches Archäologisches Institut-Rom (DAI-Rom) before the war and, after 1950, at the American Academy in Rome. Photographs largely represent site and project-specific photography. However, as discussed in “Case Study: Photographic Archives in Context” in [chapter 2](/2/#photographic-archives), Felbermeyer’s subjects also included a number of antiquities held in private collections or on the art market; some of these photographs also became part of the DAI-Rom's photo archive. Some photographs preserve limited annotations, but they are largely undated and unlabeled. Where preserved in the DAI-Rom archive, their “Inverbuch” files provide some additional data, such as the date the photograph entered their records.
+Perhaps best known for his work as chief photographer for the Central Collecting Point, Munich, after World War II, Felbermeyer was a photographer first for the Deutsches Archäologisches Institut-Rom (DAI-Rom) before the war and, after 1950, at the American Academy in Rome. Photographs largely represent site and project-specific photography. However, as discussed in “Case Study: Photographic Archives in Context” in [chapter 2](/2/#section-case-study-photographic-archives-in-context), Felbermeyer’s subjects also included a number of antiquities held in private collections or on the art market; some of these photographs also became part of the DAI-Rom's photo archive. Some photographs preserve limited annotations, but they are largely undated and unlabeled. Where preserved in the DAI-Rom archive, their “Inverbuch” files provide some additional data, such as the date the photograph entered their records.
 
 ***Literature***
 Blecksmith, Anne. “The Johannes Felbermeyer Collection at the Getty Research Institute.” *Visual Resources Association Bulletin* 39, no. 1 (2012): 1–6. {.provenance-literature}
