@@ -128,14 +128,14 @@ figure_list:
     src: "figures/fig-14.jpg"
     label: "Figure 14"
     zoom: true
-    caption: "Dietrich von Bothmer label on underside of Pitcher (epichysis), Greek, fourth century BCE, terracotta ([96.AE.227](https://www.getty.edu/art/collection/object/107SAX))."
+    caption: "Dietrich von Bothmer label on the underside of Pitcher (*epichysis*), Greek, fourth century BCE, terracotta ([96.AE.227](https://www.getty.edu/art/collection/object/107SAX))."
     credit: ""
   
   - id: "fig-15"
     src: "figures/fig-15.jpg"
     label: "Figure 15"
     zoom: true
-    caption: "Dietrich von Bothmer label on Attic Black-Figure Band Skyphos Fragment, Greek, ca. 540–30 BCE, terracotta ([85.AE.446](https://www.getty.edu/art/collection/object/103VW7))."
+    caption: "Dietrich von Bothmer label on Attic Black-Figure Band Skyphos Fragment, Greek, ca. 540–530 BCE, terracotta ([85.AE.446](https://www.getty.edu/art/collection/object/103VW7))."
     credit: ""
   
   - id: "fig-16"
@@ -156,7 +156,7 @@ figure_list:
     src: "figures/fig-18.jpg"
     label: "Figure 18"
     zoom: true
-    caption: "Italian export seal preserved on underside of Attic Red-Figure Askos, Greek, ca. 410 BCE, terracotta ([83.AE.396](https://www.getty.edu/art/collection/object/103VHP)). The significance of the other markings (838, 600, IG.) is still to be determined."
+    caption: "Export seal preserved on underside of Attic Red-Figure Askos, Greek, ca. 410 BCE, terracotta ([83.AE.396](https://www.getty.edu/art/collection/object/103VHP)). The significance of other markings is still to be determined."
     credit: ""
   
   - id: "fig-19"
@@ -182,22 +182,22 @@ figure_list:
     src: "figures/fig-21.jpg"
     label: "Figure 21"
     #zoom: true
-    caption: "Details of the purchaser of Lot 74 from Sotheby’s sale catalogue. Price list for Sotheby’s Antiquities sale in London on July 22, 1963: “74 Weiner, M.H. 50 140.00.”"
+    caption: "Detail of the purchaser of Lot 74 from Sotheby’s sale catalogue. Price list for Sotheby’s Antiquities sale in London on July 22, 1963: “74 Weiner, M.H. 50 140.00.”"
     credit: "Photo: Courtesy of Sotheby’s"
   
   - id: "fig-22"
     src: "figures/fig-22.jpg"
     label: "Figure 22"
     zoom: true
-    caption: "Imitation of a Statuette of Crouching Aphrodite, twentieth century, terracotta (57.AD.9)."
+    caption: "Imitation of a Statuette of Crouching Aphrodite, twentieth century CE, terracotta (57.AD.9)."
     credit: ""
   
   - id: "fig-23-a"
     src: "figures/fig-23-a.jpg"
     label: "A"
     #zoom: true
-    # caption: "A: Statue of a Draped Woman, Roman, ca. 160–190 CE, marble ([72.AA.153](https://www.getty.edu/art/collection/object/103SP6)) at the time of its acquisition by the Getty Museum in 1972. B: Late nineteenth- or early twentieth-century photograph, DAI-Rome Photo Archive EA 5022."
-    # credit: ""
+    # caption: "A: Statue of a Draped Woman, Roman, ca. 160–190 CE, marble ([72.AA.153](https://www.getty.edu/art/collection/object/103SP6)) at the time of its acquisition by the Getty Museum in 1972. B: Late nineteenth- or early twentieth-century photograph, DAI Rome Photo Archive EA 5022."
+    # credit: "Photo: DEUTSCHES ARCHÄOLOGISCHES INSTITUT - ROM"
   
   - id: "fig-23-b"
     src: "figures/fig-23-b.jpg"
@@ -241,7 +241,7 @@ figure_list:
     src: "figures/fig-28.jpg"
     label: "Figure 28"
     zoom: true
-    caption: "Drawing of the situla (96.AC.41) by Pierre Jacques of Reims. Jacques’s drawing shows the frieze of the situla rolled out on two registers (Bibliothèque nationale de France, Paris, Codex Remensis, fol. 60). Reproduced in Reinach 1902, Los Angeles, Getty Research Institute 93-B23801."
+    caption: "Drawing of the situla (96.AC.41) by Pierre Jacques of Reims. Bibliothèque nationale de France, Paris, Codex Remensis, fol. 60. Reproduced in Reinach 1902. Los Angeles, Getty Research Institute 93-B23801."
     credit: ""
   
   - id: "fig-29"
@@ -249,7 +249,7 @@ figure_list:
     label: "Figure 29"
     zoom: true
     caption: "Page from the Knoedler Gallery Stockbooks, showing no. 8026, a Cycladic
-      Idol, 2500 BCE. Painting stock book 11: A7178-A9437), February 1959–December
+      Idol, 2500 BCE. Painting stock book 11: A7178-A9437, February 1959–December
       1970. Los Angeles, Getty Research Institute 2012.M.54 (bx.11)."
     credit: ""
   
@@ -264,8 +264,8 @@ figure_list:
     src: "figures/fig-31.jpg"
     label: "Figure 31"
     zoom: true
-    caption: "Brummer Gallery card P2328: Marble, head, Greek, fragmented (recto). Handwritten notes include the object description, “Marble head; upper part missing / Greek”; the date the object arrived at the Brummer Gallery in New York, “Arr. Nov. 5, 1925”; and the sale date in red ink at center, “Mar. 4, 1927.”"
-    credit: "Photo: Brummer Gallery Records, Metropolitan Museum / Art Resource, NY"
+    caption: "Brummer Gallery card P2328 (recto). Handwritten notes include the object description, “Marble head; upper part missing / Greek”; the date the object arrived at the Brummer Gallery in New York, “Arr. Nov. 5, 1925”; and the sale date in red ink at center, “Sold to George H. Myers, March 4, 1927, $2200.”"
+    credit: "Photo: Brummer Gallery Records, © The Metropolitan Museum of Art / Art Resource, NY"
   
   - id: "fig-32"
     src: "figures/fig-32.jpg"
@@ -278,23 +278,23 @@ figure_list:
     src: "figures/fig-33.jpg"
     label: "Figure 33"
     zoom: true
-    caption: "Horse and rider, DAI-Rome Microfiche 1768_D14 (source:
+    caption: "Horse and rider, DAI Rome Microfiche 1768_D14. Negativnummer: 34.5865. (source:
       https://arachne.dainst.org/entity/710155)."
-    credit: ""
+    credit: " Photo: Heidelberg Archaeological Institute"
   
   - id: "fig-34"
     src: "figures/fig-34.jpg"
     label: "Figure 34"
     zoom: true
-    caption: "DAI-Rome Arachne Inventarbuch entry for Horse and Rider, photo number 5865
+    caption: "DAI Rome Arachne Inventarbuch entry for Horse and Rider, photo number 5865
       (source: https://arachne.dainst.org/entity/1572804)."
-    credit: ""
+    credit: "Photo: DEUTSCHES ARCHÄOLOGISCHES INSTITUT - ROM"
 
   - id: "fig-35"
     src: "figures/fig-35.jpg"
     label: "Figure 35"
     zoom: true
-    caption: "Portrait bust of a Man, Roman, 140–60 CE, marble ([2018.31](https://www.getty.edu/art/collection/object/109P06))."
+    caption: "Portrait bust of a Man, Roman, 140–160 CE, marble ([2018.31](https://www.getty.edu/art/collection/object/109P06))."
     credit: ""
   
   - id: "fig-36"
@@ -302,7 +302,7 @@ figure_list:
     label: "Figure 36"
     zoom: true
     caption: "Page 16 from Gabriel Saint-Aubin’s annotated copy of the 1775 Mariette sale,
-      with drawings of lots. Number 94 is the Getty gem with Venus and Anchises ([2017.2](https://www.getty.edu/art/collection/object/109NAS)). Museum of Fine Arts, Boston, 37.1713.16."
+      with drawings of lots. Number 94 is the Getty gem with Venus and Anchises ([2017.2](https://www.getty.edu/art/collection/object/109NAS)). William A. Sargent Collection— Bequest of William A. Sargent. Museum of Fine Arts, Boston, 37.1713.16."
     credit: "Photo: © 2026 Museum of Fine Arts, Boston"
   
   - id: "fig-37"
@@ -311,7 +311,7 @@ figure_list:
     zoom: true
     caption: "Illustration in 1905 auction catalogue with the Getty’s Portrait of a Man
       ([74.AA.63](https://www.getty.edu/art/collection/object/103T09)) in the center, Fifth Avenue Art Galleries 1905, lot 622."
-    credit: ""
+    credit: "Photo: © The Metropolitan Museum of Art / Art Resource, NY"
   
   - id: "fig-38"
     src: "figures/fig-38.jpg"
@@ -325,9 +325,9 @@ figure_list:
     label: "Figure 39"
     #zoom: true
     caption: "Stereoscopic view of the statuary collection at Lowther Castle, with the Getty
-      Museum’s Statue of a Seated Cybele with the Portrait Head of Her Priestess
+      Museum’s Statue of a Seated Cybele with the Portrait Head of her Priestess
       ([57.AA.19](https://www.getty.edu/art/collection/object/103SPE)) visible at the rear."
-    credit: ""
+    credit: "Photographed by H. Petschler, printed and published by the Manchester Photographic Company, Limited, Late [Lowther Castle—The Statuary, near Penrith, English Lakes, no. 796]."
 
   - id: "fig-40"
     src: "figures/fig-40.jpg"
@@ -347,8 +347,8 @@ figure_list:
     src: "figures/fig-42.jpg"
     label: "Figure 42"
     zoom: true
-    caption: "Spink & Son Ltd. dealer advertisement in Connoisseur, May 1951, LXVIII."
-    credit: "Photo: Image produced by ProQuest LLC as part of ProQuest ® Periodicals Online"
+    caption: "Spink & Son Ltd. dealer advertisement in *Connoisseur*, May 1951, LXVIII. Image published with permission of ProQuest LLC. Further reproduction is prohibited without permission."
+    credit: "Photo: Image produced by ProQuest LLC as part of ProQuest® Periodicals Online. www.proquest.com"
   
   - id: "fig-43"
     src: "figures/fig-43.jpg"
@@ -375,7 +375,7 @@ figure_list:
     src: "figures/fig-46.jpg"
     label: "Figure 46"
     zoom: true
-    caption: "Inagaki stamp preserved on former base of Head of a Young Woman ([2022.10](https://www.getty.edu/art/collection/object/10A2WA))."
+    caption: "Inagaki stamp preserved on former base of Head of a Young Woman, Roman, 25 BCE–25 CE, marble ([2022.10](https://www.getty.edu/art/collection/object/10A2WA))."
     credit: ""
   
   - id: "fig-47"
