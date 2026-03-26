@@ -396,14 +396,14 @@ figure_list:
     src: "figures/fig-49.jpg"
     label: "Figure 49"
     zoom: true
-    caption: "Fragment of a Sarcophagus Lid, Roman, 180–90 CE, marble ([71.AA.257](https://www.getty.edu/art/collection/object/103SSA))."
+    caption: "Fragment of a Sarcophagus Lid, Roman, 180–190 CE, marble ([71.AA.257](https://www.getty.edu/art/collection/object/103SSA))."
     credit: ""
   
   - id: "fig-50"
     src: "figures/fig-50.jpg"
     label: "Figure 50"
     zoom: true
-    caption: "Etching of sarcophagus by A. Tendi in volume by James Christie, illustration of the Eleusinian Mysteries, in section on the ancient Lampadophoria, 1806. Los Angeles, Getty Research Institute 83-B914."
+    caption: "Illustration of the sarcophagus lid in James Christie's *A Disquisition upon Etruscan Vases* (London 1806). Los Angeles, Getty Research Institute 83-B914."
     credit: ""
   
   - id: "fig-51"
@@ -418,4 +418,4 @@ figure_list:
     label: "Figure 52"
     zoom: true
     caption: "Rokeby Hall, interior. Photograph, 12 x 17 cm (4 3/4 x 6 11/16 in.). Vermeule Collection, Academy in Rome, Photographic Archive, Vermeule.Sculpt.71."
-    credit: "Photo: Digitized image courtesy of the American Academy in Rome, Photographic Archive"
+    credit: "Photo: Digital image courtesy of the American Academy in Rome, Photographic Archive"
