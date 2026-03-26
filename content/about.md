@@ -72,7 +72,7 @@ outputs:
 
 This publication was peer reviewed through a single-masked process in which the reviewers remained anonymous.
 
-Front cover: TK
+Front cover: Objects of art and statuary at Spink & Son Ltd., 1918 (detail, fig. 51), overlaid with stamps and markings on objects reproduced in figs. X, Y, Z.
 
 Illustration Credits {.no-line-space-below}
 
