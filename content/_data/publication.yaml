@@ -147,20 +147,18 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF
+    name: PDF (4.7 MB)
     media_type: application/pdf
     link_relation: alternate
-    url: /downloads/output.pdf
+    url: /_assets/downloads/provenance-research.pdf
   - type: other-format
-    name: EPUB
+    name: EPUB  (54.5 MB)
     media_type: application/epub+zip
     link_relation: alternate
-    url: /downloads/output.epub
+    url: /_assets/downloads/provenance-research.epub
   - type: other-format
     name: Paperback
-    media_type: print
-    link_relation: alternate
-    url: 
+    url: https://shop.getty.edu/products/provenance-research-for-mediterranean-antiquities-methods-and-resources-979-8887120218
   - type: footer-link
     name: About
     link_relation: about
