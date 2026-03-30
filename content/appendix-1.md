@@ -14,9 +14,9 @@ As discussed in chapter 2, many figures involved with Mediterranean antiquities 
 
 Because the afterlives of antiquities are rarely linear, successful searches relating to a single object may require approaching it through one or all of the three resource axes we use throughout this book: object-focused, event-focused, and individual-focused. Consider, for example, a fragmentary marble funerary relief, first documented in Rome by the end of the seventeenth century in a book of inscriptions; an etching of the relief by A. Tendi later appeared in a volume by James Christie, which located it as part of the Bessborough collection in Britain by the end of the eighteenth century ([fig. 49](#fig-49); [fig. 50](#fig-50)).[^1] By the mid- to late nineteenth century, the relief had traveled to a different British collection at Lowther Castle, where it was documented in Friedrich Matz’s 1873 article on private collections of Mediterranean antiquities in England,[^2] and it was later published in an auction catalogue in the mid-twentieth century. One single relief’s provenance is therefore a constellation of information reconstructed over time from object-, event-, and individual-focused resources.
 
-{% figure 'fig-49' %}
+{% figure 'fig-49' 'pdf-shrink-image' %}
 
-{% figure 'fig-50' %}
+{% figure 'fig-50' 'pdf-shrink-image' %}
 
 To aid in identifying resources, where possible we have noted contextual information about the date and scope of the collection, including information relevant to artwork from outside the Mediterranean, and additional user notes and literature. This guide is grounded in those resources that we have found most useful for working with the Getty's collection; it cannot list every archive in every category and so it is intended more as an overview guide to types of resources, with specific archives or titles highlighted as examples. The particular dealers, donors, collectors, and academics most relevant to your search will guide your choices of archives.
 

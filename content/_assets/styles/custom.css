@@ -250,6 +250,16 @@ body.cover-page .quire-navbar a {
 .q-figure.add-image-border img {
   border: 1px solid black;
 }
+@media print {
+  .pdf-float-top {
+    float: none;
+    -prince-float: top;
+    margin-top: 0 !important;
+  }
+  .content .q-figure--image.pdf-shrink-image {
+    margin-right: 3rem;
+  }
+}
 
 /* FIGURE CAPTIONS */
 .content figure .q-figure__caption {
@@ -291,6 +301,12 @@ body.cover-page .quire-navbar a {
 .quire-page__content .container .content .footnotes ul li::before {
   content: "—";
   margin-top: 0.05em;
+}
+@media print {
+  .quire-page__content .container .content ul li::before,
+  .quire-page__content .container .content .footnotes ul li::before {
+    margin-top: 0.3em;
+  }
 }
 .quire-page__content .container .content .footnotes ul {
   margin: .25rem 0 .25rem calc(var(--base-indent) * .5)
@@ -769,6 +785,9 @@ details.accordion-section[id^="section-case-study"] .accordion-section__body > .
   section.accordion-section[id^=section-case-study] figure:not(.q-figure--group) .q-figure--image {
     margin-left: var(--base-indent);
     margin-right: 0;
+  }
+  section.accordion-section[id^=section-case-study] p:first-of-type {
+    text-indent: 0 !important;
   }
 }
 
