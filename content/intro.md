@@ -23,7 +23,7 @@ Even a brief consideration of these funerary wrappings makes clear that provenan
 
 <div class="pdf-float-top">
 
-{% figuregroup '1' 'fig-2-a, fig-2-b' 'Figure 2' 'A: Fragment of Wrapping of Petosiris, son of Tetosiris, Egyptian, 300–100 BCE, linen, Teece Museum, Christchurch, New Zealand, James Logie Collection (121.73). B: Detail from a composite image showing the join between fragments (Getty Museum [83.AI.47.1](https://www.getty.edu/art/collection/object/105Z4V) at left; Teece Museum 121.73 at right). Photos: Foy D. Scalf / Courtesy Teece Museum of Classical Antiquities, University of Canterbury, Christchurch, New Zealand' %}
+{% figuregroup '1' 'fig-2-a, fig-2-b' 'Figure 2' 'A: Fragment of Wrapping of Petosiris, son of Tetosiris, Egyptian, 300–100 BCE, linen, Teece Museum, Christchurch, New Zealand, James Logie Collection (121.73). B: Detail from a composite image showing the join between fragments (Getty Museum [83.AI.47.1.1](https://www.getty.edu/art/collection/object/105Z4V) at left; Teece Museum 121.73 at right). Photos: Foy D. Scalf / Courtesy Teece Museum of Classical Antiquities, University of Canterbury, Christchurch, New Zealand' %}
 
 </div>
 

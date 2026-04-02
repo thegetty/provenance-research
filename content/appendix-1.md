@@ -328,7 +328,7 @@ Searchable database of stolen art and cultural property maintained by the U.S. F
 
 **The British Museum. Recovery of Missing Items**
 <https://www.britishmuseum.org/our-work/departments/recovery-missing-items>
-Homepage for the Museum's recovery project, including an overview of missing items an updates on recent progress.
+Homepage for the Museum's recovery project, including an overview of missing items and updates on recent progress.
 
 **Comando Carabinieri per la Tutela del Patrimonio Culturale [Italy]**
 <https://tpcweb.carabinieri.it/SitoPubblico/home>
@@ -462,7 +462,7 @@ Bodel, John P., and Stephen V. Tracy. *Greek and Latin Inscriptions in the USA: 
 <http://numismatics.org/archives/>
 **American Numismatic Society on Internet Archive**
 <https://archive.org/details/americannumismaticsociety>
-Auction catalogues, coin files, archival holdings of historic dealers, and coin files connecting sales of individual coins across auctions. Many archival materials have been usefully scanned and made available through the Internet Archive; others are accessible only for in-person research.
+Auction catalogues, coin files, and archival holdings of historic dealers connecting sales of individual coins across auctions. Many archival materials have been usefully scanned and made available through the Internet Archive; others are accessible only for in-person research.
 
 **The Newman Numismatic Portal at Washington University in St. Louis**
 https://nnp.wustl.edu/
@@ -510,7 +510,7 @@ A resource for objects dispersed internationally as part of the partage and subs
 **Das Photoarchiv H.W. Müller der Universitätsbibliothek Heidelberg [The Photo Archive of Hans Wolfgang Müller at the University of Heidelberg Library]**
 https://www.ub.uni-heidelberg.de/fachinfo/aegyptologie/HWMueller.html
 https://www.ub.uni-heidelberg.de/cgi-bin/hwm/hwm01.pl
-More than 8,000 photographs and negatives produced by Egyptologist Hans Wolfgang Müller between 1931 and 1975 of sites, as well as objects in museum, private collections, and on the market. Prints can be ordered through the holding library; a microfiche set is also available. A database with basic information for many of the photographs is available through the University of Heidelberg, although the photographs themselves have not been digitized.
+More than 8,000 photographs and negatives produced by Egyptologist Hans Wolfgang Müller between 1931 and 1975 of sites, as well as objects in museums, private collections, and on the market. Prints can be ordered through the holding library; a microfiche set is also available. A database with basic information for many of the photographs is available through the University of Heidelberg, although the photographs themselves have not been digitized.
 
 **Das altägyptisch Totenbuch: Ein digitales Textzeugenarchiv (Totenbuch-Projekt)**
 <https://totenbuch.awk.nrw.de/>
