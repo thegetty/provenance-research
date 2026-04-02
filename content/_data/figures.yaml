@@ -402,7 +402,7 @@ figure_list:
     src: "figures/fig-50.jpg"
     label: "Figure 50"
     zoom: true
-    caption: "Illustration of the sarcophagus lid in James Christie's *A Disquisition upon Etruscan Vases* . . . (London 1806). Los Angeles, Getty Research Institute 83-B914."
+    caption: "Illustration of the sarcophagus lid in James Christie's *A Disquisition upon Etruscan Vases* .&#160;.&#160;. (London 1806). Los Angeles, Getty Research Institute 83-B914."
     credit: ""
   
   - id: "fig-51"
