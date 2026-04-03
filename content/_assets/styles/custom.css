@@ -40,6 +40,17 @@
   }
 }
 
+/* The Host Groteslk font has an unusual ligature that converts patterns
+   NumberXNumber to Number×Number with a multiplication symbol. 
+   This was a problem in a couple Getty collection URLs like 
+   https://www.getty.edu/art/collection/object/105X9H which displayed as
+   https://www.getty.edu/art/collection/object/105×9H. Applying this class
+   to those URLs removes the problematic ligature.
+   */
+.no-ligature {
+  font-variant-ligatures: none;
+}
+
 /* COVER
 ================================================================== */
 body.cover-page .quire-navbar {
