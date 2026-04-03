@@ -11,7 +11,7 @@ figure_list:
     src: figures/fig-02-a.jpg
     label: "A"
     zoom: true
-    # caption: "A: Fragment of Wrapping of Petosiris, son of Tetosiris, Egyptian, 300–100 BCE, linen, Teece Museum, Christchurch, New Zealand, James Logie Collection (121.73). B: Detail from a composite image showing the join between fragments (Getty Museum [83.AI.47.1](https://www.getty.edu/art/collection/object/105Z4V) at left; Teece Museum 121.73 at right)."
+    # caption: "A: Fragment of Wrapping of Petosiris, son of Tetosiris, Egyptian, 300–100 BCE, linen, Teece Museum, Christchurch, New Zealand, James Logie Collection (121.73). B: Detail from a composite image showing the join between fragments (Getty Museum [83.AI.47.1.1](https://www.getty.edu/art/collection/object/105Z4V) at left; Teece Museum 121.73 at right)."
     # credit: "Photos: Foy D. Scalf / Courtesy Teece Museum of Classical Antiquities, University of Canterbury, Christchurch, New Zealand"
   
   - id: "fig-2-b"
@@ -196,7 +196,7 @@ figure_list:
     src: "figures/fig-23-a.jpg"
     label: "A"
     #zoom: true
-    # caption: "A: Statue of a Draped Woman, Roman, ca. 160–190 CE, marble ([72.AA.153](https://www.getty.edu/art/collection/object/103SP6)) at the time of its acquisition by the Getty Museum in 1972. B: Late nineteenth- or early twentieth-century photograph, DAI Rome Photo Archive EA 5022."
+    # caption: "A: Statue of a Draped Woman, Roman, ca. 160–190 CE, marble ([72.AA.153](https://www.getty.edu/art/collection/object/103SP6)) at the time of its acquisition by the Getty Museum in 1972. B: Late nineteenth- or early twentieth-century photograph, D-DAI-ROM-EA-5022."
     # credit: "Photo: DEUTSCHES ARCHÄOLOGISCHES INSTITUT - ROM"
   
   - id: "fig-23-b"
@@ -278,16 +278,15 @@ figure_list:
     src: "figures/fig-33.jpg"
     label: "Figure 33"
     zoom: true
-    caption: "Horse and rider, DAI Rome Microfiche 1768_D14. Negativnummer: 34.5865. (source:
+    caption: "Horse and rider, DAI Rome Microfiche 1768_D14. D-DAI-Rom 34.5865 (source:
       https://arachne.dainst.org/entity/710155)."
-    credit: " Photo: Heidelberg Archaeological Institute"
+    credit: "Photo: Courtesy Heidelberg Archeological Institute/DEUTSCHES ARCHÄOLOGISCHES INSTITUT - ROM"
   
   - id: "fig-34"
     src: "figures/fig-34.jpg"
     label: "Figure 34"
     zoom: true
-    caption: "DAI Rome Arachne Inventarbuch entry for Horse and Rider, photo number 5865
-      (source: https://arachne.dainst.org/entity/1572804)."
+    caption: "DAI Rome Arachne Inventarbuch entry for Horse and Rider. D-DAI-Rom 5865 (source: https://arachne.dainst.org/entity/1572804)."
     credit: "Photo: DEUTSCHES ARCHÄOLOGISCHES INSTITUT - ROM"
 
   - id: "fig-35"
@@ -302,7 +301,7 @@ figure_list:
     label: "Figure 36"
     zoom: true
     caption: "Page 16 from Gabriel Saint-Aubin’s annotated copy of the 1775 Mariette sale,
-      with drawings of lots. Number 94 is the Getty gem with Venus and Anchises ([2017.2](https://www.getty.edu/art/collection/object/109NAS)). William A. Sargent Collection— Bequest of William A. Sargent. Museum of Fine Arts, Boston, 37.1713.16."
+      with drawings of lots. Number 94 is the Getty gem with Venus and Anchises ([2017.2](https://www.getty.edu/art/collection/object/109NAS)). William A. Sargent Collection—Bequest of William A. Sargent. Museum of Fine Arts, Boston, 37.1713.16."
     credit: "Photo: © 2026 Museum of Fine Arts, Boston"
   
   - id: "fig-37"
@@ -327,7 +326,7 @@ figure_list:
     caption: "Stereoscopic view of the statuary collection at Lowther Castle, with the Getty
       Museum’s Statue of a Seated Cybele with the Portrait Head of her Priestess
       ([57.AA.19](https://www.getty.edu/art/collection/object/103SPE)) visible at the rear."
-    credit: "Photographed by H. Petschler, printed and published by the Manchester Photographic Company, Limited, Late [Lowther Castle—The Statuary, near Penrith, English Lakes, no. 796]."
+    credit: "Photographed by H. Petschler, printed and published by the Manchester Photographic Company, Limited, Late [Lowther Castle—The Statuary, near Penrith, English Lakes, no. 796]. Photo: Private Collection"
 
   - id: "fig-40"
     src: "figures/fig-40.jpg"
@@ -403,7 +402,7 @@ figure_list:
     src: "figures/fig-50.jpg"
     label: "Figure 50"
     zoom: true
-    caption: "Illustration of the sarcophagus lid in James Christie's *A Disquisition upon Etruscan Vases* (London 1806). Los Angeles, Getty Research Institute 83-B914."
+    caption: "Illustration of the sarcophagus lid in James Christie's *A Disquisition upon Etruscan Vases* .&#160;.&#160;. (London 1806). Los Angeles, Getty Research Institute 83-B914."
     credit: ""
   
   - id: "fig-51"
