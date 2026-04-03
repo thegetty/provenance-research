@@ -72,7 +72,7 @@ outputs:
 
 This publication was peer reviewed through a single-masked process in which the reviewers remained anonymous.
 
-Front cover: Objects of art and statuary at Spink & Son Ltd., 1918 (detail, fig. 51) overlaid with stamps, markings, and text found on or related to works reproduced in figs. 8, 20B, 13, and 18.
+Front cover: Objects of art and statuary at Spink & Son Ltd., 1918 (detail, [fig. 51](/appendix-1/#fig-51)) overlaid with stamps, markings, and text found on or related to works reproduced in figs. [8](/2/#fig-8), [20B](/2/#fig-20-b), [13](/2/#fig-13), and [18](/2/#fig-18).
 
 Illustration Credits {.no-line-space-below}
 
