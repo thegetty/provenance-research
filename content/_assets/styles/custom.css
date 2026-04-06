@@ -374,9 +374,14 @@ body.cover-page .quire-navbar a {
   margin-top: 0.05em;
 }
 @media print {
-  .quire-page__content .container .content ul li::before,
-  .quire-page__content .container .content .footnotes ul li::before {
+  .quire-page__content .container .content ul li::before {
+    break-after: avoid;
     margin-top: 0.3em;
+  }
+  .quire-page__content .container .content .footnotes ul li::before {
+    break-after: avoid;
+    margin-top: 0;
+    margin-left: -1.25em;
   }
 }
 .quire-page__content .container .content .footnotes ul {
