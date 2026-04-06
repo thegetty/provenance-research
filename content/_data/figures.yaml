@@ -208,7 +208,7 @@ figure_list:
   - id: "fig-21"
     src: "figures/fig-21.jpg"
     label: "Figure 21"
-    #zoom: true
+    # zoom: true
     caption: "Detail of the purchaser of Lot 74 from Sotheby’s sale catalogue. Price list for Sotheby’s Antiquities sale in London on July 22, 1963: “74 Weiner, M.H. 50 140.00.”"
     credit: "Photo: Courtesy of Sotheby’s"
     alt: "Detail of a line of black printed text arranged in four columns."
@@ -224,7 +224,7 @@ figure_list:
   - id: "fig-23-a"
     src: "figures/fig-23-a.jpg"
     label: "A"
-    #zoom: true
+    zoom: true
     # caption: "A: Statue of a Draped Woman, Roman, ca. 160–190 CE, marble ([72.AA.153](https://www.getty.edu/art/collection/object/103SP6)) at the time of its acquisition by the Getty Museum in 1972. B: Late nineteenth- or early twentieth-century photograph, D-DAI-ROM-EA-5022."
     # credit: "Photo: DEUTSCHES ARCHÄOLOGISCHES INSTITUT - ROM"
     alt: "Black-and-white photograph of a marble statue of a woman wearing a long robe that falls in meticulous, dense pleats and creases. The head and most of her arms are missing. She stands with her weight on one foot and the other knee slightly bent, and one arm is lifted out to the side."
@@ -232,7 +232,7 @@ figure_list:
   - id: "fig-23-b"
     src: "figures/fig-23-b.jpg"
     label: "B"
-    # zoom: true
+    zoom: true
     alt: "'Slightly blurry black-and-white photograph of the statue shown in Figure 23a but including the head and arms. The head is draped with a cloth, the right arm is extended by the side of the woman''s body, and the left holds up a cylindrical object, perhaps a fragment of an originally larger piece.'"
 
   - id: "fig-24-a"
@@ -285,9 +285,7 @@ figure_list:
     src: "figures/fig-29.jpg"
     label: "Figure 29"
     zoom: true
-    caption: "Page from the Knoedler Gallery Stockbooks, showing no. 8026, a Cycladic
-      Idol, 2500 BCE. Painting stock book 11: A7178-A9437, February 1959–December
-      1970. Los Angeles, Getty Research Institute 2012.M.54 (bx.11)."
+    caption: "Page from the Knoedler Gallery Stockbooks, showing no. 8026, a Cycladic Idol, 2500 BCE. Painting stock book 11: A7178-A9437, February 1959–December 1970. Los Angeles, Getty Research Institute 2012.M.54 (bx.11)."
     credit: ""
     alt: "Two pages of an open ledger book have names and locations written in cursive down the left side and notations under columns titled quote Cost end quote, quote Charges end quote, and quote Sold For end quote. Additional notes are added in a few places in red, and red check marks are next to most entries. The page number is printed in blue at the top left and top right corners of the spread. The date for the year 1961 is handwritten at the top of the left page. In the entries that follow, not all columns are filled out with information."
 
@@ -319,8 +317,7 @@ figure_list:
     src: "figures/fig-33.jpg"
     label: "Figure 33"
     zoom: true
-    caption: "Horse and rider, DAI Rome Microfiche 1768_D14. D-DAI-Rom 34.5865 (source:
-      https://arachne.dainst.org/entity/710155)."
+    caption: "Horse and rider, DAI Rome Microfiche 1768_D14. D-DAI-Rom 34.5865 (source: https://arachne.dainst.org/entity/710155)."
     credit: "Photo: Courtesy Heidelberg Archeological Institute/DEUTSCHES ARCHÄOLOGISCHES INSTITUT - ROM"
     alt: "Scan of a black-and-white microfiche film showing the terracotta statuette shown in Figure 32. The number 5865 is written in the lower left corner of the image, and to its left, the number 1934 is printed. The phrase quote PRIVATBESITZ end quote appears below. A seal repeats faintly in the background of the film like a watermark."
 
@@ -344,8 +341,7 @@ figure_list:
     src: "figures/fig-36.jpg"
     label: "Figure 36"
     zoom: true
-    caption: "Page 16 from Gabriel Saint-Aubin’s annotated copy of the 1775 Mariette sale,
-      with drawings of lots. Number 94 is the Getty gem with Venus and Anchises ([2017.2](https://www.getty.edu/art/collection/object/109NAS)). William A. Sargent Collection—Bequest of William A. Sargent. Museum of Fine Arts, Boston, 37.1713.16."
+    caption: "Page 16 from Gabriel Saint-Aubin’s annotated copy of the 1775 Mariette sale, with drawings of lots. Number 94 is the Getty gem with Venus and Anchises ([2017.2](https://www.getty.edu/art/collection/object/109NAS)). William A. Sargent Collection—Bequest of William A. Sargent. Museum of Fine Arts, Boston, 37.1713.16."
     credit: "Photo: © 2026 Museum of Fine Arts, Boston"
     alt: "Seven cameos appear sketched lightly down the wide left margin of a page printed with French text. The sheet shown is page 16 and is headed with the section title quote Pierres gravées end quote. It includes descriptions in French for item numbers 91 through 96."
 
@@ -353,8 +349,7 @@ figure_list:
     src: "figures/fig-37.jpg"
     label: "Figure 37"
     zoom: true
-    caption: "Illustration in 1905 auction catalogue with the Getty’s Portrait of a Man
-      ([74.AA.63](https://www.getty.edu/art/collection/object/103T09)) in the center, Fifth Avenue Art Galleries 1905, lot 622."
+    caption: "Illustration in 1905 auction catalogue with the Getty’s Portrait of a Man ([74.AA.63](https://www.getty.edu/art/collection/object/103T09)) in the center, Fifth Avenue Art Galleries 1905, lot 622."
     credit: "Photo: © The Metropolitan Museum of Art / Art Resource, NY"
     alt: "Back-and-white photograph showing three male busts in grayscale against a white background. Each bust shows a man’s head and neck, and the center also includes the chest."
 
@@ -369,17 +364,15 @@ figure_list:
   - id: "fig-39"
     src: "figures/fig-39.jpg"
     label: "Figure 39"
-    #zoom: true
-    caption: "Stereoscopic view of the statuary collection at Lowther Castle, with the Getty
-      Museum’s Statue of a Seated Cybele with the Portrait Head of her Priestess
-      ([57.AA.19](https://www.getty.edu/art/collection/object/103SPE)) visible at the rear."
+    zoom: true
+    caption: "Stereoscopic view of the statuary collection at Lowther Castle, with the Getty Museum’s Statue of a Seated Cybele with the Portrait Head of her Priestess ([57.AA.19](https://www.getty.edu/art/collection/object/103SPE)) visible at the rear."
     credit: "Photographed by H. Petschler, printed and published by the Manchester Photographic Company, Limited, Late [Lowther Castle—The Statuary, near Penrith, English Lakes, no. 796]. Photo: Private Collection"
     alt: "Stereoscopic view of a long corridor with a ribbed, vaulted ceiling lined with busts and full-body sculptures. It includes two arched, sepia-toned photographs of the same hallway from slightly different angles."
 
   - id: "fig-40"
     src: "figures/fig-40.jpg"
     label: "Figure 40"
-    #zoom: true
+    zoom: true
     caption: "Statuette of a Nude Youth, Etruscan, 325–300 BCE, bronze ([96.AB.35](https://www.getty.edu/art/collection/object/104039))."
     credit: ""
     alt: "'One arm and the lower legs are missing from this bronze statuette of a nude young man. The preserved hand rests near his waist, and his hips jut to the right. He looks off to the right with deep-set eyes and his lips parted. Lettering appears down the left side of the statuette''s body from the armpit to where the knee cuts off.'"
@@ -387,7 +380,7 @@ figure_list:
   - id: "fig-41"
     src: "figures/fig-41.jpg"
     label: "Figure 41"
-    #zoom: true
+    zoom: true
     caption: "Cameo with the Head of Medusa, Roman, second–third century CE, sardonyx set in a nineteenth-century gold mount ([2001.28.12](https://www.getty.edu/art/collection/object/108HGQ))."
     credit: ""
     alt: "Cameo showing a person’s round face carved in low relief. The face appears iridescent white against a dark blue background. The eyes are close-set, and hair and snakes surround the head. The gold mount has repeating S-shapes set between two channels."
