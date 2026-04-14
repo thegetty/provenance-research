@@ -9,7 +9,7 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'https://final-team-pages--provenance-research.netlify.app'
+url: 'https://final-department-pages--provenance-research.netlify.app'
 
 # ------------------------------------------------------------------------------
 # Title & Description
@@ -27,7 +27,7 @@ description:
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2026-03-01 # YYYY-MM-DD
+pub_date: 2026-08-04 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
@@ -177,9 +177,18 @@ resource_link:
 # ------------------------------------------------------------------------------
 
 subject:
-  - type: 
-    name: 
-    identifer: 
+  - type: bisac
+    name: ART / Collections, Catalogs, Exhibitions / General
+    identifer: ART006000
+  - type: bisac
+    name: ART / History / Ancient & Classical
+    identifer: ART015060
+  - type: bisac
+    name: ART / Museum Studies
+    identifer: ART059000
+  - type: bisac
+    name: ART / Reference
+    identifer: ART025000
   - type: keywords
     name: "Reference, Guidebook, Greek, Roman, Etruscan, Egyptian, Near Eastern, Byzantine, open-access, accessible primer, methods, resources, collecting history, investigation, annotated guide to key archives, databases, twentieth-century dealers, case studies, legal perspectives, UNESCO, acquisitions, red line, advocacy, cultural heritage, museums, institutions, Spink and Son, Brummer Galleries, French and Company, Nicolas Koutoulakis, Burton Fredericksen, Bernard Ashmole, Jean Charbonneaux, Jiri Frel, Marion True, Barbara Fleischman, Lawrence Fleischman, tombaroli, tomb robbers, Giacomo Medici, Bianfranco Becchin, Robin Symes, Shelby White, Michael Steinhardt"
 
@@ -199,7 +208,7 @@ library_of_congress_cip: |
 # ------------------------------------------------------------------------------
 
 revision_history:
-  - date: March 1, 2026
+  - date: August 4, 2026
     summary: 
       - First edition
 
