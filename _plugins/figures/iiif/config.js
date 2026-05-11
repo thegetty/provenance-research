@@ -117,7 +117,7 @@ export default (eleventyConfig) => {
       {
         name: 'static-inline-figure-image',
         resize: {
-          width: 626
+          width: 720
         }
       }
     ]
