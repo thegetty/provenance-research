@@ -318,7 +318,7 @@ figure_list:
     label: "Figure 33"
     zoom: true
     caption: "Horse and rider, DAI Rome Microfiche 1768_D14. D-DAI-Rom 34.5865 (source: https://arachne.dainst.org/entity/710155)."
-    credit: "Photo: Courtesy Heidelberg Archeological Institute/DEUTSCHES ARCHÄOLOGISCHES INSTITUT - ROM"
+    credit: "Photo: Courtesy Heidelberg Archaeological Institute/DEUTSCHES ARCHÄOLOGISCHES INSTITUT - ROM"
     alt: "Scan of a black-and-white microfiche film showing the terracotta statuette shown in Figure 32. The number 5865 is written in the lower left corner of the image, and to its left, the number 1934 is printed. The phrase quote PRIVATBESITZ end quote appears below. A seal repeats faintly in the background of the film like a watermark."
 
   - id: "fig-34"

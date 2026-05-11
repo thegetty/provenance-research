@@ -321,11 +321,20 @@ body.cover-page .quire-navbar a {
 .q-figure.add-image-border img {
   border: 1px solid black;
 }
+
+@media screen {
+  div.pdf-float-top {
+    margin: 2rem 0;
+  }
+}
 @media print {
   .pdf-float-top {
     float: none;
     -prince-float: top;
     margin-top: 0 !important;
+  }
+  div.pdf-float-top {
+    margin-bottom: 2rem;
   }
   .content .q-figure--image.pdf-shrink-image {
     margin-right: 3rem;
@@ -522,14 +531,14 @@ body.cover-page .quire-navbar a {
   .quire-contents-list.list {
     font-family: var(--host-grotesque);
   }
-  /* Make frontmatter page number appear in lower roman in TOC */
-  .quire-contents-list .page-item:first-child > a::after {
-    content: leader(dotted) " " target-counter(attr(href, url), page, lower-roman);
+  .quire-contents-list .page-item {
+    break-inside: avoid;
   }
   .quire-contents-list .page-item > a::after {
     font-size: 1rem;
     font-weight: 500;
-    padding-left: .5rem;
+    padding-left: 0.5rem;
+    break-before: avoid;
   }
 }
 
@@ -593,7 +602,7 @@ body.cover-page .quire-navbar a {
 }
 .quire-page__content .container .content .backmatter p {
   text-indent: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 1em;
 }
 .quire-page__content .container .content .backmatter h2,
 .quire-page__content .container .content .backmatter h3 {
