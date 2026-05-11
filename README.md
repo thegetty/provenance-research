@@ -52,11 +52,39 @@ git clone --recursive https://github.com/thegetty/provenance-research.git
 
 ### Creating a PDF Version
 
-TK
+1. Temporarily switch `url` in publication.yaml to `url: 'http://localhost:8080'`
+
+2. Run `quire build`
+
+4. With PrinceXML 15.3 installed, run `quire pdf --lib prince`
 
 ### Creating an EPUB Version
 
-TK
+1. Temporarily switch `url` in publication.yaml to `url: 'http://localhost:8080'`
+
+2. Run `quire build`
+
+3. Use a tool like the ePub Zip-Unzip script to unzip the resulting `epubjs.epub` file.
+
+4. In the resulting `epubjs` unzipped directory, open `epubjs/ops/package.opf` add the following metadata items:
+
+        ```
+        <meta property="schema:accessibilitySummary">This publications meets baseline accessibility standards</meta>
+        <meta property="schema:accessMode">textual</meta>
+        <meta property="schema:accessMode">visual</meta>
+        <meta property="schema:accessModeSufficient">textual</meta>
+        <meta property="schema:accessModeSufficient">visual</meta>
+        <meta property="schema:accessibilityFeature">alternativeText</meta>
+        <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+        <meta property="schema:accessibilityFeature">tableOfContents</meta>
+        <meta property="schema:accessibilityHazard">noFlashingHazard</meta>
+        <meta property="schema:accessibilityHazard">noMotionSimulationHazard</meta>
+        <meta property="schema:accessibilityHazard">noSoundHazard</meta>
+        ```
+
+5. Delete the original EPUB file and use the same tool to repackage the raw files into a new EPUB
+
+6. Run the resulting file through epubcheck-5.3.0 and Ace by DAISY accessibility checker to ensure there aren't any validation or accessibility errors or warnings.
 
 ### Customizations
 

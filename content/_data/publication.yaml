@@ -147,12 +147,12 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF (4.7 MB)
+    name: PDF (5 MB)
     media_type: application/pdf
     link_relation: alternate
     url: /_assets/downloads/provenance-research.pdf
   - type: other-format
-    name: EPUB  (54.5 MB)
+    name: EPUB  (30 MB)
     media_type: application/epub+zip
     link_relation: alternate
     url: /_assets/downloads/provenance-research.epub
