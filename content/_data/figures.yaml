@@ -74,7 +74,6 @@ figure_list:
     zoom: true
     caption: "Suggested workflow for provenance research."
     credit: ""
-    described_by_id: "fig-7-description"
     alt: "Chart showing a workflow for provenance research that begins with quote Collect primary documentation end quote. A horizontal line leads to four boxes arranged vertically, but another box reaching off the horizonal connector reads, quote Review and record object data end quote. Of the four boxes, the topmost reads, quote Examine the object itself end quote. From here, a line reaches out and bifurcates in two boxes arranged vertically that read, quote Stickers, marks, numbers, text end quote and quote Conservation history end quote. The next two of the four boxes read quote Review known bibliography end quote and quote Investigate new resources end quote. Two lines reach from this pair of boxes leading to three that read quote Typological and iconographic catalogues end quote, quote Sale catalogues end quote, and quote Archives end quote. The last of the four boxes reads quote Research previous owners end quote, which in turn leads to quote Dealer advertisements end quote and quote Collection catalogues end quote. A bracket reaching across the chart is connected to a box labeled quote Use to draft the object provenance narrative end quote."
 
   - id: "fig-8"
