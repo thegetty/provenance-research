@@ -540,6 +540,9 @@ body.cover-page .quire-navbar a {
     padding-left: 0.5rem;
     break-before: avoid;
   }
+  .quire-contents-list .page-item:first-child > a::after {
+    content: leader(dotted) ' 'target-counter(attr(href, url), page, lower-roman);
+  }
 }
 
 .quire-menu {
@@ -593,6 +596,18 @@ body.cover-page .quire-navbar a {
 .quire-menu .quire-copyright__icon {
   width: 1.5rem;
   height: 1.5rem;
+}
+
+/* FOREWORD
+================================================================== */
+.foreword .quire-contributors-list.name-title-block, 
+.foreword .content ul.quire-contributors-list.name-title-block {
+  margin-left: calc(var(--base-indent) * 2);
+  margin-top: 2rem;
+}
+.foreword .quire-contributors-list.name-title-block .quire-contributor, 
+.foreword .content ul.quire-contributors-list.name-title-block .quire-contributor {
+  margin-right: 0;
 }
 
 /* ABOUT & COPYRIGHT PAGE
