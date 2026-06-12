@@ -2,7 +2,7 @@ This is the repository for *Provenance Research for Mediterranean Antiquities*, 
 
 ## About the Book
 
-TK
+The first of its kind, this book is an accessible, comprehensive primer of methods and resources for researching the provenance of Mediterranean (Greek, Roman, and Etruscan) antiquities. In addition to outlining effective strategies for documentation and investigation, the volume features an annotated guide to key archives, databases, and twentieth-century dealers to facilitate a broad spectrum of research endeavors. Building upon a decade-long review of the Getty Museum’s antiquities collection, it draws together instructive case studies, legal perspectives, and practical experience to provide an efficient reference for museum professionals, scholars, collectors, and students.
 
 ## Using this Repository
 
@@ -24,7 +24,7 @@ This project was last built with the following software versions:
 | branch | about |
 | --- | --- |
 | `main` | The primary branch |
-| `first-pages`, `second-pages`, `final-pages`| Versions of the project at various staages |
+| `first-pages`, `second-pages`, `final-team-pages`, `final-department-pages`, `final-pages`| Versions of the project at various stages |
 | `forthcoming` | A static placeholder page that was displayed at the book’s final URL on getty.edu prior to publication |
 | `revisions` | Any revisions currently under consideration but not yet published |
 
@@ -124,3 +124,9 @@ Add group label, caption, and credit
 
 **_plugins/transforms/outputs/pdf/transform.js**
 Fix relative links transform (ported from code core Quire)
+
+## License
+
+© 2026 J. Paul Getty Trust
+
+The text of this work is licensed under a <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>. All images are reproduced with the permission of the rights holders acknowledged in the captions and are expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
