@@ -1,5 +1,5 @@
 accordion:
-  controls: arrow # arrow | plus-minus
+  controls: plus-minus # arrow | plus-minus
   copyButton:
     ariaLabel: Copy page section link to clipboard
     successText: Copied page section link to clipboard
@@ -14,7 +14,7 @@ analytics:
 bylineFormat: name-title # name | name-title | false
 
 bibliography:
-  displayOnPage: true
+  displayOnPage: false
   displayShort: true
   heading: Bibliography
 
@@ -27,7 +27,7 @@ entryPage:
   objectLinkText: View in Collection
 
 epub:
-  defaultCoverImage: 'epub-cover.png'
+  defaultCoverImage: 'cover-full.jpg'
   outputDir: '_epub'
 
 footnotes:
@@ -53,7 +53,7 @@ pageTitle:
   labelDivider: '. '
 
 pdf:
-  filename: 'publication'
+  filename: 'provenance-research'
   outputDir: '/_assets/downloads' 
   pagePDF:
     accessLinks:
@@ -73,3 +73,5 @@ searchEnabled: true
 
 tableOfContents:
   contributorDivider: ' — '
+
+quire_credit_line: "This publication was created using [Quire](https://quire.getty.edu/)™, a multiformat publishing tool from Getty."

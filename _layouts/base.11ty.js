@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Added class to <body> element for styling the cover page
+//
 import path from 'node:path'
 import { html } from '#lib/common-tags/index.js'
 
@@ -13,12 +17,13 @@ export default async function (data) {
   const id = this.slugify(url) || path.parse(inputPath).name
   const pageId = `page-${id}`
   const figures = pageData.page.figures
+  const coverPageClass = url === '/' ? ' class="cover-page"' : ''
 
   return html`
     <!doctype html>
     <html lang="${publication.language}">
       ${this.head(data)}
-      <body>
+      <body${coverPageClass}>
         ${this.icons(data)}
         ${this.iconscc(data)}
         <div class="quire no-js" id="container">

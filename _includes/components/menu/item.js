@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Add page subtitles to sidebar menu
+//
 /**
  * Renders a menu item
  *
@@ -13,9 +17,9 @@ export default function (eleventyConfig) {
   return function (params) {
     const { currentURL, page } = params
     const { data, url } = page
-    const { label, layout, title } = data
+    const { label, layout, subtitle, title } = data
 
-    const titleText = pageTitle({ label, title })
+    const titleText = pageTitle({ label, subtitle, title })
     /**
      * Check if item is a reference to a built page or just a heading
      * @type {Boolean}

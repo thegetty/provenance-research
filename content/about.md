@@ -1,23 +1,81 @@
 ---
 title: About
 layout: page
-order: 503
+order: 1000
 outputs:
   - html
 ---
 
-This is a starter theme for [Quire](https://gettypubs.github.io/quire/), a multiformat digital publishing framework. Quire can be used to generate a web book, EPUB and MOBI e-books, and a PDF optimized for print; all from a single set of text files. 
+{{ publication.description.full }}
 
-This starter theme allows for the quick customization of a few key styles to make you publication project your own.
+{% backmatter %}
 
-- Modern and Classic type styles
-- Cover and splash page images
-- Accent color
-- Background colors
-- Navigation bar style
+## Citation Information 
 
-By diving further into the included style sheets and layout templates, there’s almost no limit to what can be done.
+### Chicago 
 
-The text excerpts included in this starter theme come from *Walker Evans: Catalogue of the Collection* by Judith Keller (Getty Publications, 1995) available for free download in the Getty’s [Virtual Library](https://www.getty.edu/publications/virtuallibrary/0892363177.html); *In Focus: Dorothea Lange* (Getty Publications, 2002); and from the J. Paul Getty Museum online collection records.
+{% citation context='publication', type='chicago' %}
 
-The images included come from the J. Paul Getty Museum online collection records under their Open Content Program. The pictures of [Dorothea Lange](https://www.loc.gov/resource/fsa.8b27245/) and [Walker Evans](https://www.loc.gov/item/2017728481/) used in the Introduction, come from the Library of Congress Prints and Photographs Division.
+### MLA
+
+{% citation context='publication', type='mla' %}
+
+### Permanent URL
+
+{{ publication.url }}
+
+## Revision History
+
+{{ publication.revision_statement | markdownify }}
+
+{% for revision in publication.revision_history %}
+
+### {{ revision.date }}
+
+{% for item in revision.summary %}
+- {{ item | markdownify }}
+{% endfor %}
+
+{% endfor %}
+
+## Other Formats
+
+{% for link in publication.resource_link %}
+{% if link.type == "other-format" %}
+- [{{ link.name }}]({{ link.url }})
+{% endif %}
+{% endfor %}
+
+## Copyright
+
+{{ config.quire_credit_line | markdownify }}
+
+{% copyright %}
+
+{% for press in publication.publisher %}
+**Published by the {{ press.name }}, {{ press.location }}** {.no-line-space-below}
+{{ press.address | markdownify }}
+{% endfor %}
+
+<div class="project-team">
+
+{% for person in publication.project_team %}
+- {{ person | markdownify }}
+{% endfor %}
+
+</div>
+<div class="cip-data">
+
+{{ publication.library_of_congress_cip | markdownify }}
+
+</div>
+
+Front cover: Objects of art and statuary at Spink & Son Ltd., 1918 (detail, [fig. 51](/appendix-1/#fig-51)) overlaid with stamps, markings, and text found on or related to works reproduced in figs. [8](/2/#fig-8), [20B](/2/#fig-20-b), [13](/2/#fig-13), and [18](/2/#fig-18).
+
+Illustration Credits {.no-line-space-below}
+
+Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings. 
+
+This publication was peer reviewed through a single-masked process in which the reviewers remained anonymous.
+
+{% endbackmatter %}

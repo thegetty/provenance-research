@@ -1,3 +1,9 @@
+//
+// CUSTOMIZED FILE
+// Add superscript support, lines 6 and 53
+// Create better line breaks for URLs, per Chicago Manual of Style, lines 80-95
+//
+import markdownItSup from 'markdown-it-sup'
 import { footnoteRef, footnoteTail } from './footnotes.js'
 import MarkdownIt from 'markdown-it'
 import anchorsPlugin from 'markdown-it-anchor'
@@ -29,6 +35,8 @@ export default function (eleventyConfig, options) {
     level: [1]
   }
 
+  console.log('MARKDOWNIFY PLUGIN')
+
   /**
    * @see https://github.com/arve0/markdown-it-attrs#usage
    */
@@ -44,6 +52,7 @@ export default function (eleventyConfig, options) {
     .use(bracketedSpansPlugin)
     .use(deflistPlugin)
     .use(footnotePlugin)
+    .use(markdownItSup)
 
   /**
    * Set recognition options for links without a schema
@@ -59,14 +68,32 @@ export default function (eleventyConfig, options) {
       return self.renderToken(tokens, idx, options)
     }
 
-  /**
-   * Render external links so that they open in a new tab
-   */
   markdownLibrary.renderer.rules.link_open = (tokens, idx, options, env, self) => {
+    /**
+     * Render external links so that they open in a new tab
+     */
     const href = tokens[idx].attrGet('href')
     if (href.startsWith('http')) {
       tokens[idx].attrSet('target', '_blank')
     }
+
+    /**
+     * Insert zero-width space with punctuation for better line breaks in URLs
+     * per Chicago Manual of Style
+     */
+    const linkTextIndex = idx + 1
+    const breakAfter = /([[\/]{2}|:])/g // double-slash and colon
+    const breakBefore = /([(?<!\/)\/(?!\/)|~|\.|,|_|?|#|%|=|+|&|-])/g // single-slash and others
+    const breakCharacter = '​' // zero-width space  
+
+    const linkText = tokens[linkTextIndex].content.includes('http') 
+      ? tokens[linkTextIndex].content
+        .replace(breakAfter, '$1' + breakCharacter)
+        .replace(breakBefore, breakCharacter + '$1')
+      : tokens[linkTextIndex].content
+    
+    tokens[linkTextIndex].content = linkText
+
     return defaultRender(tokens, idx, options, env, self)
   }
 

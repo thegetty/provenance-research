@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE 
+// Wrapped label in span for styling, and removed arrow graphic
+//
 /* eslint-disable camelcase */
 
 import { html, oneLine } from '#lib/common-tags/index.js'
@@ -15,11 +19,9 @@ import { html, oneLine } from '#lib/common-tags/index.js'
  */
 export default function (eleventyConfig) {
   const contributors = eleventyConfig.getFilter('contributors')
-  const icon = eleventyConfig.getFilter('icon')
   const markdownify = eleventyConfig.getFilter('markdownify')
   const pageTitle = eleventyConfig.getFilter('pageTitle')
   const removeHTML = eleventyConfig.getFilter('removeHTML')
-  const { contributorDivider } = eleventyConfig.globalData.config.tableOfContents
 
   return function (params) {
     const {
@@ -47,25 +49,25 @@ export default function (eleventyConfig) {
     const isPage = !!layout
 
     const pageContributorsElement = pageContributors
-      ? `<span class="contributor-divider">${contributorDivider}</span><span class="contributor">${contributors({ context: pageContributors, format: 'string' })}</span>`
+      ? `<span class="contributor">${contributors({ context: pageContributors, format: 'string' })}</span>`
       : ''
 
     let pageTitleElement
     if (presentation === 'brief') {
       pageTitleElement = short_title || title
     } else {
-      pageTitleElement = oneLine`${pageTitle({ label, subtitle, title })}${pageContributorsElement}`
+      pageTitleElement = oneLine`${pageTitle({ subtitle, title })}${pageContributorsElement}`
     }
 
-    const arrowIcon = `<span class="arrow" data-outputs-exclude="epub,pdf">${icon({ type: 'arrow-forward', description: '' })}</span>`
-
+    const pageLabelElement = label ? `<span class="page-label">${label}</span> ` : ''
+    
     // Returns abstract with any links stripped out
     const abstractText =
       presentation === 'abstract' && (abstract || summary)
         ? `<div class="abstract-text">${removeHTML(markdownify(abstract))}</div>`
         : ''
 
-    let mainElement = `${markdownify(pageTitleElement)}${isPage && !children ? arrowIcon : ''}`
+    let mainElement = `${pageLabelElement}${markdownify(pageTitleElement)}`
 
     if (isPage) {
       mainElement = `<a href="${page.url}">${mainElement}</a>`
