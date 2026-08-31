@@ -95,6 +95,11 @@ Add `-epub-pdf` suffix to section id and turn off `checkDuplicates` in `IdAttrib
 **_includes/components/copyright/licensing.js**
 Updated licensing language
 
+**_includes/components/head-tags/opengraph.js**
+**_includes/components/head-tags/twitter-card.js**
+**_includes/components/head.js**
+Update and clean-up handling for social sharing
+
 **_includes/components/license-icons.js**
 Remove icons from EPUB output to avoid validation issues with SVGs
 
