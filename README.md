@@ -1,4 +1,4 @@
-This is the repository for *Provenance Research for Mediterranean Antiquities*, edited by Judith Barr, Nicole Budrovich, and David Saunders. This digital book was first published Month, DD, YYYY, by the J. Paul Getty Museum. It is available online at https://www.getty.edu/publications/provenance-research/ and may be downloaded there free of charge in multiple formats.
+This is the repository for *Provenance Research for Mediterranean Antiquities*, edited by Judith Barr, Nicole Budrovich, and David Saunders. This digital book was first published August 31, 2026, by the J. Paul Getty Museum. It is available online at https://www.getty.edu/publications/provenance-research/ and may be downloaded there free of charge in multiple formats.
 
 ## About the Book
 

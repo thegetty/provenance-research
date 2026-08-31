@@ -27,7 +27,7 @@ description:
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2026-08-04 # YYYY-MM-DD
+pub_date: 2026-08-31 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
@@ -208,7 +208,7 @@ library_of_congress_cip: |
 # ------------------------------------------------------------------------------
 
 revision_history:
-  - date: August 4, 2026
+  - date: August 31, 2026
     summary: 
       - First edition
 
