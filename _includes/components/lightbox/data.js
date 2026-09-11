@@ -1,4 +1,5 @@
 import { html } from '#lib/common-tags/index.js'
+import path from 'node:path'
 
 /**
  * Quire lightboxData component
@@ -17,6 +18,7 @@ export default function (eleventyConfig) {
   const figureVideoElement = eleventyConfig.getFilter('figureVideoElement')
   const markdownify = eleventyConfig.getFilter('markdownify')
   const slugify = eleventyConfig.getFilter('slugify')
+  const { pathname } = eleventyConfig.globalData.publication
 
   /**
    * lightboxData shortcode component function
@@ -24,51 +26,49 @@ export default function (eleventyConfig) {
    * @return an HTML script element with JSON-serialized payload
    */
   return async function (data) {
-    const figures = await Promise.all(data.map(async (fig) => {
-      const {
-        caption,
-        credit,
-        id,
-        isSequence,
-        label,
-        mediaType
-      } = fig
+    const figures = await Promise.all(
+      data.map(async (fig) => {
+        const { caption, credit, id, isSequence, label, mediaType } = fig
+        fig.staticInlineFigureImage = path.posix.join(pathname, fig.staticInlineFigureImage)
 
-      const annotationsElementContent = !isSequence ? annotationsUI({ figure: fig, lightbox: true }) : undefined
-      const labelHtml = label ? markdownify(label) : undefined
-      const captionHtml = caption ? markdownify(caption) : undefined
-      const creditHtml = credit ? markdownify(caption) : undefined
-      const sluggedId = slugify(id)
+        const annotationsElementContent = !isSequence
+          ? annotationsUI({ figure: fig, lightbox: true })
+          : undefined
+        const labelHtml = label ? markdownify(label) : undefined
+        const captionHtml = caption ? markdownify(caption) : undefined
+        const creditHtml = credit ? markdownify(caption) : undefined
+        const sluggedId = slugify(id)
 
-      const mapped = {
-        ...fig,
-        annotationsElementContent,
-        captionHtml,
-        creditHtml,
-        labelHtml,
-        sluggedId
-      }
-
-      const isAudio = mediaType === 'soundcloud'
-      const isVideo = mediaType === 'video' || mediaType === 'vimeo' || mediaType === 'youtube'
-
-      const figureElement = async (figure) => {
-        switch (true) {
-          case isAudio:
-            return figureAudioElement(figure)
-          case mediaType === 'table':
-            return `<div class="overflow-container">${await figureTableElement(figure)}</div>`
-          case isVideo:
-            return figureVideoElement(figure)
-          case mediaType === 'image':
-          default:
-            return figureImageElement(figure, { preset: 'zoom', interactive: true })
+        const mapped = {
+          ...fig,
+          annotationsElementContent,
+          captionHtml,
+          creditHtml,
+          labelHtml,
+          sluggedId
         }
-      }
 
-      mapped.figureElementContent = await figureElement(fig)
-      return mapped
-    }))
+        const isAudio = mediaType === 'soundcloud'
+        const isVideo = mediaType === 'video' || mediaType === 'vimeo' || mediaType === 'youtube'
+
+        const figureElement = async (figure) => {
+          switch (true) {
+            case isAudio:
+              return figureAudioElement(figure)
+            case mediaType === 'table':
+              return `<div class="overflow-container">${await figureTableElement(figure)}</div>`
+            case isVideo:
+              return figureVideoElement(figure)
+            case mediaType === 'image':
+            default:
+              return figureImageElement(figure, { preset: 'zoom', interactive: true })
+          }
+        }
+
+        mapped.figureElementContent = await figureElement(fig)
+        return mapped
+      })
+    )
 
     const jsonData = JSON.stringify(figures)
 
