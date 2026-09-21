@@ -29,7 +29,9 @@ export default function (eleventyConfig) {
     const figures = await Promise.all(
       data.map(async (fig) => {
         const { caption, credit, id, isSequence, label, mediaType } = fig
-        fig.staticInlineFigureImage = path.posix.join(pathname, fig.staticInlineFigureImage)
+        if (!!pathname) {
+          fig.pathname = pathname
+        }
 
         const annotationsElementContent = !isSequence
           ? annotationsUI({ figure: fig, lightbox: true })
@@ -72,9 +74,8 @@ export default function (eleventyConfig) {
 
     const jsonData = JSON.stringify(figures)
 
-    return html`
-      <script type="application/json" class="q-lightbox-data" slot="data">
-        ${jsonData}
-      </script>`
+    return html` <script type="application/json" class="q-lightbox-data" slot="data">
+      ${jsonData}
+    </script>`
   }
 }
