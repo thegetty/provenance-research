@@ -1,6 +1,6 @@
 //
 // CUSTOMIZED FILE
-// Added class to <body> element for styling the cover page
+// Added class to <body> element for styling the cover page; and GA4 analytics tags
 //
 import path from 'node:path'
 import { html } from '#lib/common-tags/index.js'
@@ -17,13 +17,19 @@ export default async function (data) {
   const id = this.slugify(url) || path.parse(inputPath).name
   const pageId = `page-${id}`
   const figures = pageData.page.figures
+  const { googleId } = config.analytics
   const coverPageClass = url === '/' ? ' class="cover-page"' : ''
+
+  const analyticsSnippet = googleId 
+    ? `<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=${googleId}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>` 
+    : ''
 
   return html`
     <!doctype html>
     <html lang="${publication.language}">
       ${this.head(data)}
       <body${coverPageClass}>
+        ${analyticsSnippet}
         ${this.icons(data)}
         ${this.iconscc(data)}
         <div class="quire no-js" id="container">

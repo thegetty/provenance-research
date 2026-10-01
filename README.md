@@ -92,6 +92,10 @@ git clone --recursive https://github.com/thegetty/provenance-research.git
 **.eleventy.js**
 Add `-epub-pdf` suffix to section id and turn off `checkDuplicates` in `IdAttributePlugin` to avoid id duplication issues
 
+**_includes/components/analytics.js**
+**_layouts/base.11ty.js**
+Add GA4 analytics support
+
 **_includes/components/copyright/licensing.js**
 Updated licensing language
 
