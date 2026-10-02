@@ -12,7 +12,7 @@ import { html } from '#lib/common-tags/index.js'
  * @return     {Function}  Template render function
  */
 export default async function (data) {
-  const { classes, collections, content, pageData, publication } = data
+  const { classes, collections, config, content, pageData, publication } = data
   const { inputPath, outputPath, url } = pageData || {}
   const id = this.slugify(url) || path.parse(inputPath).name
   const pageId = `page-${id}`
